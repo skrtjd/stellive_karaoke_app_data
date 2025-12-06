@@ -1,0 +1,37 @@
+[
+  {
+    "mashupId": "lize_mashup_001",
+    "mashupTitle": "J-POP Mashup! vol.1",
+    "mainSong": {
+      "id": "lize_mashup_001",
+      "title": "J-POP Mashup! vol.1",
+      "originalArtist": "아카네 리제",
+      "tj": "12345",
+      "tj60": "67890",
+      "tj60mr": null,
+      "ky": "54321"
+    },
+    "tracks": [
+      { "title": "Butter-Fly", "originalArtist": "와다 코지" },
+      { "title": "プラチナ", "originalArtist": "坂本真綾" },
+      { "title": "secret base〜君がくれたもの〜", "originalArtist": "ZONE" }
+    ]
+  },
+  {
+    "mashupId": "lize_mashup_002",
+    "mashupTitle": "J-POP Mashup! vol.2",
+    "mainSong": {
+      "id": "lize_mashup_002",
+      "title": "J-POP Mashup! vol.2",
+      "originalArtist": "아카네 리제",
+      "tj": "22334",
+      "tj60": null,
+      "tj60mr": "99887",
+      "ky": "55443"
+    },
+    "tracks": [
+      { "title": "青いベンチ", "originalArtist": "サスケ" },
+      { "title": "小さな恋のうた", "originalArtist": "MONGOL800" }
+    ]
+  }
+]
