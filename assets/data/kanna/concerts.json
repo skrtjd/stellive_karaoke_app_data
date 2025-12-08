@@ -4,7 +4,7 @@
     "concertTitle": "AIRI KANNA 1st SOLO CONCERT 'KANNA'",
     "parts": [
       {
-        "partTitle": "본편",
+        "partTitle": "KANNA",
         "songs": [
           {
             "id": "KANNA_0001",
@@ -93,5 +93,6 @@
     ]
   }
 ]
+
 
 
