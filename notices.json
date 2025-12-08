@@ -1,9 +1,9 @@
-[
   //update: 데이터/ 기능
   //bugfix: 버그 수정
   //maintenance: 서버 점검/유지보수
   //event: 이벤트/캠페인
   //info: 일반 안내, 공지
+[
   {
     "id": "01",
     "type": "update",
