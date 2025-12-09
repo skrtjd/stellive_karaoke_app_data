@@ -1,26 +1,186 @@
 [
   {
-    "id": "song_0001",
-    "member": "하코스",
-    "title": "샘플 곡 1",
-    "originalArtist": "원곡 가수 A",
-    "tj": "12345",
-    "ky": "54321"
+    "title": "都落ち(낙향)",
+    "originalArtist": "ヨルシカ",
+    "tj": "68450",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "57789"
   },
   {
-    "id": "song_0002",
-    "member": "하코스",
-    "title": "샘플 곡 2",
-    "originalArtist": "원곡 가수 B",
-    "tj": "11111",
-    "ky": null
+    "title": "Drama",
+    "originalArtist": "IU",
+    "tj": "80824",
+    "tj60": "",
+    "tj60mr": "93710",
+    "ky": "28617"
   },
   {
-    "id": "song_0003",
-    "member": "이루하",
-    "title": "샘플 곡 3",
-    "originalArtist": "원곡 가수 C",
-    "tj": null,
-    "ky": "99999"
+    "title": "ただ君に晴れ(그저 네게 맑아라)",
+    "originalArtist": "ヨルシカ",
+    "tj": "68061",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  },
+  {
+    "title": "フィナーレ。(피날레)",
+    "originalArtist": "eill",
+    "tj": "68845",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "75842"
+  },
+  {
+    "title": "ラプンツェル(라푼젤)",
+    "originalArtist": "n-buna(feat.初音ミク)",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  },
+  {
+    "title": "Sweet Dreams, My Dear",
+    "originalArtist": "소향",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "82645"
+  },
+  {
+    "title": "春を待つ(봄을 기다리다)",
+    "originalArtist": "isui",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  },
+  {
+    "title": "17さいのうた。(17살의 노래)",
+    "originalArtist": "『ユイカ』",
+    "tj": "68708",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  },
+  {
+    "title": "I Really Want to Stay At Your House",
+    "originalArtist": "Rosa Walton,Hallie Coggins",
+    "tj": "79185",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  },
+  {
+    "title": "夜明けと蛍(새벽과 반딧불이)",
+    "originalArtist": "n-buna(feat.初音ミク)",
+    "tj": "27999",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "44116"
+  },
+  {
+    "title": "ハルカ(하루카)",
+    "originalArtist": "YOASOBI",
+    "tj": "68354",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "44642"
+  },
+  {
+    "title": "Alice in Musicland",
+    "originalArtist": "OSTER project",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  },
+  {
+    "title": "晩餐歌(만찬가)",
+    "originalArtist": "tuki.",
+    "tj": "52788",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "57828"
+  },
+  {
+    "title": "オレンジ(오렌지)",
+    "originalArtist": "7!!",
+    "tj": "28841",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "44269"
+  },
+  {
+    "title": "ロンリーユニバース(Lonely Universe)",
+    "originalArtist": "Aqu3ra(feat.初音ミク, v flower)",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  },
+  {
+    "title": "LADY",
+    "originalArtist": "米津玄師",
+    "tj": "68495",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "76514"
+  },
+  {
+    "title": "Summertime",
+    "originalArtist": "cinnamons,evening cinema",
+    "tj": "52757",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "76550"
+  },
+  {
+    "title": "群青(군청)",
+    "originalArtist": "YOASOBI",
+    "tj": "68390",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "44642"
+  },
+  {
+    "title": "悪魔の子(악마의 아이)",
+    "originalArtist": "ヒグチアイ",
+    "tj": "68571",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "44755"
+  },
+  {
+    "title": "愛して愛して愛して(사랑해줘 사랑해줘 사랑해줘)",
+    "originalArtist": "きくお(feat.初音ミク)",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  },
+  {
+    "title": "JANE DOE",
+    "originalArtist": "米津玄師 & 宇多田ヒカル",
+    "tj": "52972",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "57784"
+  },
+  {
+    "title": "金曜日のおはよう(금요일의 아침인사)",
+    "originalArtist": "HoneyWorks(Feat.GUMI)",
+    "tj": "28689",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "44146"
+  },
+  {
+    "title": "瞬き(깜빡임)",
+    "originalArtist": "back number",
+    "tj": "28816",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "44232"
   }
 ]
