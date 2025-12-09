@@ -26,3 +26,16 @@
     "tj60mr": "",
     "ky": ""
   }
+
+  -collabo.json
+{
+    "title": "",
+    "originalArtist": "",
+    "collaboWith": "",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  }
+
+  -playlist.json
