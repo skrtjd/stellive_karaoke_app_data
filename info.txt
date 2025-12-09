@@ -16,3 +16,13 @@
     "tj60mr": "",
     "ky": ""
   }
+
+  -cover.json
+{
+    "title": "",
+    "originalArtist": "",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  }
