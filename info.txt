@@ -52,7 +52,6 @@
     {
       "title": "",
       "originalArtist": "",
-      "collaboWith": "",
       "tj": "",
       "tj60": "",
       "tj60mr": "",
