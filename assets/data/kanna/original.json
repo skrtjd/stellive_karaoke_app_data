@@ -1,32 +1,30 @@
 [
   {
-    "id": "kanna_ori_001",
-    "member": "칸나",
     "title": "ADDICT!ON",
     "originalArtist": "아이리 칸나",
     "tj": "83718",
+    "tj60": ,
+    "tj60mr": ,
     "ky": "75422"
   },
   {
-    "id": "kanna_ori_002",
-    "member": "칸나",
-    "title": "최종화",
+    "title": "최종화(The Last Flower)",
     "originalArtist": "아이리 칸나",
     "tj": "44108",
+    "tj60": "",
     "tj60mr": "64454",
     "ky": "80603"
   },
   {
-    "id": "kanna_ori_003",
-    "member": "칸나",
     "title": "푸른 보석과 어린 용",
     "originalArtist": "아이리 칸나",
-    "tj": null,
-    "tj60": null,
-    "tj60mr": null,
+    "tj": "",
+    "tj60": ,
+    "tj60mr": ,
     "ky": "75695"
   }
 ]
+
 
 
 
