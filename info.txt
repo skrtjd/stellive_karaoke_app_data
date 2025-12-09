@@ -8,7 +8,8 @@
 
 <곡데이터.json>
   -original.json
-{
+[
+  {
     "title": "",
     "originalArtist": "",
     "tj": "",
@@ -16,9 +17,11 @@
     "tj60mr": "",
     "ky": ""
   }
+]
 
   -cover.json
-{
+[
+  {
     "title": "",
     "originalArtist": "",
     "tj": "",
@@ -26,9 +29,11 @@
     "tj60mr": "",
     "ky": ""
   }
+]
 
   -collabo.json
-{
+[
+  {
     "title": "",
     "originalArtist": "",
     "collaboWith": "",
@@ -37,5 +42,45 @@
     "tj60mr": "",
     "ky": ""
   }
+]
 
   -playlist.json
+[
+  {
+    "playlistTitle": "",
+    "songs": [
+    {
+      "title": "",
+      "originalArtist": "",
+      "collaboWith": "",
+      "tj": "",
+      "tj60": "",
+      "tj60mr": "",
+      "ky": ""
+    }
+    ]
+  }
+]
+
+  -concerts.json
+[
+  {
+    "concertId": "",
+    "concertTitlte": "",
+    "parts": [
+      {
+        "partTitle": "",
+        "songs": [
+          {
+            "title": "",
+            "originalArtist": "",
+            "tj": "",
+            "tj60": "",
+            "tj60mr": "",
+            "ky": ""
+          }
+        ]
+      }
+    ]
+  }
+]
