@@ -1,26 +1,34 @@
 [
   {
-    "id": "song_0001",
-    "member": "하코스",
-    "title": "샘플 곡 1",
-    "originalArtist": "원곡 가수 A",
-    "tj": "12345",
-    "ky": "54321"
+    "title": "내꺼 하는 법(How to be mine)",
+    "originalArtist": "아야츠노 유니",
+    "tj": "84251",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "99555"
   },
   {
-    "id": "song_0002",
-    "member": "하코스",
-    "title": "샘플 곡 2",
-    "originalArtist": "원곡 가수 B",
-    "tj": "11111",
-    "ky": null
+    "title": "SUPADOPA",
+    "originalArtist": "아야츠노 유니",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
   },
   {
-    "id": "song_0003",
-    "member": "이루하",
-    "title": "샘플 곡 3",
-    "originalArtist": "원곡 가수 C",
-    "tj": null,
-    "ky": "99999"
+    "title": "삐질게",
+    "originalArtist": "아야츠노 유니",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  },
+  {
+    "title": "CHEWING LUV",
+    "originalArtist": "아야츠노 유니",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
   }
 ]
