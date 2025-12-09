@@ -7,4 +7,12 @@
     //info: 일반 안내, 공지
 
 <곡데이터.json>
-  -
+  -original.json
+{
+    "title": "",
+    "originalArtist": "",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  }
