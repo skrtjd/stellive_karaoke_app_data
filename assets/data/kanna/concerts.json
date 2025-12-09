@@ -7,75 +7,75 @@
         "partTitle": "KANNA",
         "songs": [
           {
-            "id": "KANNA_0001",
             "title": "색채",
             "originalArtist": "아이리 칸나",
-            "tj": null,
+            "tj": "",
             "tj60": "",
-            "ky": null
+            "tj60mr": "",
+            "ky": ""
           },
           {
-            "id": "KANNA_0002",
             "title": "ADDICT!ON",
             "originalArtist": "아이리 칸나",
             "tj": "83718",
             "tj60": "",
+            "tj60mr": "",
             "ky": "75422"
           },
           {
-            "id": "KANNA_0003",
             "title": "この街には晴れがこない(이 거리에 맑은 날은 오지 않는다)",
             "originalArtist": "美波",
-            "tj": null,
+            "tj": "",
             "tj60": "",
-            "ky": null
+            "tj60mr": "",
+            "ky": ""
           },
           {
-            "id": "KANNA_0004",
             "title": "季節は次々死んでいく(계절은 차례차례 죽어간다)",
             "originalArtist": "amazarashi",
-            "tj": null,
+            "tj": "",
             "tj60": "28293",
-            "ky": null
+            "tj60mr": "",
+            "ky": ""
           },
           {
-            "id": "KANNA_0005",
             "title": "泥中に咲く(진흙 속에 피다)",
             "originalArtist": "ウォルピスカーター",
             "tj": "68126",
             "tj60": "",
-            "ky": null
+            "tj60mr": "",
+            "ky": ""
           },
           {
-            "id": "KANNA_0006",
             "title": "최종화(The Last Flower)",
             "originalArtist": "아이리 칸나",
             "tj": "44108",
+            "tj60": "",
             "tj60mr": "64454",
             "ky": "80603"
           },
           {
-            "id": "KANNA_0007",
             "title": "DIARY",
             "originalArtist": "KK(上北健)",
             "tj": "28761",
             "tj60": "",
+            "tj60mr": "",
             "ky": "44205"
           },
           {
-            "id": "KANNA_0008",
             "title": "僕のこと(나라는 것)",
             "originalArtist": "Mrs. GREEN APPLE",
             "tj": "68248",
             "tj60": "",
+            "tj60mr": "",
             "ky": "44894"
           },
           {
-            "id": "KANNA_0009",
             "title": "푸른 보석과 어린 용",
             "originalArtist": "아이리 칸나",
-            "tj": null,
+            "tj": "",
             "tj60": "",
+            "tj60mr": "",
             "ky": "75695"
           }
         ]
@@ -84,8 +84,25 @@
   },
   {
     "concertId": "kanna_last",
-    "concertTitle": "AIRI KANNA LAST CONCERT 💙",
+    "concertTitle": "💎AIRI KANNA LAST CONCERT💎",
     "parts": [
+      {
+        "partTitle": "1부",
+        "songs": [
+          {
+            "title": "",
+            "originalArtist": "",
+            "tj": "",
+            "tj60": "",
+            "tj60mr": "",
+            "ky": ""
+          }
+        ]
+      },
+      {
+        "partTitle": "1부",
+        "songs": []
+      },
       {
         "partTitle": "1부",
         "songs": []
@@ -93,6 +110,7 @@
     ]
   }
 ]
+
 
 
 
