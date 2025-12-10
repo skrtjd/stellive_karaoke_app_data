@@ -1,0 +1,14 @@
+{
+  "yuni":   ["original", "cover", "collabo", "playlist", "concert"],
+  "huya":   ["original", "cover"],
+  "hina":   ["original", "cover", "collabo", "playlist"],
+  "mashiro":  ["original", "cover", "playlist"],
+  "lize":  ["original", "cover", "collabo", "mashup"],
+  "tabi":  ["original", "cover"],
+  "shibuki":  ["original", "cover", "collabo"],
+  "rin":  ["original", "cover", "collabo", "playlist"],
+  "nana":  ["original", "cover", "collabo"],
+  "riko":  ["original", "cover", "collabo"],
+  "kanna":  ["original", "cover", "collabo", "playlist", "concert"],
+  "GS":     ["original", "cover", "concert"]
+}
