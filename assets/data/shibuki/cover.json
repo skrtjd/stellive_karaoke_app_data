@@ -1,26 +1,98 @@
 [
   {
-    "id": "song_0001",
-    "member": "하코스",
-    "title": "샘플 곡 1",
-    "originalArtist": "원곡 가수 A",
-    "tj": "12345",
-    "ky": "54321"
+    "title": "あんたにあっかんべ(너에게 메롱)",
+    "originalArtist": "一二三",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
   },
   {
-    "id": "song_0002",
-    "member": "하코스",
-    "title": "샘플 곡 2",
-    "originalArtist": "원곡 가수 B",
-    "tj": "11111",
-    "ky": null
+    "title": "여우비(낮에뜨는달X츄(CHUU))",
+    "originalArtist": "츄(Chuu)",
+    "tj": "85689",
+    "tj60": "",
+    "tj60mr": "64340",
+    "ky": "80628"
   },
   {
-    "id": "song_0003",
-    "member": "이루하",
-    "title": "샘플 곡 3",
-    "originalArtist": "원곡 가수 C",
-    "tj": null,
-    "ky": "99999"
+    "title": "レオ(Leo)",
+    "originalArtist": "優里",
+    "tj": "52773",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "57826"
+  },
+  {
+    "title": "Sabotage",
+    "originalArtist": "緑黄色社会",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  },
+  {
+    "title": "冬のプレゼント(겨울의 선물)",
+    "originalArtist": "もさを。",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  },
+  {
+    "title": "SOS",
+    "originalArtist": "黛 冬優子",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  },
+  {
+    "title": "ねえねえねえ。(있잖아 있잖아 있잖아)",
+    "originalArtist": "ピノキオピー(feat.鏡音リン, 初音ミク)",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  },
+  {
+    "title": "睨めっ娘(눈싸움)",
+    "originalArtist": "友成空",
+    "tj": "52776",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "57829"
+  },
+  {
+    "title": "UNDEAD",
+    "originalArtist": "YOASOBI",
+    "tj": "52595",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  },
+  {
+    "title": "青と夏(푸름과 여름)",
+    "originalArtist": "Mrs. GREEN APPLE",
+    "tj": "68127",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  },
+  {
+    "title": "KING",
+    "originalArtist": "KANARIA(feat.GUMI)",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  },
+  {
+    "title": "命に嫌われている。(생명에게 미움받고 있어.)",
+    "originalArtist": "カンザキイオリ(Feat.初音ミク)",
+    "tj": "68051",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
   }
 ]
