@@ -230,7 +230,7 @@
 			},
 			{
 				"title": "マトリョシカ(마트료시카)",
-				"originalArtist": "ハチ(Feat.初音ミク,GUMI)",
+				"originalArtist": "ハチ(feat.初音ミク,GUMI)",
 				"tj": "28269",
 				"tj60": "",
 				"tj60mr": "",
@@ -345,12 +345,116 @@
 		"playlustTitle": "차가운 멜로디에 따듯한 린 한 스푼 담아 당신께 드릴게요...☕ ♨️",
 		"songs": [
 			{
-				"title": "",
-				"originalArtist": "",
+				"title": "エイリアンエイリアン(에일리언 에일리언)",
+				"originalArtist": "ナユタン星人(feat.初音ミク)",
+				"tj": "27961",
+				"tj60": "",
+				"tj60mr": "",
+				"ky": "44079"
+			},
+			{
+				"title": "ケッペキショウ(결벽증)",
+				"originalArtist": "すこっぷ(feat.GUMI)",
+				"tj": "28673",
+				"tj60": "",
+				"tj60mr": "",
+				"ky": "44135"
+			},
+			{
+				"title": "ハッピーシンセサイザ(해피 신디사이저)",
+				"originalArtist": "巡音ルカ,GUMI",
+				"tj": "27289",
+				"tj60": "",
+				"tj60mr": "",
+				"ky": "43515"
+			},
+			{
+				"title": "自堕楽(스스로 안락에 빠지다)",
+				"originalArtist": "こめだわら(feat.音街ウナ)",
 				"tj": "",
 				"tj60": "",
 				"tj60mr": "",
 				"ky": ""
+			},
+			{
+				"title": "CH4NGE",
+				"originalArtist": "Giga(feat.可不)",
+				"tj": "",
+				"tj60": "",
+				"tj60mr": "",
+				"ky": ""
+			},
+			{
+				"title": "ペイメント(페이먼트)",
+				"originalArtist": "Heavenz(feat.初音ミク)",
+				"tj": "",
+				"tj60": "",
+				"tj60mr": "",
+				"ky": ""
+			},
+			{
+				"title": "サリシノハラ(사리시노하라)",
+				"originalArtist": "みきとP(feat.初音ミク)",
+				"tj": "27933",
+				"tj60": "",
+				"tj60mr": "",
+				"ky": "44055"
+			},
+			{
+				"title": "てのひらワンダーランド(손바닥 원더랜드)",
+				"originalArtist": "ササノマリイ",
+				"tj": "",
+				"tj60": "68083",
+				"tj60mr": "",
+				"ky": "44436"
+			},
+			{
+				"title": "蜜月アン・ドゥ・トロワ(밀월 Un Deux Trois)",
+				"originalArtist": "鏡音リン",
+				"tj": "",
+				"tj60": "",
+				"tj60mr": "",
+				"ky": ""
+			},
+			{
+				"title": "おじゃま虫(방해쟁이)",
+				"originalArtist": "DECO*27(feat.初音ミク)",
+				"tj": "68016",
+				"tj60": "",
+				"tj60mr": "",
+				"ky": "44395"
+			},
+			{
+				"title": "酔いどれ知らず(취한 줄을 모르고)",
+				"originalArtist": "KANARIA(feat.GUMI)",
+				"tj": "",
+				"tj60": "",
+				"tj60mr": "",
+				"ky": ""
+			},
+			{
+				"title": "声(목소리)",
+				"originalArtist": "HarryP(feat.初音ミク)",
+				"tj": "",
+				"tj60": "",
+				"tj60mr": "",
+				"ky": ""
+			},
+			{
+				"title": "林檎売りの泡沫少女(사과팔이 물거품 소녀)",
+				"originalArtist": "yukkedoluce(feat.GUMI)",
+				"tj": "",
+				"tj60": "",
+				"tj60mr": "",
+				"ky": ""
+			},
+			{
+				"title": "夜明けと蛍(새벽과 반딧불이)",
+				"originalArtist": "n-buna(feat.初音ミク)",
+				"tj": "27999",
+				"tj60": "",
+				"tj60mr": "",
+				"ky": "44116"
 			}
 		]
 	},
@@ -368,6 +472,7 @@
 		]
 	}
 ]
+
 
 
 
