@@ -1,20 +1,41 @@
 [
-{
+  {
+    "title": "끝나지 않은 노래",
+    "originalArtist": "지인",
+    "collaboWith": "명조:워더링 웨이브",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  },
+  {
     "title": "목숨",
+    "originalArtist": "아카네 리제",
     "collaboWith": "Miiro",
     "tj": "87849",
-    "ky": null
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
   },
-{
+  {
     "title": "Ready to Fire!",
+    "originalArtist": "아카네 리제",
     "collaboWith": "World of Tanks",
-    "tj": null,
-    "ky": null
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
   },
-{
+  {
     "title": "DIVE 2 FIGHT",
+    "originalArtist": "아카네 리제",
     "collaboWith": "2XKO",
-    "tj": null,
-    "ky": null
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
   }
 ]
+
+
+
