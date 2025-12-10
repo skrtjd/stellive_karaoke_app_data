@@ -1,11 +1,210 @@
 [
   {
-    "id": "lize_cover_006",
-    "member": "리제",
+    "title": "怪物(괴물)",
+    "originalArtist": "YOASOBI",
+    "tj": "68387",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "44655"
+  },
+  {
+    "title": "僕のこと(나라는 것)",
+    "originalArtist": "Mrs.GREENAPPLE",
+    "tj": "68248",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "44894"
+  },
+  {
+    "title": "雪解け(눈이 녹을 때)",
+    "originalArtist": "isui",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  },
+  {
+    "title": "絶頂讃歌(절정찬가)",
+    "originalArtist": "和ぬか",
+    "tj": "52727",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "76530"
+  },
+  {
+    "title": "うたたね(선잠)",
+    "originalArtist": "Leina",
+    "tj": "68961",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "57805"
+  },
+  {
     "title": "怪獣の花唄(괴수의 꽃노래)",
     "originalArtist": "Vaundy",
     "tj": "52988",
-    "tj60": null,
-    "ky": null
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  },
+  {
+    "title": "プライド革命(프라이드 혁명)",
+    "originalArtist": "CHiCO with HoneyWorks",
+    "tj": "27767",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "43944"
+  },
+  {
+    "title": "メルト(Melt)",
+    "originalArtist": "初音ミク",
+    "tj": "26749",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "42670"
+  },
+  {
+    "title": "Drowning",
+    "originalArtist": "WOODZ(조승연)",
+    "tj": "83945",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "80979"
+  },
+  {
+    "title": "Viva La Vida",
+    "originalArtist": "Coldplay",
+    "tj": "21847",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "60148"
+  },
+  {
+    "title": "蜜月アン・ドゥ・トロワ(밀월 Un Deux Trois)",
+    "originalArtist": "鏡音リン",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  },
+  {
+    "title": "APT.",
+    "originalArtist": "로제(ROSE),Bruno Mars",
+    "tj": "43681",
+    "tj60": "",
+    "tj60mr": "64435",
+    "ky": "71735"
+  },
+  {
+    "title": "アスノヨゾラ哨戒班(내일의 밤하늘 초계반)",
+    "originalArtist": "Orangestar(Feat.IA)",
+    "tj": "27984",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "44091"
+  },
+  {
+    "title": "サクラキミワタシ(벚꽃, 너, 그리고 나)",
+    "originalArtist": "tuki.",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  },
+  {
+    "title": "シル・ヴ・プレジデント (실・부・프레지던트)",
+    "originalArtist": "P丸様。",
+    "tj": "68442",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "44688"
+  },
+  {
+    "title": "ヴァンパイア(뱀파이어)",
+    "originalArtist": "DECO*27(feat.初音ミク)",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  },
+  {
+    "title": "酔いどれ知らず(취한 줄을 모르고)",
+    "originalArtist": "KANARIA(feat.GUMI)",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  },
+  {
+    "title": "Golden",
+    "originalArtist": "HUNTR/X",
+    "tj": "88040",
+    "tj60": "",
+    "tj60mr": "64579",
+    "ky": "56569"
+  },
+  {
+    "title": "シャンティ(SHANTI)",
+    "originalArtist": "wotaku(feat.KAITO)",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  },
+  {
+    "title": "Surges",
+    "originalArtist": "Orangestar(feat.IA, 初音ミク)",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  },
+  {
+    "title": "プロポーズ(프로포즈)",
+    "originalArtist": "なとり",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  },
+  {
+    "title": "Bunny Girl",
+    "originalArtist": "AKASAKI",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  },
+  {
+    "title": "가면무도회",
+    "originalArtist": "비비(BIBI)",
+    "tj": "82374",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "24352"
+  },
+  {
+    "title": "JANE DOE",
+    "originalArtist": "米津玄師 & 宇多田ヒカル",
+    "tj": "52972",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "57784"
+  },
+  {
+    "title": "Star Walkin’",
+    "originalArtist": "Lil Nas X",
+    "tj": "79076",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "96078"
+  },
+  {
+    "title": "抜錨(발묘)",
+    "originalArtist": "ナナホシ管弦楽団(feat.巡音ルカ)",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
   }
 ]
