@@ -128,12 +128,76 @@
 		"playlustTitle": "오타쿠란..무언가에 강하게 몰두하는 사람이라는 뜻이야✨",
 		"songs": [
 			{
-				"title": "",
-				"originalArtist": "",
-				"tj": "",
+				"title": "残酷な天使のテーゼ(잔혹한 천사의 테제)",
+				"originalArtist": "高橋洋子",
+				"tj": "25246",
 				"tj60": "",
 				"tj60mr": "",
+				"ky": "41645"
+			},
+			{
+				"title": "シルエット(실루엣)",
+				"originalArtist": "KANA-BOON",
+				"tj": "",
+				"tj60": "28214",
+				"tj60mr": "",
+				"ky": "43862"
+			},
+			{
+				"title": "乱舞のメロディ(난무의 멜로디)",
+				"originalArtist": "シド",
+				"tj": "",
+				"tj60": "28311",
+				"tj60mr": "",
 				"ky": ""
+			},
+			{
+				"title": "フィナーレ。(피날레)",
+				"originalArtist": "eill",
+				"tj": "68845",
+				"tj60": "",
+				"tj60mr": "",
+				"ky": "75842"
+			},
+			{
+				"title": "優しさの理由(상냥함의 이유)",
+				"originalArtist": "ChouCho",
+				"tj": "",
+				"tj60": "27542",
+				"tj60mr": "",
+				"ky": "43501"
+			},
+			{
+				"title": "季節は次々死んでいく(계절은 차례차례 죽어간다)",
+				"originalArtist": "amazarashi",
+				"tj": "",
+				"tj60": "28293",
+				"tj60mr": "",
+				"ky": "43893"
+			},
+			{
+				"title": "残響散歌(잔향산가)",
+				"originalArtist": "Aimer",
+				"tj": "68552",
+				"tj60": "",
+				"tj60mr": "",
+				"ky": "44749"
+			},
+			{
+				"title": "God Knows...",
+				"originalArtist": "涼宮ハルヒ(平野綾)",
+				"tj": "26235",
+				"tj60": "",
+				"tj60mr": "",
+				"ky": "40798"
+			},
+			{
+				"title": "第ゼロ感(제제로감)",
+				"originalArtist": "10-FEET",
+				"tj": "68732",
+				"tj60": "",
+				"tj60mr": "",
+				"ky": "44880"
 			}
 		]
 	},
@@ -177,4 +241,5 @@
 		]
 	}
 ]
+
 
