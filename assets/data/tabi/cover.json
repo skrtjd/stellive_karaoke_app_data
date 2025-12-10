@@ -1,26 +1,106 @@
 [
   {
-    "id": "song_0001",
-    "member": "하코스",
-    "title": "샘플 곡 1",
-    "originalArtist": "원곡 가수 A",
-    "tj": "12345",
-    "ky": "54321"
+    "title": "あの夏のいつかは(그 여름의 어느 날은)",
+    "originalArtist": "*Luna(feat.音街ウナ, Rana)",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
   },
   {
-    "id": "song_0002",
-    "member": "하코스",
-    "title": "샘플 곡 2",
-    "originalArtist": "원곡 가수 B",
-    "tj": "11111",
-    "ky": null
+    "title": "あの夏に咲け(그 여름에 피어나)",
+    "originalArtist": "ヨルシカ",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
   },
   {
-    "id": "song_0003",
-    "member": "이루하",
-    "title": "샘플 곡 3",
-    "originalArtist": "원곡 가수 C",
-    "tj": null,
-    "ky": "99999"
+    "title": "낮에 뜨는 달",
+    "originalArtist": "안예은",
+    "tj": "83299",
+    "tj60": "",
+    "tj60mr": "64242",
+    "ky": "80711"
+  },
+  {
+    "title": "첫사랑",
+    "originalArtist": "백아",
+    "tj": "78872",
+    "tj60": "",
+    "tj60mr": "93799",
+    "ky": "23292"
+  },
+  {
+    "title": "HERO",
+    "originalArtist": "루시",
+    "tj": "76423",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "95844"
+  },
+  {
+    "title": "BE SOMEBODY",
+    "originalArtist": "육성재",
+    "tj": "86778",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "75161"
+  },
+  {
+    "title": "死神(사신)",
+    "originalArtist": "米津玄師",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  },
+  {
+    "title": "さよーならまたいつか！(안녕, 또 언젠가!)",
+    "originalArtist": "米津玄師",
+    "tj": "52580",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "75948"
+  },
+  {
+    "title": "새봄의 노래(Beginning)",
+    "originalArtist": "도영(DOYOUNG)",
+    "tj": "86759",
+    "tj60": "",
+    "tj60mr": "64390",
+    "ky": "75077"
+  },
+  {
+    "title": "야화(Night Flower)",
+    "originalArtist": "안예은",
+    "tj": "80233",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "28560"
+  },
+  {
+    "title": "Ref:rain",
+    "originalArtist": "Aimer",
+    "tj": "28832",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "44252"
+  },
+  {
+    "title": "Healer",
+    "originalArtist": "데이식스",
+    "tj": "76715",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  },
+  {
+    "title": "SODA POP",
+    "originalArtist": "Saja Boys",
+    "tj": "88056",
+    "tj60": "",
+    "tj60mr": "64581",
+    "ky": "56593"
   }
 ]
