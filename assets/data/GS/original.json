@@ -1,26 +1,50 @@
 [
   {
-    "id": "song_0001",
-    "member": "하코스",
-    "title": "샘플 곡 1",
-    "originalArtist": "원곡 가수 A",
-    "tj": "12345",
-    "ky": "54321"
+    "title": "Milky Way",
+    "originalArtist": "스텔라이브",
+    "tj": "86060",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "82704"
   },
   {
-    "id": "song_0002",
-    "member": "하코스",
-    "title": "샘플 곡 2",
-    "originalArtist": "원곡 가수 B",
-    "tj": "11111",
-    "ky": null
+    "title": "Starry Way",
+    "originalArtist": "스텔라이브",
+    "tj": "86334",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
   },
   {
-    "id": "song_0003",
-    "member": "이루하",
-    "title": "샘플 곡 3",
-    "originalArtist": "원곡 가수 C",
-    "tj": null,
-    "ky": "99999"
+    "title": "Hit On Shot",
+    "originalArtist": "아이리 칸나, 아카네 리제",
+    "tj": "77929",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "75007"
+  },
+  {
+    "title": "Dear My Fairy",
+    "originalArtist": "시라유키 히나, 네네코 마시로",
+    "tj": "44461",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  },
+  {
+    "title": "Stars Align",
+    "originalArtist": "Universe",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  },
+  {
+    "title": "Our Tales",
+    "originalArtist": "Cliché",
+    "tj": "43527",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
   }
 ]
