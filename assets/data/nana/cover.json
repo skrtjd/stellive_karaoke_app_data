@@ -1,111 +1,31 @@
 [
   {
-    "title": "怪物(괴물)",
-    "originalArtist": "YOASOBI",
-    "tj": "68387",
-    "tj60": "",
-    "tj60mr": "",
-    "ky": "44655"
-  },
-  {
-    "title": "僕のこと(나라는 것)",
-    "originalArtist": "Mrs.GREEN APPLE",
-    "tj": "68248",
-    "tj60": "",
-    "tj60mr": "",
-    "ky": "44894"
-  },
-  {
-    "title": "雪解け(눈이 녹을 때)",
-    "originalArtist": "isui",
+    "title": "偽顔(가짜얼굴)",
+    "originalArtist": "yama",
     "tj": "",
     "tj60": "",
     "tj60mr": "",
-    "ky": ""
+    "ky": "75985"
   },
   {
-    "title": "絶頂讃歌(절정찬가)",
-    "originalArtist": "和ぬか",
-    "tj": "52727",
+    "title": "青い珊瑚礁(푸른 산호초)",
+    "originalArtist": "松田聖子",
+    "tj": "27121",
     "tj60": "",
     "tj60mr": "",
-    "ky": "76530"
+    "ky": "40403"
   },
   {
-    "title": "うたたね(선잠)",
-    "originalArtist": "Leina",
-    "tj": "68961",
+    "title": "サムライハート(Some Like it Hot)",
+    "originalArtist": "SPYAIR",
+    "tj": "27527",
     "tj60": "",
     "tj60mr": "",
-    "ky": "57805"
+    "ky": "43372"
   },
   {
-    "title": "怪獣の花唄(괴수의 꽃노래)",
-    "originalArtist": "Vaundy",
-    "tj": "52988",
-    "tj60": "",
-    "tj60mr": "",
-    "ky": ""
-  },
-  {
-    "title": "プライド革命(프라이드 혁명)",
-    "originalArtist": "CHiCO with HoneyWorks",
-    "tj": "27767",
-    "tj60": "",
-    "tj60mr": "",
-    "ky": "43944"
-  },
-  {
-    "title": "メルト(Melt)",
-    "originalArtist": "初音ミク",
-    "tj": "26749",
-    "tj60": "",
-    "tj60mr": "",
-    "ky": "42670"
-  },
-  {
-    "title": "Drowning",
-    "originalArtist": "WOODZ(조승연)",
-    "tj": "83945",
-    "tj60": "",
-    "tj60mr": "",
-    "ky": "80979"
-  },
-  {
-    "title": "Viva La Vida",
-    "originalArtist": "Coldplay",
-    "tj": "21847",
-    "tj60": "",
-    "tj60mr": "",
-    "ky": "60148"
-  },
-  {
-    "title": "蜜月アン・ドゥ・トロワ(밀월 Un Deux Trois)",
-    "originalArtist": "鏡音リン",
-    "tj": "",
-    "tj60": "",
-    "tj60mr": "",
-    "ky": ""
-  },
-  {
-    "title": "APT.",
-    "originalArtist": "로제(ROSE),Bruno Mars",
-    "tj": "43681",
-    "tj60": "",
-    "tj60mr": "64435",
-    "ky": "71735"
-  },
-  {
-    "title": "アスノヨゾラ哨戒班(내일의 밤하늘 초계반)",
-    "originalArtist": "Orangestar(Feat.IA)",
-    "tj": "27984",
-    "tj60": "",
-    "tj60mr": "",
-    "ky": "44091"
-  },
-  {
-    "title": "サクラキミワタシ(벚꽃, 너, 그리고 나)",
-    "originalArtist": "tuki.",
+    "title": "神っぽいな(신 같네)",
+    "originalArtist": "ピノキオピー(feat.初音ミク)",
     "tj": "",
     "tj60": "",
     "tj60mr": "",
@@ -120,7 +40,23 @@
     "ky": "44688"
   },
   {
-    "title": "ヴァンパイア(뱀파이어)",
+    "title": "怪飛行艇(비행정)",
+    "originalArtist": "King Gnu",
+    "tj": "68135",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "44499"
+  },
+  {
+    "title": "Beyond the way",
+    "originalArtist": "Giga(feat.初音ミク, 鏡音リン, 鏡音レン)",
+    "tj": "",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
+  },
+  {
+    "title": "モニタリング(모니터링)",
     "originalArtist": "DECO*27(feat.初音ミク)",
     "tj": "",
     "tj60": "",
@@ -128,60 +64,60 @@
     "ky": ""
   },
   {
-    "title": "酔いどれ知らず(취한 줄을 모르고)",
-    "originalArtist": "KANARIA(feat.GUMI)",
+    "title": "Grand Escape(グランドエスケープ)",
+    "originalArtist": "RADWIMPS(feat.三浦透子)",
+    "tj": "68067",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "44423"
+  },
+  {
+    "title": "Enemy",
+    "originalArtist": "Imagine Dragons,J.I.D,League of Legends",
+    "tj": "23821",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "95001"
+  },
+  {
+    "title": "걘 아니야 Pt.1",
+    "originalArtist": "지코",
+    "tj": "24266",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "95696"
+  },
+  {
+    "title": "死ぬのがいいわ(죽는 게 나아)",
+    "originalArtist": "藤井風",
+    "tj": "68803",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "76521"
+  },
+  {
+    "title": "Summer",
+    "originalArtist": "Paul Blanco(feat.BE'O(비오))",
+    "tj": "81810",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "24102	"
+  },
+  {
+    "title": "テレパシ(텔레파시)",
+    "originalArtist": "DECO*27(feat.初音ミク)",
     "tj": "",
     "tj60": "",
     "tj60mr": "",
     "ky": ""
   },
   {
-    "title": "Golden",
-    "originalArtist": "HUNTR/X",
-    "tj": "88040",
-    "tj60": "",
-    "tj60mr": "64579",
-    "ky": "56569"
-  },
-  {
-    "title": "シャンティ(SHANTI)",
-    "originalArtist": "wotaku(feat.KAITO)",
+    "title": "オドループ(오도루프)",
+    "originalArtist": "フレデリック",
     "tj": "",
     "tj60": "",
     "tj60mr": "",
-    "ky": ""
-  },
-  {
-    "title": "Surges",
-    "originalArtist": "Orangestar(feat.IA, 初音ミク)",
-    "tj": "",
-    "tj60": "",
-    "tj60mr": "",
-    "ky": ""
-  },
-  {
-    "title": "プロポーズ(프로포즈)",
-    "originalArtist": "なとり",
-    "tj": "",
-    "tj60": "",
-    "tj60mr": "",
-    "ky": ""
-  },
-  {
-    "title": "Bunny Girl",
-    "originalArtist": "AKASAKI",
-    "tj": "",
-    "tj60": "",
-    "tj60mr": "",
-    "ky": ""
-  },
-  {
-    "title": "가면무도회",
-    "originalArtist": "비비(BIBI)",
-    "tj": "82374",
-    "tj60": "",
-    "tj60mr": "",
-    "ky": "24352"
+    "ky": "44478"
   },
   {
     "title": "JANE DOE",
@@ -192,19 +128,20 @@
     "ky": "57784"
   },
   {
-    "title": "Star Walkin’",
-    "originalArtist": "Lil Nas X",
-    "tj": "79076",
-    "tj60": "",
-    "tj60mr": "",
-    "ky": "96078"
-  },
-  {
-    "title": "抜錨(발묘)",
-    "originalArtist": "ナナホシ管弦楽団(feat.巡音ルカ)",
+    "title": "ヒビカセ(울려퍼져라)",
+    "originalArtist": "Giga(feat.初音ミク)",
     "tj": "",
     "tj60": "",
     "tj60mr": "",
     "ky": ""
+  },
+  {
+    "title": "水平線(수평선)",
+    "originalArtist": "back number",
+    "tj": "68446",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": "44701"
   }
 ]
+
