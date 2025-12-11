@@ -1,26 +1,20 @@
 [
   {
-    "id": "song_0001",
-    "member": "하코스",
-    "title": "샘플 곡 1",
-    "originalArtist": "원곡 가수 A",
-    "tj": "12345",
-    "ky": "54321"
+    "title": "Born To Run",
+    "originalArtist": "하나코 나나",
+    "collaboWith": "봉누도 OST",
+    "tj": "87849",
+    "tj60": "",
+    "tj60mr": "",
+    "ky": ""
   },
   {
-    "id": "song_0002",
-    "member": "하코스",
-    "title": "샘플 곡 2",
-    "originalArtist": "원곡 가수 B",
-    "tj": "11111",
-    "ky": null
-  },
-  {
-    "id": "song_0003",
-    "member": "이루하",
-    "title": "샘플 곡 3",
-    "originalArtist": "원곡 가수 C",
-    "tj": null,
-    "ky": "99999"
+    "title": "TOMBOY",
+    "originalArtist": "(여자)아이들",
+    "collaboWith": "토도로키 하지메",
+    "tj": "81343",
+    "tj60": "",
+    "tj60mr": "93730",
+    "ky": "23767"
   }
 ]
