@@ -1,35 +1,21 @@
 [
   {
-    "playlistTitle": "과열된 너희들의 뇌를 차갑게 식혀주는 냉동고가 되어줄게 💙 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭",
-    "songs": [
-      { "id": "song001", 
-	"title": "...", 
-	"originalArtist": "...", 
-	"tj": "...", 
-	"ky": "..." 
-	},
-      { "id": "song002", 
-	"title": "...", 
-	"originalArtist": "...", 
-	"tj": "...", 
-	"ky": "..." 
-	},
+    "concertId": "STAR TRAIL",
+    "concertTitle": "STAR TRAIL",
+    "parts": [
+      {
+        "partTitle": "",
+        "songs": [
+          {
+            "title": "",
+            "originalArtist": "",
+            "tj": "",
+            "tj60": "",
+            "tj60mr": "",
+            "ky": ""
+          }
+        ]
+      }
     ]
-  },
-  {
-    "playlistTitle": "오타쿠란..무언가에 강하게 몰두하는 사람이라는 뜻이야✨ 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭",
-    "songs": [ ... ]
-  },
-  {
-    "playlistTitle": "10만 분의 1초라도 너와 함께라면, 그 시간은 영원히 소중해💫 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭",
-    "songs": [ ... ]
-  },
-  {
-    "playlistTitle": "차가운 멜로디에 따듯한 린 한 스푼 담아 당신께 드릴게요...☕ ♨️ 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭",
-    "songs": [ ... ]
-  },
-  {
-    "playlistTitle": "다가올 매일매일이 너와 함께라서 행복해 🌸 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭",
-    "songs": [ ... ]
   }
 ]
