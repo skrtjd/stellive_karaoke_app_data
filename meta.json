@@ -3,12 +3,39 @@
   "files": [
     "yuni/original.json",
     "yuni/cover.json",
-    "yuni/collabo.json",
-    "yuni/playlist.json",
     "kanna/original.json",
     "kanna/cover.json",
     "kanna/collabo.json",
-    "kanna/playlist.json"
-    // ... 나머지 멤버들 전부
+    "kanna/playlist.json",
+    "kanna/concert.json",
+    "huya/original.json",
+    "huya/cover.json",
+    "hina/original.json",
+    "hina/collabo.json",
+    "hina/cover.json",
+    "hina/playlist.json",
+    "mashiro/original.json",
+    "mashiro/cover.json",
+    "mashiro/playlist.json",
+    "lize/original.json",
+    "lize/collabo.json",
+    "lize/cover.json",
+    "lize/mashup.json",
+    "tabi/original.json",
+    "tabi/cover.json",
+    "shibuki/original.json",
+    "shibuki/collabo.json",
+    "shibuki/cover.json",
+    "rin/original.json",
+    "rin/collabo.json",
+    "rin/cover.json",
+    "rin/playlist.json",
+    "nana/original.json",
+    "nana/collabo.json",
+    "nana/cover.json",
+    "riko/original.json",
+    "riko/collabo.json",
+    "riko/cover.json"
   ]
 }
+
