@@ -3,6 +3,7 @@
   "files": [
     "yuni/original.json",
     "yuni/cover.json",
+    "yuni/concerts.json",
     "kanna/original.json",
     "kanna/cover.json",
     "kanna/collabo.json",
@@ -41,5 +42,3 @@
     "GS/original.json"
   ]
 }
-
-
