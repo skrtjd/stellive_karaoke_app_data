@@ -7,7 +7,7 @@
     "kanna/cover.json",
     "kanna/collabo.json",
     "kanna/playlist.json",
-    "kanna/concert.json",
+    "kanna/concerts.json",
     "huya/original.json",
     "huya/cover.json",
     "hina/original.json",
@@ -35,7 +35,11 @@
     "nana/cover.json",
     "riko/original.json",
     "riko/collabo.json",
-    "riko/cover.json"
+    "riko/cover.json",
+    "GS/concerts.json",
+    "GS/cover.json",
+    "GS/original.json"
   ]
 }
+
 
