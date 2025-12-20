@@ -86,7 +86,7 @@
             "tj60": "",
             "tj60mr": "",
             "ky": "43605",
-            "remark": "히나&시"
+            "remark": "히나&시로"
           },
           {
             "title": "ルカルカ★ナイトフィーバー(루카루카★나이트 피버)",
@@ -117,12 +117,12 @@
           },
           {
             "title": "Stars Align",
-            "originalArtist": "Stellive Universe",
+            "originalArtist": "Universe",
             "tj": "",
             "tj60": "",
             "tj60mr": "",
             "ky": "",
-            "remark": "Stellive Universe"
+            "remark": "Universe"
           },
           {
             "title": "M@STERPIECE",
@@ -131,11 +131,199 @@
             "tj60": "28534",
             "tj60mr": "",
             "ky": "43965",
-            "remark": "Stellive Universe"
+            "remark": "Universe"
+          }
+        ]
+      },
+      {
+        "partTitle": "4부",
+        "songs": [
+          {
+            "title": "Pretender",
+            "originalArtist": "Official髭男dism",
+            "tj": "68058",
+            "tj60": "",
+            "tj60mr": "",
+            "ky": "44438",
+            "remark": "히나&린"
+          },
+          {
+            "title": "シュガーソングとビターステップ(슈가 송과 비터 스텝)",
+            "originalArtist": "UNISON SQUARE GARDEN",
+            "tj": "27737",
+            "tj60": "",
+            "tj60mr": "",
+            "ky": "43920",
+            "remark": "히나&린"
+          }
+        ]
+      },
+      {
+        "partTitle": "5부",
+        "songs": [
+          {
+            "title": "하나(夏拏)",
+            "originalArtist": "시라유키 히나",
+            "tj": "",
+            "tj60": "",
+            "tj60mr": "",
+            "ky": "",
+            "remark": "히나"
+          },
+          {
+            "title": "感電(감전)",
+            "originalArtist": "米津玄師",
+            "tj": "68300",
+            "tj60": "",
+            "tj60mr": "",
+            "ky": "44591",
+            "remark": "린"
+          },
+          {
+            "title": "新時代(신시대)",
+            "originalArtist": "ado",
+            "tj": "68799",
+            "tj60": "",
+            "tj60mr": "",
+            "ky": "57817",
+            "remark": "리제&나나"
+          },
+          {
+            "title": "狂乱 Hey Kids!!(광란 Hey Kids!!)",
+            "originalArtist": "THE ORAL CIGARETTES",
+            "tj": "27893",
+            "tj60": "",
+            "tj60mr": "",
+            "ky": "44023",
+            "remark": "리제&나나"
+          }
+        ]
+      },
+      {
+        "partTitle": "5부",
+        "songs": [
+          {
+            "title": "愛を伝えたいだとか(사랑을 전하고 싶다든가)",
+            "originalArtist": "あいみょん",
+            "tj": "28907",
+            "tj60": "",
+            "tj60mr": "",
+            "ky": "44310",
+            "remark": "나나"
+          },
+          {
+            "title": "Festa!",
+            "originalArtist": "아카네 리제",
+            "tj": "44430",
+            "tj60": "",
+            "tj60mr": "",
+            "ky": "",
+            "remark": "리제"
+          },
+          {
+            "title": "Our Tales",
+            "originalArtist": "Cliché",
+            "tj": "43527",
+            "tj60": "",
+            "tj60mr": "",
+            "ky": "",
+            "remark": "Cliché"
+          },
+          {
+            "title": "モア！ジャンプ！モア！(모어! 점프! 모어!)",
+            "originalArtist": "ナユタン星人(feat.初音ミク)",
+            "tj": "",
+            "tj60": "",
+            "tj60mr": "",
+            "ky": "",
+            "remark": "Cliché"
+          }
+        ]
+      },
+      {
+        "partTitle": "6부",
+        "songs": [
+          {
+            "title": "Q&A リサイタル!(Q&A 리사이틀!)",
+            "originalArtist": "戸松遥",
+            "tj": "",
+            "tj60": "28107",
+            "tj60mr": "",
+            "ky": "43565",
+            "remark": "부키"
+          },
+          {
+            "title": "ケセラセラ(케세라세라)",
+            "originalArtist": "Mrs.GREEN APPLE",
+            "tj": "52844",
+            "tj60": "",
+            "tj60mr": "",
+            "ky": "57810",
+            "remark": "리코"
+          },
+          {
+            "title": "SUPADOPA",
+            "originalArtist": "아야츠노 유니",
+            "tj": "",
+            "tj60": "",
+            "tj60mr": "",
+            "ky": "",
+            "remark": "유니"
+          },
+          {
+            "title": "삐질게",
+            "originalArtist": "아야츠노 유니",
+            "tj": "",
+            "tj60": "",
+            "tj60mr": "",
+            "ky": "",
+            "remark": "유니"
+          }
+        ]
+      },
+      {
+        "partTitle": "7부",
+        "songs": [
+          {
+            "title": "星間飛行(성간비행)",
+            "originalArtist": "ランカ・リー＝中島愛",
+            "tj": "26805",
+            "tj60": "",
+            "tj60mr": "",
+            "ky": "42836",
+            "remark": "후야"
+          },
+          {
+            "title": "내꺼 하는 법(How to be mine)",
+            "originalArtist": "아야츠노 유니",
+            "tj": "84251",
+            "tj60": "",
+            "tj60mr": "",
+            "ky": "99555",
+            "remark": "유니"
+          },
+          {
+            "title": "히로인이 되고 싶어",
+            "originalArtist": "Stellive",
+            "tj": "",
+            "tj60": "",
+            "tj60mr": "",
+            "ky": "",
+            "remark": "Stellive"
+          },
+          {
+            "title": "STAR TRAIL",
+            "originalArtist": "Stellive",
+            "tj": "",
+            "tj60": "",
+            "tj60mr": "",
+            "ky": "",
+            "remark": "Stellive"
           }
         ]
       }
     ]
   }
 ]
+
 
