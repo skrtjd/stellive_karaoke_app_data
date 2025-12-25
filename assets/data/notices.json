@@ -1,5 +1,19 @@
 [
  {
+    "id": "03",
+    "type": "update",
+    "date": "2025-12-25",
+    "title": "목록 내용 추가 안내",
+    "body": "타비 - 커버곡 - number one rockstar 목록 추가 완료했습니다."
+  },
+  {
+    "id": "02",
+    "type": "update",
+    "date": "2025-12-25",
+    "title": "목록 내용 추가 안내",
+    "body": "린 - 커버곡 - All I Want For Christmas Is You 목록 추가 완료했습니다."
+  },
+  {
     "id": "01",
     "type": "update",
     "date": "2025-12-25",
