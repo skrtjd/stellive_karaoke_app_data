@@ -2,42 +2,48 @@
   {
     "mashupTitle": "J-POP Mashup!",
     "tracks": [
-      { "title": "青と夏(푸름과 여름)", 
+    { 
+	"title": "青と夏(푸름과 여름)", 
 	"originalArtist": "Mrs.GREENAPPLE", 
 	"tj": "68127",
 	"tj60": "",
 	"tj60mr": "",
 	"ky": "44466"
 	},
-      { "title": "打上花火(타상연화)", 
+    { 
+	"title": "打上花火(타상연화)", 
 	"originalArtist": "DAOKO X 米津玄師", 
 	"tj": "28750",
 	"tj60": "",
 	"tj60mr": "",
 	"ky": "44190"
 	},
-      { "title": "ベテルギウス(베텔기우스)", 
+    { 
+	"title": "ベテルギウス(베텔기우스)", 
 	"originalArtist": "優里", 
 	"tj": "68553",
 	"tj60": "",
 	"tj60mr": "",
 	"ky": "44746"
 	},
-      { "title": "青のすみか(푸르름이 사는곳)", 
+    { 
+	"title": "青のすみか(푸르름이 사는곳)", 
 	"originalArtist": "キタニタツヤ", 
 	"tj": "68863",
 	"tj60": "",
 	"tj60mr": "",
 	"ky": "75831"
 	},
-      { "title": "宿命(숙명)", 
+    { 
+	"title": "宿命(숙명)", 
 	"originalArtist": "Official髭男dism",
 	"tj": "68086",
 	"tj60": "",
 	"tj60mr": "",
 	"ky": "44442"
 	},
-      { "title": "LADY", 
+    { 
+	"title": "LADY", 
 	"originalArtist": "米津玄師", 
 	"tj": "68495",
 	"tj60": "",
@@ -117,5 +123,6 @@
     ]
   }
 ]
+
 
 
