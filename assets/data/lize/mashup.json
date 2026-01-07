@@ -1,6 +1,5 @@
 [
   {
-    "mashupId": "lize_mashup001",
     "mashupTitle": "J-POP Mashup!",
     "tracks": [
       { "title": "青と夏(푸름과 여름)", 
@@ -118,4 +117,5 @@
     ]
   }
 ]
+
 
