@@ -2,128 +2,134 @@
   {
     "mashupTitle": "J-POP Mashup!",
     "tracks": [
-    { 
-	"title": "青と夏(푸름과 여름)", 
-	"originalArtist": "Mrs.GREENAPPLE", 
-	"tj": "68127",
-	"tj60": "",
-	"tj60mr": "",
-	"ky": "44466"
-	},
-    { 
-	"title": "打上花火(타상연화)", 
-	"originalArtist": "DAOKO X 米津玄師", 
-	"tj": "28750",
-	"tj60": "",
-	"tj60mr": "",
-	"ky": "44190"
-	},
-    { 
-	"title": "ベテルギウス(베텔기우스)", 
-	"originalArtist": "優里", 
-	"tj": "68553",
-	"tj60": "",
-	"tj60mr": "",
-	"ky": "44746"
-	},
-    { 
-	"title": "青のすみか(푸르름이 사는곳)", 
-	"originalArtist": "キタニタツヤ", 
-	"tj": "68863",
-	"tj60": "",
-	"tj60mr": "",
-	"ky": "75831"
-	},
-    { 
-	"title": "宿命(숙명)", 
-	"originalArtist": "Official髭男dism",
-	"tj": "68086",
-	"tj60": "",
-	"tj60mr": "",
-	"ky": "44442"
-	},
-    { 
-	"title": "LADY", 
-	"originalArtist": "米津玄師", 
-	"tj": "68495",
-	"tj60": "",
-	"tj60mr": "",
-	"ky": "76514"
-	},
-      { "title": "恋(코이)", 
-	"originalArtist": "星野 源", 
-	"tj": "",
-	"tj60": "",
-	"tj60mr": "",
-	"ky": ""
-	},
-      { "title": "Nobody(From Kaiju No. 8)", 
-	"originalArtist": "OneRepublic", 
-	"tj": "79621",
-	"tj60": "",
-	"tj60mr": "",
-	"ky": 
-	},
-      { "title": "前前前世(전전전세)", 
-	"originalArtist": "RADWIMPS", 
-	"tj": "27944",
-	"tj60": "",
-	"tj60mr": "",
-	"ky": "44067"
-	},
-      { "title": "Stellar Stellar", 
-	"originalArtist": "星街すいせい", 
-	"tj": "68567",
-	"tj60": "",
-	"tj60mr": "",
-	"ky": "44829"
-	},
-      { "title": "新時代(신시대)", 
-	"originalArtist": "Ado", 
-	"tj": "68799",
-	"tj60": "",
-	"tj60mr": "",
-	"ky": "57817"
-	},
-      { "title": "シカ色デイズ(사슴색 데이즈)", 
-	"originalArtist": "鹿乃子のこ,虎視虎子,虎視餡子,馬車芽めめ", 
-	"tj": "68497",
-	"tj60": "",
-	"tj60mr": "",
-	"ky": "75987"
-	},
-      { "title": "怪獣の花唄(괴수의 꽃노래)", 
-	"originalArtist": "Vaundy", 
-	"tj": "52988",
-	"tj60": "",
-	"tj60mr": "",
-	"ky": 57775
-	},
-      { "title": "Grand Escape", 
-	"originalArtist": "RADWIMPS(Feat.三浦透子)", 
-	"tj": "68067",
-	"tj60": "",
-	"tj60mr": "",
-	"ky": "44423"
-	},
-      { "title": "We Are", 
-	"originalArtist": "ONE OK ROCK", 
-	"tj": "",
-	"tj60": "28668",
-	"tj60mr": "",
-	"ky": "44120"
-	},
-      { "title": "群青(군청)", 
-	"originalArtist": "YOASOBI", 
-	"tj": "68390",
-	"tj60": "",
-	"tj60mr": "",
-	"ky": "44684"
-	}
+      {
+        "title": "青と夏(푸름과 여름)",
+        "originalArtist": "Mrs.GREENAPPLE",
+        "tj": "68127",
+        "tj60": "",
+        "tj60mr": "",
+        "ky": "44466"
+      },
+      {
+        "title": "打上花火(타상연화)",
+        "originalArtist": "DAOKO X 米津玄師",
+        "tj": "28750",
+        "tj60": "",
+        "tj60mr": "",
+        "ky": "44190"
+      },
+      {
+        "title": "ベテルギウス(베텔기우스)",
+        "originalArtist": "優里",
+        "tj": "68553",
+        "tj60": "",
+        "tj60mr": "",
+        "ky": "44746"
+      },
+      {
+        "title": "青のすみか(푸르름이 사는곳)",
+        "originalArtist": "キタニタツヤ",
+        "tj": "68863",
+        "tj60": "",
+        "tj60mr": "",
+        "ky": "75831"
+      },
+      {
+        "title": "宿命(숙명)",
+        "originalArtist": "Official髭男dism",
+        "tj": "68086",
+        "tj60": "",
+        "tj60mr": "",
+        "ky": "44442"
+      },
+      {
+        "title": "LADY",
+        "originalArtist": "米津玄師",
+        "tj": "68495",
+        "tj60": "",
+        "tj60mr": "",
+        "ky": "76514"
+      },
+      {
+        "title": "恋(코이)",
+        "originalArtist": "星野 源",
+        "tj": "",
+        "tj60": "",
+        "tj60mr": "",
+        "ky": ""
+      },
+      {
+        "title": "Nobody(From Kaiju No. 8)",
+        "originalArtist": "OneRepublic",
+        "tj": "79621",
+        "tj60": "",
+        "tj60mr": "",
+        "ky": ""
+      },
+      {
+        "title": "前前前世(전전전세)",
+        "originalArtist": "RADWIMPS",
+        "tj": "27944",
+        "tj60": "",
+        "tj60mr": "",
+        "ky": "44067"
+      },
+      {
+        "title": "Stellar Stellar",
+        "originalArtist": "星街すいせい",
+        "tj": "68567",
+        "tj60": "",
+        "tj60mr": "",
+        "ky": "44829"
+      },
+      {
+        "title": "新時代(신시대)",
+        "originalArtist": "Ado",
+        "tj": "68799",
+        "tj60": "",
+        "tj60mr": "",
+        "ky": "57817"
+      },
+      {
+        "title": "シカ色デイズ(사슴색 데이즈)",
+        "originalArtist": "鹿乃子のこ,虎視虎子,虎視餡子,馬車芽めめ",
+        "tj": "68497",
+        "tj60": "",
+        "tj60mr": "",
+        "ky": "75987"
+      },
+      {
+        "title": "怪獣の花唄(괴수의 꽃노래)",
+        "originalArtist": "Vaundy",
+        "tj": "52988",
+        "tj60": "",
+        "tj60mr": "",
+        "ky": "57775"
+      },
+      {
+        "title": "Grand Escape",
+        "originalArtist": "RADWIMPS(Feat.三浦透子)",
+        "tj": "68067",
+        "tj60": "",
+        "tj60mr": "",
+        "ky": "44423"
+      },
+      {
+        "title": "We Are",
+        "originalArtist": "ONE OK ROCK",
+        "tj": "",
+        "tj60": "28668",
+        "tj60mr": "",
+        "ky": "44120"
+      },
+      {
+        "title": "群青(군청)",
+        "originalArtist": "YOASOBI",
+        "tj": "68390",
+        "tj60": "",
+        "tj60mr": "",
+        "ky": "44684"
+      }
     ]
   }
 ]
-
-
-
-
