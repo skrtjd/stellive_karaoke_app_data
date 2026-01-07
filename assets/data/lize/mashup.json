@@ -60,15 +60,15 @@
       { "title": "Nobody(From Kaiju No. 8)", 
 	"originalArtist": "OneRepublic", 
 	"tj": "79621",
-	"tj60": ,
-	"tj60mr": ,
+	"tj60": "",
+	"tj60mr": "",
 	"ky": 
 	},
       { "title": "前前前世(전전전세)", 
 	"originalArtist": "RADWIMPS", 
 	"tj": "27944",
-	"tj60": ,
-	"tj60mr": ,
+	"tj60": "",
+	"tj60mr": "",
 	"ky": "44067"
 	},
       { "title": "Stellar Stellar", 
@@ -123,6 +123,7 @@
     ]
   }
 ]
+
 
 
 
