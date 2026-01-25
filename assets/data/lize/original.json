@@ -2,17 +2,18 @@
   {
     "title": "Stranger",
     "originalArtist": "아카네 리제",
-    "tj": "",
-    "tj60": "",
-    "tj60mr": "",
-    "ky": ""
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null
   },
   {
     "title": "Festa!",
     "originalArtist": "아카네 리제",
     "tj": "44430",
-    "tj60": "",
-    "tj60mr": "",
-    "ky": ""
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null
   }
 ]
+
