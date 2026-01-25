@@ -9,48 +9,48 @@
           {
             "title": "색채",
             "originalArtist": "아이리 칸나",
-            "tj": "",
-            "tj60": "",
-            "tj60mr": "",
-            "ky": ""
+            "tj": null,
+            "tj60": null,
+            "tj60mr": null,
+            "ky": null
           },
           {
             "title": "ADDICT!ON",
             "originalArtist": "아이리 칸나",
             "tj": "83718",
-            "tj60": "",
-            "tj60mr": "",
+            "tj60": null,
+            "tj60mr": null,
             "ky": "75422"
           },
           {
             "title": "この街には晴れがこない(이 거리에 맑은 날은 오지 않는다)",
             "originalArtist": "美波",
-            "tj": "",
-            "tj60": "",
-            "tj60mr": "",
-            "ky": ""
+            "tj": null,
+            "tj60": null,
+            "tj60mr": null,
+            "ky": null
           },
           {
             "title": "季節は次々死んでいく(계절은 차례차례 죽어간다)",
             "originalArtist": "amazarashi",
-            "tj": "",
+            "tj": null,
             "tj60": "28293",
-            "tj60mr": "",
-            "ky": ""
+            "tj60mr": null,
+            "ky": null
           },
           {
             "title": "泥中に咲く(진흙 속에 피다)",
             "originalArtist": "ウォルピスカーター",
             "tj": "68126",
-            "tj60": "",
-            "tj60mr": "",
-            "ky": ""
+            "tj60": null,
+            "tj60mr": null,
+            "ky": null
           },
           {
             "title": "최종화(The Last Flower)",
             "originalArtist": "아이리 칸나",
             "tj": "44108",
-            "tj60": "",
+            "tj60": null,
             "tj60mr": "64454",
             "ky": "80603"
           },
@@ -58,24 +58,24 @@
             "title": "DIARY",
             "originalArtist": "KK(上北健)",
             "tj": "28761",
-            "tj60": "",
-            "tj60mr": "",
+            "tj60": null,
+            "tj60mr": null,
             "ky": "44205"
           },
           {
             "title": "僕のこと(나라는 것)",
             "originalArtist": "Mrs. GREEN APPLE",
             "tj": "68248",
-            "tj60": "",
-            "tj60mr": "",
+            "tj60": null,
+            "tj60mr": null,
             "ky": "44894"
           },
           {
             "title": "푸른 보석과 어린 용",
             "originalArtist": "아이리 칸나",
-            "tj": "",
-            "tj60": "",
-            "tj60mr": "",
+            "tj": null,
+            "tj60": null,
+            "tj60mr": null,
             "ky": "75695"
           }
         ]
@@ -93,23 +93,23 @@
             "title": "ADDICT!ON",
             "originalArtist": "아이리 칸나",
             "tj": "83718",
-            "tj60": "",
-            "tj60mr": "",
+            "tj60": null,
+            "tj60mr": null,
             "ky": "75422"
           },
           {
             "title": "On The Ground",
             "originalArtist": "로제(ROSE)",
             "tj": "76549",
-            "tj60": "",
-            "tj60mr": "",
+            "tj60": null,
+            "tj60mr": null,
             "ky": "22683"
           },
           {
             "title": "최종화/最終花",
             "originalArtist": "아이리 칸나",
             "tj": "44108/x",
-            "tj60": "",
+            "tj60": null,
             "tj60mr": "64454",
             "ky": "80603/x"
           }
@@ -121,25 +121,25 @@
           {
             "title": "unravel",
             "originalArtist": "TK From 凛として時雨",
-            "tj": "",
+            "tj": null,
             "tj60": "28153",
-            "tj60mr": "",
+            "tj60mr": null,
             "ky": "43825"
           },
           {
             "title": "Luna say maybe",
             "originalArtist": "月村 手毬",
-            "tj": "",
-            "tj60": "",
-            "tj60mr": "",
-            "ky": ""
+            "tj": null,
+            "tj60": null,
+            "tj60mr": null,
+            "ky": null
           },
           {
             "title": "We are",
             "originalArtist": "ONE OK ROCK",
-            "tj": "",
+            "tj": null,
             "tj60": "28668",
-            "tj60mr": "",
+            "tj60mr": null,
             "ky": "44120"
           }
         ]
@@ -151,41 +151,36 @@
             "title": "My dearest",
             "originalArtist": "supercell",
             "tj": "27650",
-            "tj60": "",
-            "tj60mr": "",
+            "tj60": null,
+            "tj60mr": null,
             "ky": "43433"
           },
           {
             "title": "푸른 보석과 어린 용",
             "originalArtist": "아이리 칸나",
-            "tj": "",
-            "tj60": "",
-            "tj60mr": "",
+            "tj": null,
+            "tj60": null,
+            "tj60mr": null,
             "ky": "75695"
           },
           {
             "title": "이름에게",
             "originalArtist": "IU",
             "tj": "49496",
-            "tj60": "",
+            "tj60": null,
             "tj60mr": "62619",
             "ky": "90133"
           },
           {
             "title": "私の最後の日(나의 마지막 날)",
             "originalArtist": "ユアネス",
-            "tj": "",
-            "tj60": "",
-            "tj60mr": "",
-            "ky": ""
+            "tj": null,
+            "tj60": null,
+            "tj60mr": null,
+            "ky": null
           }
         ]
       }
     ]
   }
 ]
-
-
-
-
-
