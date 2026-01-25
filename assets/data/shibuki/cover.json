@@ -2,16 +2,16 @@
   {
     "title": "あんたにあっかんべ(너에게 메롱)",
     "originalArtist": "一二三",
-    "tj": "",
-    "tj60": "",
-    "tj60mr": "",
-    "ky": ""
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null
   },
   {
     "title": "여우비(낮에뜨는달X츄(CHUU))",
     "originalArtist": "츄(Chuu)",
     "tj": "85689",
-    "tj60": "",
+    "tj60": null,
     "tj60mr": "64340",
     "ky": "80628"
   },
@@ -19,88 +19,89 @@
     "title": "レオ(Leo)",
     "originalArtist": "優里",
     "tj": "52773",
-    "tj60": "",
-    "tj60mr": "",
+    "tj60": null,
+    "tj60mr": null,
     "ky": "57826"
   },
   {
     "title": "Sabotage",
     "originalArtist": "緑黄色社会",
     "tj": "52401",
-    "tj60": "",
-    "tj60mr": "",
-    "ky": ""
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null
   },
   {
     "title": "冬のプレゼント(겨울의 선물)",
     "originalArtist": "もさを。",
-    "tj": "",
-    "tj60": "",
-    "tj60mr": "",
-    "ky": ""
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null
   },
   {
     "title": "SOS",
     "originalArtist": "黛 冬優子",
-    "tj": "",
-    "tj60": "",
-    "tj60mr": "",
-    "ky": ""
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null
   },
   {
     "title": "ねえねえねえ。(있잖아 있잖아 있잖아)",
     "originalArtist": "ピノキオピー(feat.鏡音リン, 初音ミク)",
-    "tj": "",
-    "tj60": "",
-    "tj60mr": "",
-    "ky": ""
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null
   },
   {
     "title": "睨めっ娘(눈싸움)",
     "originalArtist": "友成空",
     "tj": "52776",
-    "tj60": "",
-    "tj60mr": "",
+    "tj60": null,
+    "tj60mr": null,
     "ky": "57829"
   },
   {
     "title": "UNDEAD",
     "originalArtist": "YOASOBI",
     "tj": "52595",
-    "tj60": "",
-    "tj60mr": "",
-    "ky": ""
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null
   },
   {
     "title": "青と夏(푸름과 여름)",
     "originalArtist": "Mrs. GREEN APPLE",
     "tj": "68127",
-    "tj60": "",
-    "tj60mr": "",
-    "ky": ""
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null
   },
   {
     "title": "KING",
     "originalArtist": "KANARIA(feat.GUMI)",
-    "tj": "",
-    "tj60": "",
-    "tj60mr": "",
-    "ky": ""
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null
   },
   {
     "title": "命に嫌われている。(생명에게 미움받고 있어.)",
     "originalArtist": "カンザキイオリ(Feat.初音ミク)",
     "tj": "68051",
-    "tj60": "",
-    "tj60mr": "",
-    "ky": ""
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null
   },
   {
     "title": "メリクリ(메리크리)",
     "originalArtist": "BoA",
     "tj": "25907",
-    "tj60": "",
-    "tj60mr": "",
+    "tj60": null,
+    "tj60mr": null,
     "ky": "41852"
   }
 ]
+
