@@ -1,3 +1,4 @@
+[
 {
   "title": "ADDICT!ON",
   "originalArtist": "아이리 칸나",
@@ -393,7 +394,7 @@
 {
   "title": "삐질게",
   "originalArtist": "아야츠노 유니",
-  "tj": null,
+  "tj": "51617",
   "tj60": null,
   "tj60mr": null,
   "ky": null
@@ -1300,7 +1301,7 @@
   "tj": null,
   "tj60": null,
   "tj60mr": null,
-  "ky": null
+  "ky": "57767"
   },
 {
   "title": "Golden",
@@ -1505,7 +1506,7 @@
 {
   "title": "死神(사신)",
   "originalArtist": "米津玄師",
-  "tj": null,
+  "tj": "52430",
   "tj60": null,
   "tj60mr": null,
   "ky": null
@@ -2893,4 +2894,69 @@
   "tj60": null,
   "tj60mr": null,
   "ky": null
-  }
+  },
+  {
+    "title": "Alice in 冷凍庫(Alice in 냉동고)",
+    "originalArtist": "Orangestar(feat.IA)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null
+  },
+  {
+    "title": "계절범죄",
+    "originalArtist": "Miiro(feat.새빛)",
+    "tj": "83601",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "93359"
+  },
+  {
+  "title": "ファンサ(팬서비스)",
+  "originalArtist": "夏川椎菜",
+  "tj": "68258",
+  "tj60": null,
+  "tj60mr": null,
+  "ky": "44672"
+  },
+  {
+  "title": "이 지금",
+  "originalArtist": "IU",
+  "tj": "49497",
+  "tj60": null,
+  "tj60mr": null,
+  "ky": "90138"
+  },
+  {
+  "title": "世界は恋に落ちている(세계는 사랑에 빠져있어)",
+  "originalArtist": "CHiCO with HoneyWorks",
+  "tj": null,
+  "tj60": "28352",
+  "tj60mr": null,
+  "ky": "43839"
+  },
+  {
+    "title": "DAYBREAK FRONTLINE",
+    "originalArtist": "Orangestar(feat.IA)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null
+  },
+  {
+    "title": "セカイ(세카이)",
+    "originalArtist": "DECO*27×江品太(kemu)(feat.初音ミク)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null
+  },
+  {
+    "title": "Yin and Yang",
+    "originalArtist": "지코, 크러쉬",
+    "tj": "51540",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "50864"
+}
+]
