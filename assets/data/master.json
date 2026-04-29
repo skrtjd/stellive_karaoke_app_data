@@ -1,6 +1,7 @@
 {
   "version": "2026-04-30-01",
   "notices": "notices.json",
+  "categories": "member_categories.json",
   "members": [
     {
       "id": "kanna",
@@ -105,7 +106,5 @@
         "collabo": "riko/collabo.json"
       }
     },
-  ],
-  "metadata": "meta.json",
-  "categories": "member_categories.json"
+  ]
 }
