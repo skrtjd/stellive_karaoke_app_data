@@ -1,0 +1,111 @@
+{
+  "version": "2026-04-30-01",
+  "notices": "notices.json",
+  "members": [
+    {
+      "id": "kanna",
+      "name": "아이리 칸나",
+      "files": {
+        "original": "kanna/original.json",
+        "collabo": "kanna/collabo.json",
+        "cover": "kanna/cover.json",
+        "playlist": "kanna/playlist.json",
+        "concerts": "kanna/concerts.json"
+      }
+    },
+    {
+      "id": "yuni",
+      "name": "아야츠노 유니",
+      "files": {
+        "original": "yuni/original.json",
+        "cover": "yuni/cover.json",
+        "concerts": "yuni/concerts.json"
+      }
+    },
+    {
+      "id": "huya",
+      "name": "사키하네 후야",
+      "files": {
+        "original": "huya/original.json",
+        "cover": "huya/cover.json"
+      }
+    },
+    {
+      "id": "mashiro",
+      "name": "네네코 마시로",
+      "files": {
+        "original": "mashiro/original.json",
+        "cover": "mashiro/cover.json",
+        "playlist": "mashiro/playlist.json"
+      }
+    },
+    {
+      "id": "hina",
+      "name": "시라유키 히나",
+      "files": {
+        "original": "hina/original.json",
+        "cover": "hina/cover.json",
+        "collabo": "hina/collabo.json",
+        "playlist": "hina/playlist.json"
+      }
+    },
+    {
+      "id": "lize",
+      "name": "아카네 리제",
+      "files": {
+        "original": "lize/original.json",
+        "cover": "lize/cover.json",
+        "collabo": "lize/collabo.json",
+        "mashup": "lize/mashup.json"
+      }
+    },
+    {
+      "id": "tabi",
+      "name": "아라하시 타비",
+      "files": {
+        "original": "tabi/original.json",
+        "cover": "tabi/cover.json",
+        "collabo": "tabi/collabo.json"
+      }
+    },
+    {
+      "id": "shibuki",
+      "name": "텐코 시부키",
+      "files": {
+        "original": "shibuki/original.json",
+        "cover": "shibuki/cover.json",
+        "collabo": "shibuki/collabo.json"
+      }
+    },
+    {
+      "id": "rin",
+      "name": "아오쿠모 린",
+      "files": {
+        "original": "rin/original.json",
+        "cover": "rin/cover.json",
+        "collabo": "rin/collabo.json",
+        "playlist": "rin/playlist.json"
+      }
+    },
+    {
+      "id": "nana",
+      "name": "하나코 나나",
+      "files": {
+        "original": "nana/original.json",
+        "cover": "nana/cover.json",
+        "collabo": "nana/collabo.json"
+      }
+    },
+    {
+      "id": "riko",
+      "name": "유즈하 리코",
+      "files": {
+        "original": "riko/original.json",
+        "cover": "riko/cover.json",
+        "collabo": "riko/collabo.json"
+      }
+    },
+  ],
+  "metadata": "meta.json",
+  "categories": "member_categories.json"
+}
