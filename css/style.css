@@ -9,6 +9,17 @@
     border-left: 5px solid #007bff;
 }
 
+header .banner img {
+    width: 100%;       /* 화면 너비에 맞춤 */
+    height: auto;      /* 비율 유지 */
+    display: block;    /* 하단 여백 제거 */
+}
+
+.logo img {
+    max-width: 200px;  /* 로고가 너무 크면 적절히 조절 */
+    height: auto;
+}
+
 /* 공지 카드 스타일 */
 .notice-card {
     background: white;
