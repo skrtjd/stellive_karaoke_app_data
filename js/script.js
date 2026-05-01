@@ -4,53 +4,55 @@ document.addEventListener('DOMContentLoaded', () => {
 
 async function fetchNotices() {
     try {
-        // 1. JSON 데이터 가져오기
-        const response = await fetch('data/notices.json'); // 경로를 본인의 환경에 맞게 수정하세요
+        // 1. JSON 데이터 가져오기 (GitHub Pages 등 상대 경로)
+        const response = await fetch('notices.json'); 
+        if (!response.ok) throw new Error('네트워크 응답 에러');
         const notices = await response.json();
 
-        // 2. 최신순 정렬 (날짜와 ID 기준)
-        notices.sort((a, b) => b.date.localeCompare(a.date) || b.id.localeCompare(a.id));
+        // 2. 최신순 정렬 (문자열 내림차순 정렬만으로도 날짜순 정렬이 됩니다)
+        notices.sort((a, b) => b.date.localeCompare(a.date));
 
         renderNotices(notices);
     } catch (error) {
-        console.error('공지사항 로드 실패:', error);
-        document.getElementById('notice-container').innerHTML = '<p>공지사항을 불러오지 못했습니다.</p>';
+        console.error('로드 실패:', error);
+        document.getElementById('notice-container').innerHTML = '<p>공지사항을 불러오는 중 오류가 발생했습니다.</p>';
     }
 }
 
 function renderNotices(notices) {
     const container = document.getElementById('notice-container');
-    container.innerHTML = ''; // 초기화
+    container.innerHTML = ''; 
 
-    // 3. 년도/월별로 그룹화하기 위한 변수
     let currentGroup = "";
 
     notices.forEach(notice => {
-        // 날짜에서 년-월 추출 (예: 2026-04)
-        const dateObj = new Date(notice.date);
-        const yearMonth = `${dateObj.getFullYear()}년 ${dateObj.getMonth() + 1}월`;
+        // notice.date 형식: "2026-04-20-14-30-00" 가정
+        // 앞에서 7글자만 추출하여 "2026-04" 그룹 만들기
+        const yearMonthKey = notice.date.substring(0, 7); // "2026-04"
+        const [year, month] = yearMonthKey.split('-');
+        const yearMonthDisplay = `${year}년 ${parseInt(month)}월`;
 
-        // 4. 새로운 년/월 그룹이 나타나면 헤더 추가
-        if (currentGroup !== yearMonth) {
-            currentGroup = yearMonth;
+        // 3. 새로운 년/월 그룹 헤더 생성
+        if (currentGroup !== yearMonthKey) {
+            currentGroup = yearMonthKey;
             const groupHeader = document.createElement('h2');
             groupHeader.className = 'group-header';
-            groupHeader.innerText = `📅 ${yearMonth}`;
+            groupHeader.innerHTML = `<span>📅</span> ${yearMonthDisplay}`;
             container.appendChild(groupHeader);
         }
 
-        // 5. 공지 아이템 생성
+        // 4. 공지 아이템 생성
         const noticeCard = document.createElement('div');
         noticeCard.className = 'notice-card';
 
-        // 요청하신 형식: yyyy-mm-dd-hh-mm-ss
-        // JSON에 hh-mm-ss 정보가 없다면 현재 시간이나 기본값으로 대체합니다.
-        const fullTime = `${notice.date}-00-00-00`; 
+        // 날짜 가독성 개선 (예: 2026-04-20-14-30-00 -> 2026-04-20 14:30)
+        // 사용자가 보기 편하게 형식을 조금 다듬어서 노출하는 것을 추천합니다.
+        const formattedDate = notice.date.replace(/-/g, (m, i) => (i === 10 ? ' ' : i > 10 && i % 3 === 2 ? ':' : '-')).substring(0, 16);
 
         noticeCard.innerHTML = `
-            <div class="notice-time">${fullTime}</div>
+            <div class="notice-time">${formattedDate}</div>
             <div class="notice-title"><h3>${notice.title}</h3></div>
-            <div class="notice-body"><p>${notice.body}</p></div>
+            <div class="notice-body"><p>${notice.body.replace(/\n/g, '<br>')}</p></div>
         `;
         
         container.appendChild(noticeCard);
