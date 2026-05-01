@@ -9,6 +9,53 @@
     border-left: 5px solid #007bff;
 }
 
+/* 아코디언 버튼 스타일 */
+.group-header.accordion {
+    background-color: #f0f4f8;
+    color: #333;
+    cursor: pointer;
+    padding: 15px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border-radius: 8px;
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: 0.3s;
+}
+
+.group-header.accordion:hover {
+    background-color: #e2eaf0;
+}
+
+/* 화살표 스타일 */
+.arrow {
+    font-size: 0.9rem;
+    color: #007bff;
+}
+
+/* 컨텐츠가 들어가는 패널 */
+.panel {
+    padding: 0 10px;
+    display: block; /* 기본값 열림 */
+    background-color: white;
+    overflow: hidden;
+}
+
+.notice-card {
+    border-bottom: 1px solid #eee;
+    padding: 15px 0;
+}
+
+.notice-card:last-child {
+    border-bottom: none;
+}
+
 /* 공지 카드 내 시간 스타일 */
 .notice-time {
     font-size: 0.8rem;
