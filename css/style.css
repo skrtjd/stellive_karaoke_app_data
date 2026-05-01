@@ -1,0 +1,39 @@
+/* 년도/월 그룹 헤더 */
+.group-header {
+    background-color: #f0f4f8;
+    padding: 10px 15px;
+    margin-top: 30px;
+    border-radius: 8px;
+    color: #333;
+    font-size: 1.2rem;
+    border-left: 5px solid #007bff;
+}
+
+/* 공지 카드 스타일 */
+.notice-card {
+    background: white;
+    border: 1px solid #e1e1e1;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 15px 0;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.notice-time {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.85rem;
+    color: #888;
+    margin-bottom: 8px;
+}
+
+.notice-title h3 {
+    margin: 0;
+    color: #007bff;
+    font-size: 1.1rem;
+}
+
+.notice-body {
+    margin-top: 10px;
+    line-height: 1.6;
+    color: #555;
+}
