@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
 async function fetchNotices() {
     try {
         // 1. JSON 데이터 가져오기 (GitHub Pages 등 상대 경로)
-        const response = await fetch('notices.json'); 
+        const response = await fetch('assets/data/notices.json'); 
         if (!response.ok) throw new Error('네트워크 응답 에러');
         const notices = await response.json();
 
