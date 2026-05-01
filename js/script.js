@@ -5,107 +5,102 @@
 
 document.addEventListener('DOMContentLoaded', () => {
     fetchNotices();
+    fetchLastUpdateTime(); // ✅ 파일 수정 시간 가져오기 함수 호출
 });
 
-/**
- * 서버에서 공지사항 데이터를 비동기로 가져옵니다.
- */
-async function fetchNotices() {
-    const container = document.getElementById('notice-container');
-
+// 1. GitHub API를 이용해 파일의 실제 수정 시간 가져오기
+async function fetchLastUpdateTime() {
     try {
-        // 1. JSON 데이터 가져오기 (상대 경로)
-        // index.html과 같은 위치에 notices.json이 있어야 합니다.
-        const response = await fetch('assets/data/notices.json');
+        // GitHub API를 통해 파일 정보 조회 (사용자명/리포지토리명/경로 확인 필요)
+        const response = await fetch('https://api.github.com/repos/skrtjd/stellive_karaoke_app_data/commits?path=assets/data/notices.json&page=1&per_page=1');
+        const commits = await response.json();
         
-        if (!response.ok) {
-            throw new Error(`HTTP error! status: ${response.status}`);
+        if (commits && commits.length > 0) {
+            const lastDate = new Date(commits[0].commit.committer.date);
+            
+            // yyyy-mm-dd-hh-mm-ss 형식으로 변환
+            const year = lastDate.getFullYear();
+            const month = String(lastDate.getMonth() + 1).padStart(2, '0');
+            const day = String(lastDate.getDate()).padStart(2, '0');
+            const hours = String(lastDate.getHours()).padStart(2, '0');
+            const mins = String(lastDate.getMinutes()).padStart(2, '0');
+            const secs = String(lastDate.getSeconds()).padStart(2, '0');
+            
+            const formattedTime = `최근 공지 업데이트: ${year}-${month}-${day}-${hours}-${mins}-${secs}`;
+            document.getElementById('last-update-time').innerText = formattedTime;
         }
-
-        const notices = await response.json();
-
-        // 데이터가 비어있는 경우 처리
-        if (!notices || notices.length === 0) {
-            container.innerHTML = '<p class="no-data">등록된 공지사항이 없습니다.</p>';
-            return;
-        }
-
-        // 2. 최신순 정렬 (날짜 문자열 기준 내림차순)
-        notices.sort((a, b) => b.date.localeCompare(a.date));
-
-        // 3. 화면에 렌더링
-        renderNotices(notices);
-
     } catch (error) {
-        console.error('공지사항 로드 중 오류 발생:', error);
-        container.innerHTML = `
-            <div class="error-msg">
-                <p>공지사항을 불러오는 중 오류가 발생했습니다.</p>
-                <small>파일 경로 또는 서버 설정을 확인해주세요.</small>
-            </div>
-        `;
+        console.error('업데이트 시간 로드 실패:', error);
     }
 }
 
-/**
- * 가져온 공지 데이터를 HTML로 변환하여 화면에 그립니다.
- */
+async function fetchNotices() {
+    try {
+        const response = await fetch('assets/data/notices.json');
+        const notices = await response.json();
+        notices.sort((a, b) => b.date.localeCompare(a.date));
+        renderNotices(notices);
+    } catch (error) {
+        console.error('로드 실패:', error);
+    }
+}
+
 function renderNotices(notices) {
     const container = document.getElementById('notice-container');
-    container.innerHTML = ''; // "불러오는 중" 메시지 삭제
+    container.innerHTML = '';
 
-    let currentGroup = ""; // 년-월 그룹 추적용 변수
+    let currentGroup = "";
+    let currentContentDiv = null;
 
-    notices.forEach(notice => {
-        /** 
-         * 1. 그룹 헤더 생성 (년도/월)
-         * notice.date가 "2026-04-30" 또는 "2026-04-30-10-20-30" 형식일 때 앞 7자(yyyy-mm) 추출
-         */
-        const dateString = notice.date;
-        const yearMonthKey = dateString.substring(0, 7); // 예: "2026-04"
+    notices.forEach((notice, index) => {
+        const yearMonthKey = notice.date.substring(0, 7);
+        const [year, month] = yearMonthKey.split('-');
 
+        // 새로운 월 그룹 시작
         if (currentGroup !== yearMonthKey) {
             currentGroup = yearMonthKey;
-            
-            const [year, month] = yearMonthKey.split('-');
-            const groupHeader = document.createElement('h2');
-            groupHeader.className = 'group-header';
-            groupHeader.innerHTML = `📅 ${year}년 ${parseInt(month)}월`;
+
+            // 헤더(버튼) 생성
+            const groupHeader = document.createElement('button');
+            groupHeader.className = 'group-header accordion';
+            groupHeader.innerHTML = `📅 ${year}년 ${parseInt(month)}월 <span class="arrow">▼</span>`;
             container.appendChild(groupHeader);
+
+            // 공지들을 담을 컨텐츠 영역 생성
+            currentContentDiv = document.createElement('div');
+            currentContentDiv.className = 'panel';
+            // 기본적으로 첫 번째(최신) 월만 열어두고 나머지는 닫고 싶다면 조건부 추가 가능
+            // currentContentDiv.style.display = (index === 0) ? "block" : "none"; 
+            container.appendChild(currentContentDiv);
+
+            // 클릭 이벤트 추가 (접기/펴기)
+            groupHeader.addEventListener('click', function() {
+                this.classList.toggle('active');
+                const panel = this.nextElementSibling;
+                const arrow = this.querySelector('.arrow');
+                if (panel.style.display === "block") {
+                    panel.style.display = "none";
+                    arrow.innerText = "▶";
+                } else {
+                    panel.style.display = "block";
+                    arrow.innerText = "▼";
+                }
+            });
         }
 
-        /** 
-         * 2. 공지 카드 생성
-         */
+        // 공지 카드 생성
         const noticeCard = document.createElement('div');
         noticeCard.className = 'notice-card';
 
-        // 시간 형식 보정: JSON에 hh-mm-ss가 없으면 기본값 부여, 있으면 그대로 사용
-        let fullTime = dateString;
-        if (dateString.length <= 10) {
-            fullTime = `${dateString}-00-00-00`;
-        }
-
-        // [New] 배지 표시 로직 (최근 2일 이내 공지)
-        const noticeDate = new Date(dateString.substring(0, 10));
-        const now = new Date();
-        const diffTime = Math.abs(now - noticeDate);
-        const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
-        const newBadge = (diffDays <= 2) ? '<span class="new-badge">NEW</span>' : '';
-
-        // 본문 내 줄바꿈(\n)을 웹 브라우저용 <br>로 변환
-        const formattedBody = notice.body.replace(/\n/g, '<br>');
+        // ✅ 개별 공지 시간은 yyyy-mm-dd로만 표시
+        const displayDate = notice.date.substring(0, 10);
 
         noticeCard.innerHTML = `
-            <div class="notice-time">${fullTime}</div>
-            <div class="notice-title">
-                <h3>${notice.title} ${newBadge}</h3>
-            </div>
-            <div class="notice-body">
-                <p>${formattedBody}</p>
-            </div>
+            <div class="notice-time">${displayDate}</div>
+            <div class="notice-title"><h3>${notice.title}</h3></div>
+            <div class="notice-body"><p>${notice.body.replace(/\n/g, '<br>')}</p></div>
         `;
         
-        container.appendChild(noticeCard);
+        currentContentDiv.appendChild(noticeCard);
     });
 }
