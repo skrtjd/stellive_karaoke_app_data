@@ -1,8 +1,3 @@
-/**
- * Stellive Karaoke Web Project - script.js
- * 기능: notices.json 데이터를 불러와서 년/월별로 그룹화하여 화면에 출력
- */
-
 document.addEventListener('DOMContentLoaded', () => {
     fetchNotices();
     fetchLastUpdateTime(); // ✅ 파일 수정 시간 가져오기 함수 호출
