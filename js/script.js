@@ -16,7 +16,7 @@ async function fetchNotices() {
     try {
         // 1. JSON 데이터 가져오기 (상대 경로)
         // index.html과 같은 위치에 notices.json이 있어야 합니다.
-        const response = await fetch('notices.json');
+        const response = await fetch('assets/data/notices.json');
         
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
