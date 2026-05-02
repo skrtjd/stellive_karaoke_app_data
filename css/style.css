@@ -121,6 +121,13 @@ header .banner img {
 }
 
 .logo img {
+    
+    /* ✅ 모서리를 둥글게 만드는 코드 */
+    border-radius: 20px; /* 숫자가 커질수록 더 둥글어집니다 (원하는 만큼 조절하세요) */
+    
+    /* (선택 사항) 로고에 약간의 그림자를 주어 더 입체적으로 보이게 하고 싶다면 추가 */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    
     max-width: 100px;  /* 로고가 너무 크면 적절히 조절 */
     height: auto;
 }
