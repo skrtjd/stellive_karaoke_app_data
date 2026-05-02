@@ -98,7 +98,7 @@ header .banner img {
 }
 
 .logo img {
-    max-width: 200px;  /* 로고가 너무 크면 적절히 조절 */
+    max-width: 100px;  /* 로고가 너무 크면 적절히 조절 */
     height: auto;
 }
 
