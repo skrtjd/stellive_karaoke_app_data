@@ -162,3 +162,21 @@ nav {
     flex-wrap: wrap; /* 화면이 작아지면 메뉴가 아래로 내려가도록 */
     gap: 15px;
 }
+
+/* 월별 헤더를 클릭할 수 있는 버튼처럼 보이게 함 */
+.group-header.accordion {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    padding: 12px 20px;
+    border-radius: 5px;
+    transition: background-color 0.2s;
+}
+
+.group-header.accordion:hover {
+    background-color: #e9ecef;
+}
+
+.panel {
+    border-left: 2px solid #007bff; /* 왼쪽에 강조선 추가 */
+    margin-bottom: 20px;
+}
