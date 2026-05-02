@@ -1,3 +1,37 @@
+/* 구글 폰트(나눔고딕) 불러오기 */
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700&display=swap');
+
+/* 웹사이트 전체에 폰트 적용 */
+* {
+    font-family: 'Nanum Gothic', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* 메뉴(멤버 페이지 이동) 글씨 스타일 맞추기 */
+nav a {
+    text-decoration: none; /* 밑줄 제거 */
+    color: #333; /* 글자색 설정 */
+    font-weight: 700; /* 메뉴는 조금 두껍게 */
+    font-size: 1.1rem;
+    transition: color 0.3s;
+}
+
+nav a:hover {
+    color: #007bff; /* 마우스 올렸을 때 색상 변경 */
+}
+
+/* 사이트 소개 문구(h2) 스타일 맞추기 */
+.main-content h2 {
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 1.4rem;
+    font-weight: 400; /* 소개 문구는 일반 두께로 */
+    color: #444;
+    line-height: 1.6;
+    margin-top: 20px;
+}
+
 /* 헤더 전체 설정: 로고와 배너를 세로로 정렬 */
 header {
     display: flex;
