@@ -1,0 +1,223 @@
+/* 구글 폰트(나눔고딕) 불러오기 */
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700&display=swap');
+
+/* 웹사이트 전체에 폰트 적용 */
+* {
+    font-family: 'Nanum Gothic', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* 메뉴(멤버 페이지 이동) 글씨 스타일 맞추기 */
+nav a {
+    text-decoration: none; /* 밑줄 제거 */
+    color: #333; /* 글자색 설정 */
+    font-weight: 700; /* 메뉴는 조금 두껍게 */
+    font-size: 1.1rem;
+    transition: color 0.3s;
+}
+
+nav a:hover {
+    color: #007bff; /* 마우스 올렸을 때 색상 변경 */
+}
+
+/* 사이트 소개 문구(h2) 스타일 맞추기 */
+.main-content h2 {
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 1.4rem;
+    font-weight: 400; /* 소개 문구는 일반 두께로 */
+    color: #444;
+    line-height: 1.6;
+    margin-top: 20px;
+}
+
+/* 헤더 전체 설정: 로고와 배너를 세로로 정렬 */
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* 가로축 중앙 정렬 */
+    padding: 20px 0;
+}
+
+/* 년도/월 그룹 헤더 */
+.group-header {
+    background-color: #f0f4f8;
+    padding: 10px 15px;
+    margin-top: 30px;
+    border-radius: 8px;
+    color: #333;
+    font-size: 1.2rem;
+    border-left: 5px solid #007bff;
+}
+
+/* 아코디언 버튼 스타일 */
+.group-header.accordion {
+    background-color: #f0f4f8;
+    color: #333;
+    cursor: pointer;
+    padding: 15px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border-radius: 8px;
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: 0.3s;
+}
+
+.group-header.accordion:hover {
+    background-color: #e2eaf0;
+}
+
+/* 화살표 스타일 */
+.arrow {
+    font-size: 0.9rem;
+    color: #007bff;
+}
+
+/* 컨텐츠가 들어가는 패널 */
+.panel {
+    padding: 0 10px;
+    display: block; /* 기본값 열림 */
+    background-color: white;
+    overflow: hidden;
+}
+
+.notice-card {
+    border-bottom: 1px solid #eee;
+    padding: 15px 0;
+}
+
+.notice-card:last-child {
+    border-bottom: none;
+}
+
+/* 공지 카드 내 시간 스타일 */
+.notice-time {
+    font-size: 0.8rem;
+    color: #888;
+    margin-bottom: 5px;
+    font-family: monospace;
+}
+
+/* 신규 공지 배지 */
+.new-badge {
+    background-color: #ff4d4d;
+    color: white;
+    font-size: 0.7rem;
+    padding: 2px 6px;
+    border-radius: 4px;
+    margin-left: 8px;
+    vertical-align: middle;
+}
+
+/* 년/월 그룹 헤더 */
+.group-header {
+    margin-top: 40px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #007bff;
+    color: #333;
+    font-size: 1.3rem;
+}
+
+/* 데이터가 없을 때 또는 에러 메시지 */
+.no-data, .error-msg {
+    text-align: center;
+    padding: 50px;
+    color: #666;
+}
+
+/* 배너 크기 조정 */
+.banner {
+    width: 100%;
+    max-width: 800px; /* 배너의 최대 너비를 제한하여 너무 크게 나오지 않게 함 */
+    margin: 0 auto;
+    overflow: hidden;
+    border-radius: 10px; /* 모서리를 약간 둥글게 (선택 사항) */
+}
+
+header .banner img {
+    width: 100%;       /* 화면 너비에 맞춤 */
+    height: auto;      /* 비율 유지 */
+    display: block;    /* 하단 여백 제거 */
+}
+
+/* 로고 중앙 정렬 및 크기 조절 */
+.logo {
+    margin-bottom: 20px; /* 로고와 배너 사이 간격 */
+    text-align: center;
+}
+
+.logo img {
+    
+    /* ✅ 모서리를 둥글게 만드는 코드 */
+    border-radius: 20px; /* 숫자가 커질수록 더 둥글어집니다 (원하는 만큼 조절하세요) */
+    
+    /* (선택 사항) 로고에 약간의 그림자를 주어 더 입체적으로 보이게 하고 싶다면 추가 */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    
+    max-width: 100px;  /* 로고가 너무 크면 적절히 조절 */
+    height: auto;
+}
+
+/* 공지 카드 스타일 */
+.notice-card {
+    background: white;
+    border: 1px solid #e1e1e1;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 15px 0;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.notice-time {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.85rem;
+    color: #888;
+    margin-bottom: 8px;
+}
+
+.notice-title h3 {
+    margin: 0;
+    color: #007bff;
+    font-size: 1.1rem;
+}
+
+.notice-body {
+    margin-top: 10px;
+    line-height: 1.6;
+    color: #555;
+}
+
+/* 네비게이션 메뉴 중앙 정렬 */
+nav {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; /* 화면이 작아지면 메뉴가 아래로 내려가도록 */
+    gap: 15px;
+}
+
+/* 월별 헤더를 클릭할 수 있는 버튼처럼 보이게 함 */
+.group-header.accordion {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    padding: 12px 20px;
+    border-radius: 5px;
+    transition: background-color 0.2s;
+}
+
+.group-header.accordion:hover {
+    background-color: #e9ecef;
+}
+
+.panel {
+    border-left: 2px solid #007bff; /* 왼쪽에 강조선 추가 */
+    margin-bottom: 20px;
+}
