@@ -66,13 +66,34 @@ nav a.active {
 }
 
 .main-content {
-    width: min(100%, 980px);
+    width: min(100%, 1280px);
     margin: 0 auto;
     padding: 0 16px 40px;
 }
 
+.content-grid {
+    display: grid;
+    grid-template-columns: minmax(260px, 30%) minmax(0, 70%);
+    gap: 24px;
+    align-items: start;
+    margin-top: 18px;
+}
+
+.notice-column,
+.song-column {
+    min-width: 0;
+}
+
+.notice-column {
+    position: sticky;
+    top: 12px;
+    max-height: calc(100vh - 24px);
+    overflow: auto;
+    padding-right: 4px;
+}
+
 .song-app {
-    margin: 24px 0 34px;
+    margin: 0 0 34px;
     border-top: 1px solid #ece8f5;
     border-bottom: 1px solid #ece8f5;
     padding: 18px 0;
@@ -242,7 +263,7 @@ header {
 /* 컨텐츠가 들어가는 패널 */
 .panel {
     padding: 0 10px;
-    display: block; /* 기본값 열림 */
+    display: none;
     background-color: white;
     overflow: hidden;
 }
@@ -378,4 +399,17 @@ nav {
 .panel {
     border-left: 2px solid #007bff; /* 왼쪽에 강조선 추가 */
     margin-bottom: 20px;
+}
+
+@media (max-width: 860px) {
+    .content-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .notice-column {
+        position: static;
+        max-height: none;
+        overflow: visible;
+        padding-right: 0;
+    }
 }
