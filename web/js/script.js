@@ -452,11 +452,12 @@ function renderNotices(notices) {
 
       const groupHeader = document.createElement('button');
       groupHeader.className = 'group-header accordion';
-      groupHeader.innerHTML = `📅 ${year}년 ${parseInt(month, 10)}월 <span class="arrow">▼</span>`;
+      groupHeader.innerHTML = `📅 ${year}년 ${parseInt(month, 10)}월 <span class="arrow">▶</span>`;
       container.appendChild(groupHeader);
 
       currentContentDiv = document.createElement('div');
       currentContentDiv.className = 'panel';
+      currentContentDiv.style.display = 'none';
       container.appendChild(currentContentDiv);
 
       groupHeader.addEventListener('click', function () {
