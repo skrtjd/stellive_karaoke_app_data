@@ -75,6 +75,7 @@ const app = initializeApp(firebaseConfig);
 const auth = getAuth(app);
 const db = getFirestore(app);
 const provider = new GoogleAuthProvider();
+provider.setCustomParameters({ prompt: 'select_account' });
 
 let currentUser = null;
 let favoriteTitles = new Set();
@@ -132,8 +133,40 @@ function renderAuthBar() {
     return;
   }
 
-  authBar.innerHTML = '<button type="button" id="login-button">Google 로그인</button>';
-  document.getElementById('login-button').addEventListener('click', () => signInWithPopup(auth, provider));
+  authBar.innerHTML = `
+    <button type="button" id="login-button">Google 로그인</button>
+    <span id="auth-error" class="auth-error" role="alert"></span>
+  `;
+  document.getElementById('login-button').addEventListener('click', handleGoogleLogin);
+}
+
+async function handleGoogleLogin() {
+  const errorEl = document.getElementById('auth-error');
+  if (errorEl) errorEl.textContent = '';
+
+  try {
+    await signInWithPopup(auth, provider);
+  } catch (error) {
+    console.error('Google 로그인 실패:', error);
+    if (errorEl) {
+      errorEl.textContent = getAuthErrorMessage(error);
+    }
+  }
+}
+
+function getAuthErrorMessage(error) {
+  switch (error?.code) {
+    case 'auth/unauthorized-domain':
+      return 'Firebase 승인 도메인에 현재 주소를 추가해야 합니다.';
+    case 'auth/popup-blocked':
+      return '브라우저가 로그인 팝업을 차단했습니다.';
+    case 'auth/popup-closed-by-user':
+      return '로그인 창이 닫혔습니다.';
+    case 'auth/operation-not-allowed':
+      return 'Firebase Console에서 Google 로그인을 활성화해야 합니다.';
+    default:
+      return 'Google 로그인에 실패했습니다. 브라우저 콘솔을 확인해주세요.';
+  }
 }
 
 async function loadMemberCategories() {
