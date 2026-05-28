@@ -1,6 +1,7 @@
 name: Send notice push
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -24,11 +25,33 @@ jobs:
           node <<'NODE'
           const fs = require('fs');
 
+          if (!process.env.FIREBASE_SERVICE_ACCOUNT_JSON) {
+            throw new Error('FIREBASE_SERVICE_ACCOUNT_JSON secret is empty or missing.');
+          }
+
+          if (!fs.existsSync('assets/data/notices.json')) {
+            throw new Error('assets/data/notices.json was not found. Check the repository path.');
+          }
+
           const notices = JSON.parse(fs.readFileSync('assets/data/notices.json', 'utf8'));
+          if (!Array.isArray(notices) || notices.length === 0) {
+            throw new Error('assets/data/notices.json must be a non-empty JSON array.');
+          }
+          
           notices.sort((a, b) => String(b.date).localeCompare(String(a.date)));
           const latest = notices[0];
+          console.log('Latest notice selected:', {
+            id: latest.id,
+            date: latest.date,
+            title: latest.title,
+          });
 
           const serviceAccount = JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT_JSON);
+          if (!serviceAccount.project_id || !serviceAccount.client_email || !serviceAccount.private_key) {
+            throw new Error('FIREBASE_SERVICE_ACCOUNT_JSON is not a valid service account JSON.');
+          }
+          console.log('FCM project:', serviceAccount.project_id);
+          
           const now = Math.floor(Date.now() / 1000);
           const header = Buffer.from(JSON.stringify({ alg: 'RS256', typ: 'JWT' })).toString('base64url');
           const claim = Buffer.from(JSON.stringify({
@@ -93,7 +116,7 @@ jobs:
 
             const result = await response.text();
             if (!response.ok) throw new Error(result);
-            console.log(result);
+            console.log('FMC response:', result);
           }
 
           main().catch((error) => {
