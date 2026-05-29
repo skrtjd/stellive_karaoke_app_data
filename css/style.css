@@ -221,7 +221,7 @@ nav a.active {
 header {
     display: flex;
     flex-direction: column;
-    align-items: flex-start; /* 가로축 중앙 정렬 */
+    align-items: center; /* 가로축 중앙 정렬 */
     padding: 20px 0;
 }
 
