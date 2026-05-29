@@ -223,6 +223,7 @@ header {
     flex-direction: column;
     align-items: center; /* 가로축 중앙 정렬 */
     padding: 20px 0;
+    position: relative;
 }
 
 /* 년도/월 그룹 헤더 */
@@ -335,6 +336,9 @@ header .banner img {
 
 /* 로고 중앙 정렬 및 크기 조절 */
 .logo {
+    position: absolute;  /* 공중에 띄워서 독립적으로 배치 */
+    top: 20px;           /* 상단에서 20px 떨어진 위치 */
+    left: 20px;          /* 좌측에서 20px 떨어진 위치 */
     margin-bottom: 20px; /* 로고와 배너 사이 간격 */
     text-align: left;
 }
