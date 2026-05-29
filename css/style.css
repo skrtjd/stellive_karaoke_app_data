@@ -336,7 +336,7 @@ header .banner img {
 /* 로고 중앙 정렬 및 크기 조절 */
 .logo {
     margin-bottom: 20px; /* 로고와 배너 사이 간격 */
-    text-align: center;
+    text-align: left;
 }
 
 .logo img {
