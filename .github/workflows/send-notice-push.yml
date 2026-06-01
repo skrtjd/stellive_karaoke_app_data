@@ -115,7 +115,6 @@ jobs:
                       notification: {
                         channel_id: 'new_notices',
                         sound: 'default',
-                        default_sound: true,
                       },
                     },
                   },
