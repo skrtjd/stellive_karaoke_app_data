@@ -2,6 +2,11 @@ name: Send notice push
 
 on:
   workflow_dispatch:
+    inputs:
+      fcm_token:
+        description: 'Optional FCM registration token for direct test delivery'
+        required: false
+        type: string
   push:
     branches:
       - main
@@ -37,9 +42,11 @@ jobs:
           if (!Array.isArray(notices) || notices.length === 0) {
             throw new Error('assets/data/notices.json must be a non-empty JSON array.');
           }
-          
+
           notices.sort((a, b) => String(b.date).localeCompare(String(a.date)));
           const latest = notices[0];
+          const directToken = '${{ github.event.inputs.fcm_token }}'.trim();
+
           console.log('Latest notice selected:', {
             id: latest.id,
             date: latest.date,
@@ -51,7 +58,8 @@ jobs:
             throw new Error('FIREBASE_SERVICE_ACCOUNT_JSON is not a valid service account JSON.');
           }
           console.log('FCM project:', serviceAccount.project_id);
-          
+          console.log('FCM target:', directToken ? 'direct token' : 'topic notices');
+
           const now = Math.floor(Date.now() / 1000);
           const header = Buffer.from(JSON.stringify({ alg: 'RS256', typ: 'JWT' })).toString('base64url');
           const claim = Buffer.from(JSON.stringify({
@@ -91,7 +99,7 @@ jobs:
                 },
                 body: JSON.stringify({
                   message: {
-                    topic: 'notices',
+                    ...(directToken ? { token: directToken } : { topic: 'notices' }),
                     notification: {
                       title: latest.title || '새 공지사항',
                       body: latest.body || latest.content || '',
@@ -99,7 +107,7 @@ jobs:
                     data: {
                       noticeId: String(latest.id || ''),
                       noticeDate: String(latest.date || ''),
-                      title: String(latest.title || ''),
+                      title: String(latest.title || '새 공지사항'),
                       body: String(latest.body || latest.content || ''),
                     },
                     android: {
@@ -107,6 +115,7 @@ jobs:
                       notification: {
                         channel_id: 'new_notices',
                         sound: 'default',
+                        default_sound: true,
                       },
                     },
                   },
@@ -116,7 +125,7 @@ jobs:
 
             const result = await response.text();
             if (!response.ok) throw new Error(result);
-            console.log('FMC response:', result);
+            console.log('FCM response:', result);
           }
 
           main().catch((error) => {
