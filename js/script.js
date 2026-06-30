@@ -204,6 +204,7 @@ function renderSongShell() {
 async function selectMember(memberId) {
   currentMember = memberId;
   document.getElementById('member-select').value = memberId;
+  setFavoriteFilterActive(false);
   document.querySelectorAll('nav a[data-member]').forEach((link) => {
     link.classList.toggle('active', link.dataset.member === memberId);
   });
@@ -257,6 +258,7 @@ function renderCategoryTabs(categories) {
 
 async function selectCategory(category) {
   currentCategory = category;
+  setFavoriteFilterActive(false);
   renderCategoryTabs(getCategoriesForMember(currentMember));
   const list = document.getElementById('song-list');
   list.innerHTML = '<p class="no-data">곡 목록을 불러오는 중입니다...</p>';
@@ -346,11 +348,30 @@ function renderConcerts(concerts) {
 }
 
 async function renderFavorites() {
-  currentCategory = '';
+  currentCategory = 'favorites';
+  setFavoriteFilterActive(true);
   renderCategoryTabs(getCategoriesForMember(currentMember));
-  const allSongs = await fetchJson(`${DATA_ROOT}/all.json`, 'all.json');
-  const favorites = allSongs.filter((song) => favoriteTitles.has(song.title));
-  renderSongs(favorites);
+  const list = document.getElementById('song-list');
+
+  if (favoriteTitles.size === 0) {
+    list.innerHTML = '<p class="no-data">즐겨찾기한 곡이 없습니다. 곡 오른쪽의 ☆ 버튼을 눌러 추가해 주세요.</p>';
+    return;
+  }
+
+  list.innerHTML = '<p class="no-data">즐겨찾기 목록을 불러오는 중입니다...</p>';
+
+  try {
+    const allSongs = await fetchJson(`${DATA_ROOT}/all.json`, 'all.json');
+    const favorites = allSongs.filter((song) => favoriteTitles.has(song.title));
+    if (favorites.length > 0) {
+      renderSongs(favorites);
+      return;
+    }
+  } catch (error) {
+    console.warn('전체 곡 목록 로드 실패, 저장된 제목만 표시합니다:', error);
+  }
+
+  renderSongs([...favoriteTitles].map((title) => ({ title })));
 }
 
 function renderSongRow(song) {
@@ -390,6 +411,10 @@ function bindFavoriteButtons(root) {
       }
       updateFavoriteButton(button, title);
       await saveFavorites();
+
+      if (currentCategory === 'favorites' && !favoriteTitles.has(title)) {
+        await renderFavorites();
+      }
     });
   });
 }
@@ -404,6 +429,15 @@ function updateFavoriteButton(button, title) {
   const isFavorite = favoriteTitles.has(title);
   button.classList.toggle('active', isFavorite);
   button.textContent = isFavorite ? '★' : '☆';
+  button.setAttribute('aria-pressed', String(isFavorite));
+  button.title = isFavorite ? '즐겨찾기 해제' : '즐겨찾기 추가';
+}
+
+function setFavoriteFilterActive(isActive) {
+  const button = document.getElementById('favorite-filter-button');
+  if (!button) return;
+  button.classList.toggle('active', isActive);
+  button.setAttribute('aria-pressed', String(isActive));
 }
 
 async function saveFavorites() {
