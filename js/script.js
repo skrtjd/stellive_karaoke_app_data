@@ -48,7 +48,7 @@ const categoryLabels = {
   cover: '커버',
   collabo: '콜라보 / 의뢰',
   playlist: '플레이리스트',
-  mashup: '매쉬업',
+  mashup: 'J-POP Mashup!',
   concert: '콘서트',
   medley: '메들리',
 };
@@ -68,7 +68,9 @@ const fallbackFiles = {
   cover: 'cover.json',
   collabo: 'collabo.json',
   playlist: 'playlist.json',
+  mashup: 'mashup.json',
   concert: 'concerts.json',
+  medley: 'medley.json',
 };
 
 const app = initializeApp(firebaseConfig);
@@ -214,8 +216,26 @@ async function selectMember(memberId) {
 
 function getCategoriesForMember(memberId) {
   const configured = memberCategories[memberId];
-  if (Array.isArray(configured) && configured.length > 0) return configured;
-  return ['original', 'cover', 'collabo', 'playlist', 'concert'];
+  const categories = Array.isArray(configured) && configured.length > 0
+    ? configured
+    : ['original', 'cover', 'collabo', 'playlist', 'concert'];
+
+  return normalizeMemberCategories(memberId, categories);
+}
+
+function normalizeMemberCategories(memberId, categories) {
+  if (memberId === 'lize') {
+    const normalized = categories.map((category) => (
+      category === 'playlist' ? 'mashup' : category
+    ));
+    return [...new Set(normalized)];
+  }
+
+  if (memberId === 'hina' && !categories.includes('medley')) {
+    return [...categories, 'medley'];
+  }
+
+  return categories;
 }
 
 function renderCategoryTabs(categories) {
