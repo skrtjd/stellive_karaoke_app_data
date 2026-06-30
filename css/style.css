@@ -50,6 +50,12 @@ nav a.active {
     background: #f3efff;
 }
 
+.ghost-button.active {
+    background: #e9defb;
+    border-color: #d8c9f5;
+    color: #2d2450;
+}
+
 .auth-user {
     color: #555;
     font-weight: 700;
