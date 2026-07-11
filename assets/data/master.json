@@ -57,7 +57,8 @@
         "original": "lize/original.json",
         "cover": "lize/cover.json",
         "collabo": "lize/collabo.json",
-        "mashup": "lize/mashup.json"
+        "mashup": "lize/mashup.json",
+        "concerts": "lize/concerts.json"
       }
     },
     {
