@@ -30,14 +30,15 @@
         "partTitle": "2부",
         "songs": [
           {
-            "title": "ようこそジャパリパークへ(어서와 자파리 파크에)",
-            "originalArtist": "どうぶつビスケッツxPPP",
-            "tj": "28677",
-            "tj60": null,
-            "tj60mr": null,
-            "ky": null,
-            "remark": "유니&시로&부키"
-          },
+              {
+    "title": "死神(사신)",
+    "originalArtist": "米津玄師",
+    "tj": "52430",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "remark": "리제"
+         },
           {
             "title": "愛♡スクリ～ム！(아이♡스크~림!)",
             "originalArtist": "AiScReam",
