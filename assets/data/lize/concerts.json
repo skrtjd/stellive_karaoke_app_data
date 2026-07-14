@@ -1,6 +1,6 @@
 [
   {
-    "concertId": "OVT",
+    "concertId": "lize_solo",
     "concertTitle": "AKANE LIZE : OVT. FIRST SOLO CONCERT",
     "parts": [
       {
@@ -12,229 +12,165 @@
             "tj": null,
             "tj60": null,
             "tj60mr": null,
-            "ky": null,
-            "remark": "리제"
+            "ky": null
           },
           {
             "title": "抜錨(발묘)",
-            "originalArtist": "ナナホシ管弦楽団(Feat.巡音ルカ)",
+            "originalArtist": "ナナホシ管弦楽団(나나호시 관현악단)",
             "tj": null,
             "tj60": null,
             "tj60mr": null,
-            "ky": null,
-            "remark": "리제"
+            "ky": null
           }
-         ]
-        },
+        ]
+      },
       {
         "partTitle": "2부",
         "songs": [
           {
-              {
-    "title": "死神(사신)",
-    "originalArtist": "米津玄師",
-    "tj": "52430",
-    "tj60": null,
-    "tj60mr": null,
-    "ky": null,
-    "remark": "리제"
-         },
-          {
-            "title": "愛♡スクリ～ム！(아이♡스크~림!)",
-            "originalArtist": "AiScReam",
-            "tj": "52832",
+            "title": "死神(사신)",
+            "originalArtist": "米津玄師(요네즈 켄시)",
+            "tj": "52430",
             "tj60": null,
             "tj60mr": null,
-            "ky": "57813",
-            "remark": "유니&시로&부키"
+            "ky": null
+            },
+          {
+            "title": "Drowning",
+            "originalArtist": "WOODZ(조승연)",
+            "tj": "83945",
+            "tj60": null,
+            "tj60mr": null,
+            "ky": "80979"
+          },
+          {
+            "title": "꿈 넘어의 꿈",
+            "originalArtist": "아카네 리제",
+            "tj": null,
+            "tj60": null,
+            "tj60mr": null,
+            "ky": null
           }
-         }
         ]
       },
       {
         "partTitle": "3부",
         "songs": [
           {
-            "title": "봄꿈",
-            "originalArtist": "네네코 마시로",
+            "title": "Magic",
+            "originalArtist": "Mrs.GREEN APPLE",
+            "tj": "68835",
+            "tj60": null,
+            "tj60mr": null,
+            "ky": "44962"
+            },
+          {
+            "title": "#超絶かわいい(#초절정 귀여워)",
+            "originalArtist": "HoneyWorks(feat.mona)",
             "tj": null,
             "tj60": null,
             "tj60mr": null,
-            "ky": null,
-            "remark": "시로"
-          },
-          {
-            "title": "白金ディスコ(백금 디스코)",
-            "originalArtist": "井口裕香",
-            "tj": "27589",
-            "tj60": null,
-            "tj60mr": null,
-            "ky": "43605",
-            "remark": "히나&시로"
-          },
-          {
-            "title": "ルカルカ★ナイトフィーバー(루카루카★나이트 피버)",
-            "originalArtist": "samfree(feat.巡音ルカ)",
-            "tj": "27031",
-            "tj60": null,
-            "tj60mr": null,
-            "ky": "43185",
-            "remark": "유니&리제"
-          },
-          {
-            "title": "愛包ダンスホール(사랑파이 댄스홀)",
-            "originalArtist": "ヒメヒナ",
-            "tj": null,
-            "tj60": null,
-            "tj60mr": null,
-            "ky": null,
-            "remark": "부키&리코"
-          },
-          {
-            "title": "Rewrite the Stars",
-            "originalArtist": "Zac Efron, Zendaya",
-            "tj": "23165",
-            "tj60": null,
-            "tj60mr": null,
-            "ky": "89190",
-            "remark": "타비&나나"
-          },
-          {
-            "title": "Stars Align",
-            "originalArtist": "Universe(네네코 마시로, 시라유키 히나, 아카네 리제, 아라하시 타비)",
-            "tj": null,
-            "tj60": null,
-            "tj60mr": null,
-            "ky": null,
-            "remark": "Universe"
-          },
-          {
-            "title": "M@STERPIECE",
-            "originalArtist": "765PRO ALLSTARS",
-            "tj": null,
-            "tj60": "28534",
-            "tj60mr": null,
-            "ky": "43965",
-            "remark": "Universe"
-          }
+            "ky": null
+            }
         ]
       },
       {
         "partTitle": "4부",
         "songs": [
           {
-            "title": "Pretender",
-            "originalArtist": "Official髭男dism",
-            "tj": "68058",
+            "title": "APT.",
+            "originalArtist": "로제(ROSE),Bruno Mars",
+            "tj": "43681",
             "tj60": null,
-            "tj60mr": null,
-            "ky": "44438",
-            "remark": "히나&린"
+            "tj60mr": "64435",
+            "ky": "71735"
           },
           {
-            "title": "シュガーソングとビターステップ(슈가 송과 비터 스텝)",
-            "originalArtist": "UNISON SQUARE GARDEN",
-            "tj": "27737",
+            "title": "PPPP",
+            "originalArtist": "TAK(feat.初音ミク, 重音テト)",
+            "tj": "52516",
             "tj60": null,
             "tj60mr": null,
-            "ky": "43920",
-            "remark": "히나&린"
-          }
+            "ky": null
+            },
+          {
+            "title": "NIGHT DANCER",
+            "originalArtist": "imase",
+            "tj": "68740",
+            "tj60": null,
+            "tj60mr": null,
+            "ky": "44891"
+            },
+          {
+            "title": "トンデモワンダーズ(톤데모 원더즈)",
+            "originalArtist": "sasakure.UK(feat.初音ミク)",
+            "tj": null,
+            "tj60": null,
+            "tj60mr": null,
+            "ky": null
+            }
         ]
       },
       {
         "partTitle": "5부",
         "songs": [
           {
-            "title": "하나(夏拏)",
-            "originalArtist": "시라유키 히나",
+            "title": "Never Enough(The Greatest Showman OST)",
+            "originalArtist": "Loren Allred(로렌 올레드)",
+            "tj": "23161",
+            "tj60": null,
+            "tj60mr": null,
+            "ky": "91144"
+          },
+          {
+            "title": "唱(Show)",
+            "originalArtist": "Ado",
+            "tj": "68883",
+            "tj60": null,
+            "tj60mr": null,
+            "ky": "75832"
+            },
+          {
+            "title": "ODDS&ENDS",
+            "originalArtist": "ryo(supercell)(feat.初音ミク)",
             "tj": null,
-            "tj60": null,
+            "tj60": "28097",
             "tj60mr": null,
-            "ky": null,
-            "remark": "히나"
-          },
-          {
-            "title": "感電(감전)",
-            "originalArtist": "米津玄師",
-            "tj": "68300",
-            "tj60": null,
-            "tj60mr": null,
-            "ky": "44591",
-            "remark": "린"
-          },
-          {
-            "title": "新時代(신시대)",
-            "originalArtist": "ado",
-            "tj": "68799",
-            "tj60": null,
-            "tj60mr": null,
-            "ky": "57817",
-            "remark": "리제&나나"
-          },
-          {
-            "title": "狂乱 Hey Kids!!(광란 Hey Kids!!)",
-            "originalArtist": "THE ORAL CIGARETTES",
-            "tj": "27893",
-            "tj60": null,
-            "tj60mr": null,
-            "ky": "44023",
-            "remark": "리제&나나"
-          }
-        ]
-      },
-      {
-        "partTitle": "5부",
-        "songs": [
-          {
-            "title": "愛を伝えたいだとか(사랑을 전하고 싶다든가)",
-            "originalArtist": "あいみょん",
-            "tj": "28907",
-            "tj60": null,
-            "tj60mr": null,
-            "ky": "44310",
-            "remark": "나나"
-          },
-          {
-            "title": "Festa!",
-            "originalArtist": "아카네 리제",
-            "tj": "44430",
-            "tj60": null,
-            "tj60mr": null,
-            "ky": null,
-            "remark": "리제"
-          },
-          {
-            "title": "Our Tales",
-            "originalArtist": "Cliché(텐코 시부키, 아오쿠모 린, 하나코 나나, 유즈하 리코)",
-            "tj": "43527",
-            "tj60": null,
-            "tj60mr": null,
-            "ky": null,
-            "remark": "Cliché"
-          },
-          {
-            "title": "モア！ジャンプ！モア！(모어! 점프! 모어!)",
-            "originalArtist": "ナユタン星人(feat.初音ミク)",
-            "tj": null,
-            "tj60": null,
-            "tj60mr": null,
-            "ky": null,
-            "remark": "Cliché"
-          }
+            "ky": "43538"
+            }
         ]
       },
       {
         "partTitle": "6부",
         "songs": [
           {
-            "title": "Q&A リサイタル!(Q&A 리사이틀!)",
-            "originalArtist": "戸松遥",
+            "title": "BURN IT UP",
+            "originalArtist": "아카네 리제",
             "tj": null,
-            "tj60": "28107",
+            "tj60": null,
             "tj60mr": null,
-            "ky": "43565",
-            "remark": "부키"
+            "ky": null
+          },
+          {
+            "title": "We are",
+            "originalArtist": "ONE OK ROCK",
+            "tj": null,
+            "tj60": "28668",
+            "tj60mr": null,
+            "ky": "44120"
+          }
+        ]
+      },
+      {
+        "partTitle": "Encore",
+        "songs": [
+          {
+            "title": "Festa!",
+            "originalArtist": "아카네 리제",
+            "tj": "44430",
+            "tj60": null,
+            "tj60mr": null,
+            "ky": null
           },
           {
             "title": "ケセラセラ(케세라세라)",
@@ -242,67 +178,7 @@
             "tj": "52844",
             "tj60": null,
             "tj60mr": null,
-            "ky": "57810",
-            "remark": "리코"
-          },
-          {
-            "title": "SUPADOPA",
-            "originalArtist": "아야츠노 유니",
-            "tj": null,
-            "tj60": null,
-            "tj60mr": null,
-            "ky": null,
-            "remark": "유니"
-          },
-          {
-            "title": "삐질게",
-            "originalArtist": "아야츠노 유니",
-            "tj": "51617",
-            "tj60": null,
-            "tj60mr": null,
-            "ky": null,
-            "remark": "유니"
-          }
-        ]
-      },
-      {
-        "partTitle": "7부",
-        "songs": [
-          {
-            "title": "星間飛行(성간비행)",
-            "originalArtist": "ランカ・リー＝中島愛",
-            "tj": "26805",
-            "tj60": null,
-            "tj60mr": null,
-            "ky": "42836",
-            "remark": "후야"
-          },
-          {
-            "title": "내꺼 하는 법(How to be mine)",
-            "originalArtist": "아야츠노 유니",
-            "tj": "84251",
-            "tj60": null,
-            "tj60mr": null,
-            "ky": "99555",
-            "remark": "유니"
-          },
-          {
-            "title": "히로인이 되고 싶어",
-            "originalArtist": "아야츠노 유니, 네네코 마시로, 시라유키 히나, 아카네 리제, 아라하시 타비, 텐코 시부키, 아오쿠모 린, 하나코 나나, 유즈하 리코",
-            "tj": null,
-            "tj60": null,
-            "tj60mr": null,
-            "ky": null,
-            "remark": "Stellive"
-          },
-          {
-            "title": "STAR TRAIL",
-            "originalArtist": "아야츠노 유니, 네네코 마시로, 시라유키 히나, 아카네 리제, 아라하시 타비, 텐코 시부키, 아오쿠모 린, 하나코 나나, 유즈하 리코",
-            "tj": null,
-            "tj60": null,
-            "tj60mr": null,
-            "ky": null,
-            "remark": "Stellive"
+            "ky": "57810"
           }
         ]
       }
