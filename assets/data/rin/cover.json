@@ -306,7 +306,7 @@
   },
   {
     "title": "ダンスロボットダンス(댄스 로봇 댄스)",
-    "originalArtist": "ナユタン星人(Feat.初音ミク)",
+    "originalArtist": "ナユタン星人(feat.初音ミク)",
     "tj": "68096",
     "tj60": null,
     "tj60mr": null,
@@ -356,6 +356,14 @@
     "title": "千鳥(물떼새)",
     "originalArtist": "ヨルシカ",
     "tj": "52504",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null
+  },
+  {
+    "title": "少女レイ(소녀레이)",
+    "originalArtist": "みきとP(feat.初音ミク)",
+    "tj": "68106",
     "tj60": null,
     "tj60mr": null,
     "ky": null
