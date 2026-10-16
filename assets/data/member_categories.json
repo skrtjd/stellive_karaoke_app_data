@@ -10,6 +10,9 @@
   "nana":  ["original", "cover", "collabo"],
   "riko":  ["original", "cover", "collabo", "playlist"],
   "toa":  ["original","cover"],
+  "rang":  ["original","cover"],
+  "hiyori":  ["original","cover"],
+  "mary":  ["original","cover"],
   "kanna":  ["original", "cover", "collabo", "playlist", "concert"],
   "GS":     ["original", "cover", "concert"]
 }
