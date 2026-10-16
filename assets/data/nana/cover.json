@@ -120,14 +120,6 @@
     "ky": "44478"
   },
   {
-    "title": "JANE DOE",
-    "originalArtist": "米津玄師 & 宇多田ヒカル",
-    "tj": "52972",
-    "tj60": null,
-    "tj60mr": null,
-    "ky": "57784"
-  },
-  {
     "title": "ヒビカセ(울려퍼져라)",
     "originalArtist": "Giga(feat.初音ミク)",
     "tj": "52553",
@@ -159,14 +151,6 @@
     "tj60mr": null,
     "ky": "43237"
 },
-  {
-    "title": "Yin and Yang",
-    "originalArtist": "지코, 크러쉬",
-    "tj": "51540",
-    "tj60": null,
-    "tj60mr": null,
-    "ky": "50864"
-},
 {
     "title": "罪と罰(죄와 벌)",
     "originalArtist": "椎名林檎",
@@ -179,14 +163,6 @@
     "title": "One Last Kiss",
     "originalArtist": "宇多田ヒカル",
     "tj": "52459",
-    "tj60": null,
-    "tj60mr": null,
-    "ky": null
-},
-{
-    "title": "deja vu",
-    "originalArtist": "Olivia Rodrigo",
-    "tj": "23745",
     "tj60": null,
     "tj60mr": null,
     "ky": null
@@ -270,14 +246,6 @@
   "tj60": null,
   "tj60mr": null,
   "ky": "91929"
-  },
-  {
-  "title": "ブレインロット(브레인롯)",
-  "originalArtist": "東京真中(feat.重音テト)",
-  "tj": null,
-  "tj60": null,
-  "tj60mr": null,
-  "ky": null
   }
 ]
 
