@@ -11,19 +11,17 @@ FILES = ('original.json', 'cover.json', 'collabo.json', 'playlist.json', 'mashup
 
 def read_entries(path):
     with path.open(encoding='utf-8-sig') as f:
-        
-try:
-    data = json.load(f)
-except json.JSONDecodeError as e:
-    print(f"❌ JSON 문법 오류: {path}", flush=True)
-    print(f"   위치: {e.lineno}번째 줄, {e.colno}번째 문자", flush=True)
-    print(f"   원인: {e.msg}", flush=True)
-    raise
-
-    if not isinstance(data, list):
-        raise ValueError(f'{path}: expected a JSON array')
-    return data
-
+        try:
+            data = json.load(f)
+        except json.JSONDecodeError as e:
+            print(f"❌ JSON 문법 오류: {path}", flush=True)
+            print(f"   위치: {e.lineno}번째 줄, {e.colno}번째 문자", flush=True)
+            print(f"   원인: {e.msg}", flush=True)
+            raise
+            if not isinstance(data, list):
+                raise ValueError(f'{path}: expected a JSON array')
+                return data
+                
 
 def build():
     results = []
