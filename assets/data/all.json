@@ -9079,6 +9079,22 @@
     }
   },
   {
+    "title": "革命道中(혁명도중)",
+    "originalArtist": "アイナ・ジ・エンド(Aina The End)",
+    "tj": "52461",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "57770",
+    "_source": {
+      "member": "shibuki",
+      "category": "cover",
+      "file": "assets/data/shibuki/cover.json",
+      "location": [
+        24
+      ]
+    }
+  },
+  {
     "title": "도깨비꽃",
     "originalArtist": "텐코 시부키",
     "collaboWith": "TAK",
