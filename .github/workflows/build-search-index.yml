@@ -1,0 +1,31 @@
+name: Build search index
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'assets/data/**/*.json'
+      - 'scripts/build_all.py'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate all.json
+        run: python scripts/build_all.py
+      - name: Commit generated index if changed
+        run: |
+          git add assets/data/all.json
+          if git diff --cached --quiet; then
+            echo 'Index unchanged'
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'chore: regenerate search index'
+          git push
