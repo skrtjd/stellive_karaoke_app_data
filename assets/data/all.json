@@ -1597,6 +1597,22 @@
     }
   },
   {
+    "title": "打上花火(타상연화)",
+    "originalArtist": "DAOKO, 米津玄師",
+    "tj": "28750",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44190",
+    "_source": {
+      "member": "hina",
+      "category": "cover",
+      "file": "assets/data/hina/cover.json",
+      "location": [
+        39
+      ]
+    }
+  },
+  {
     "title": "불꽃(Seed of Hope)",
     "originalArtist": "시라유키 히나",
     "collaboWith": "명일방주",
