@@ -7488,6 +7488,22 @@
     }
   },
   {
+    "title": "打上花火(타상연화)",
+    "originalArtist": "DAOKO, 米津玄師",
+    "tj": "28750",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44190",
+    "_source": {
+      "member": "rin",
+      "category": "cover",
+      "file": "assets/data/rin/cover.json",
+      "location": [
+        48
+      ]
+    }
+  },
+  {
     "title": "꿈의 카니발(Grand Feast Daydream)",
     "originalArtist": "추화정",
     "collaboWith": "명조:워더링 웨이브",
