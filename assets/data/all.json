@@ -2252,6 +2252,22 @@
     }
   },
   {
+    "title": "Letters to me(이환 OST)",
+    "originalArtist": "아카네 린",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "_source": {
+      "member": "huya",
+      "category": "cover",
+      "file": "assets/data/huya/cover.json",
+      "location": [
+        6
+      ]
+    }
+  },
+  {
     "title": "ADDICT!ON",
     "originalArtist": "아이리 칸나",
     "tj": "83718",
