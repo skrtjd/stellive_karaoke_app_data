@@ -4858,6 +4858,22 @@
     }
   },
   {
+    "title": "オツキミリサイタ(달맞이 리사이틀)",
+    "originalArtist": "じん(feat.IA)",
+    "tj": null,
+    "tj60": "28181",
+    "tj60mr": null,
+    "ky": "43733",
+    "_source": {
+      "member": "mashiro",
+      "category": "cover",
+      "file": "assets/data/mashiro/cover.json",
+      "location": [
+        19
+      ]
+    }
+  },
+  {
     "title": "조용히 완전히 영원히",
     "originalArtist": "너드커넥션(Nerd Connection)",
     "tj": "82231",
