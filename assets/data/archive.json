@@ -1,7 +1,62 @@
 [
   {
+    "song_ID":"S000009",
+    "title": "좋아하니까",
+    "title_jp":"新時代",
+    "originalArtist": "『ユイカ』",
+    "tj": "68523",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44734",
+    "japan":
+    {
+    "joysound":
+    [
+      {
+        "type": "standard",
+        "number": "498997",
+        "label": "일반 반주"
+      },
+      {
+        "type":"music_video",
+        "number":"881668",
+        "label":"뮤직비디오"
+      },
+      {
+        "type": "guide_vocal",
+        "number": "348923",
+        "label": "가이드 보컬"
+      },
+      {
+        "type": "short_version",
+        "number": "611829",
+        "label": "사비카라(サビカラ)"
+      },
+      {
+        "type": "guitar_navi",
+        "number": "976687",
+        "label": "기타 내비게이션"
+      }
+    ],
+    "dam":
+    [
+      {
+        "type": "standard",
+        "number": "1128-07",
+        "label": "일반 반주"
+      },
+      {
+        "type": "original_vocal",
+        "number": "1026-58",
+        "label": "본인 가창"
+      }
+    ]
+    }
+  },
+  {
     "song_ID":"S000008",
-    "title": "好きだから｡(좋아하니까)",
+    "title": "좋아하니까",
+    "title_jp":"好きだから｡",
     "originalArtist": "『ユイカ』",
     "tj": "68523",
     "tj60": null,
