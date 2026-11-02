@@ -1,5 +1,59 @@
 [
   {
+    "song_ID":"S000014",
+    "title": "아이돌",
+    "title_jp":"アイドル",
+    "originalArtist": "YOASOBI",
+    "tj": "68781",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44923",
+    "japan":
+    {
+    "joysound":
+    [
+      {
+        "type": "standard",
+        "number": "616010",
+        "label": "일반 반주"
+      },
+      {
+        "type": "official_video",
+        "number": "717413",
+        "label": "본인 영상"
+      },
+      {
+        "type": "guide_vocal",
+        "number": "349218",
+        "label": "가이드 보컬"
+      },
+      {
+        "type": "guitar_navi",
+        "number": "976880",
+        "label": "기타 내비게이션"
+      }
+    ],
+    "dam":
+    [
+      {
+        "type": "standard",
+        "number": "1278-49",
+        "label": "일반 반주"
+      },
+      {
+        "type": "official_video",
+        "number": "1278-51",
+        "label": "비디오 클립 버전"
+      },
+      {
+        "type": "anime_video",
+        "number": "1278-53",
+        "label": "애니메이션 버전"
+      }
+    ]
+    }
+  },
+  {
     "song_ID":"S000013",
     "title": "-ERROR",
     "title_jp":null,
