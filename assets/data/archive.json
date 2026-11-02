@@ -1,5 +1,174 @@
 [
   {
+    "title": "-ERROR",
+    "originalArtist": "niki(feat. Lily)",
+    "tj": "90165",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "57722",
+    "japan":
+    {
+    "joysound":
+    [
+      {
+        "type": "standard",
+        "number": "148065",
+        "label": "일반 반주"
+      },
+      {
+        "type": "vocal_assist",
+        "number": "964969",
+        "label": "보컬 어시스트"
+      }
+    ],
+    "dam":
+    [
+      {
+        "type": "standard",
+        "number": "7620-59",
+        "label": "일반 반주"
+      }
+    ]
+    }
+  },
+  {
+    "song_ID":"S000012",
+    "title": "스즈메",
+    "title_jp":"すずめ",
+    "originalArtist": "RADWIMPS(Feat.十明)",
+    "tj": "68759",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "76511",
+    "japan":
+    {
+    "joysound":
+    [
+      {
+        "type": "standard",
+        "number": "611843",
+        "label": "일반 반주"
+      },
+      {
+        "type": "guide_vocal",
+        "number": "349024",
+        "label": "가이드 보컬"
+      },
+      {
+        "type": "guitar_navi",
+        "number": "976765",
+        "label": "기타 내비게이션"
+      }
+    ],
+    "dam":
+    [
+      {
+        "type": "standard",
+        "number": "7097-22",
+        "label": "일반 반주"
+      },
+      {
+        "type": "standard",
+        "number": "7097-26",
+        "label": "영화 타이업 버전"
+      }
+    ]
+    }
+  },
+  {
+    "song_ID":"S000011",
+    "title": "삼문소설",
+    "title_jp":"三文小説",
+    "originalArtist": "King Gnu",
+    "tj": "68346",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44630",
+    "japan":
+    {
+    "joysound":
+    [
+      {
+        "type": "standard",
+        "number": "487165",
+        "label": "일반 반주"
+      },
+      {
+        "type": "official_video",
+        "number": "716445",
+        "label": "본인 영상"
+      },
+      {
+        "type": "guide_vocal",
+        "number": "348373",
+        "label": "가이드 보컬"
+      }
+    ],
+    "dam":
+    [
+      {
+        "type": "official_video",
+        "number": "1336-18",
+        "label": "본인 영상"
+      },
+      {
+        "type": "album_version",
+        "number": "1336-52",
+        "label": "ALBUM ver."
+      },
+      {
+        "type": "original_vocal",
+        "number": "1336-68",
+        "label": "본인 가창"
+      }
+    ]
+    }
+  },
+  {
+    "song_ID":"S000010",
+    "title": "Stellar Stellar",
+    "title_jp":null,
+    "originalArtist": "星街すいせい",
+    "tj": "68567",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44829",
+    "japan":
+    {
+    "joysound":
+    [
+      {
+        "type": "standard",
+        "number": "492710",
+        "label": "일반 반주"
+      },
+      {
+        "type": "official_video",
+        "number": "809310",
+        "label": "본인 영상"
+      },
+      {
+        "type":"recorded_audio",
+        "number":"808185",
+        "label":"레코오토(レコオト)"
+      }
+    ],
+    "dam":
+    [
+      {
+        "type": "standard",
+        "number": "1128-07",
+        "label": "일반 반주"
+      },
+      {
+        "type": "original_vocal",
+        "number": "1026-58",
+        "label": "본인 가창"
+      }
+    ]
+    }
+  },
+  {
     "song_ID":"S000009",
     "title": "신시대",
     "title_jp":"新時代",
