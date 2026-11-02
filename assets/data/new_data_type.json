@@ -15,56 +15,47 @@
       {
         "type": "standard",
         "number": "",
-        "label": "일반 반주",
-        "features": []
+        "label": "일반 반주"
       },
       {
         "type": "official_video",
         "number": "",
-        "label": "본인 영상",
-        "features": ["official_video"]
+        "label": "본인 영상"
       },
       {
         "type": "live",
         "number": "",
-        "label": "라이브 영상",
-        "features": ["live"]
+        "label": "라이브 영상"
       },
       {
         "type": "anime_video",
         "number": "",
-        "label": "애니메이션 영상",
-        "features": ["anime_video"]
+        "label": "애니메이션 영상"
       },
       {
         "type": "guide_vocal",
         "number": "",
-        "label": "가이드 보컬",
-        "features": ["guide_vocal"]
+        "label": "가이드 보컬"
       },
       {
         "type": "instrumental",
         "number": "",
-        "label": "악기 연주",
-        "features": ["instrumental"]
+        "label": "악기 연주"
       },
       {
         "type": "short_version",
         "number": "",
-        "label": "짧은 버전",
-        "features": ["short_version"]
+        "label": "짧은 버전"
       },
       {
         "type": "guitar_navi",
         "number": "",
-        "label": "기타 내비게이션",
-        "features": ["guitar_navi"]
+        "label": "기타 내비게이션"
       },
       {
         "type": "other",
         "number": "",
-        "label": "기타",
-        "features": []
+        "label": "기타"
       }
     ],
     "dam":
@@ -72,68 +63,57 @@
       {
         "type": "standard",
         "number": "",
-        "label": "일반 반주",
-        "features": []
+        "label": "일반 반주"
       },
       {
         "type": "official_video",
         "number": "",
-        "label": "본인 영상",
-        "features": ["official_video"]
+        "label": "본인 영상"
       },
       {
         "type": "live",
         "number": "",
-        "label": "라이브 영상",
-        "features": ["live"]
+        "label": "라이브 영상"
       },
       {
         "type": "anime_video",
         "number": "",
-        "label": "애니메이션 영상",
-        "features": ["anime_video"]
+        "label": "애니메이션 영상"
       },
       {
         "type": "guide_vocal",
         "number": "",
-        "label": "가이드 보컬",
-        "features": ["guide_vocal"]
+        "label": "가이드 보컬"
       },
       {
         "type": "instrumental",
         "number": "",
-        "label": "악기 연주",
-        "features": ["instrumental"]
+        "label": "악기 연주"
       },
       {
         "type": "short_version",
         "number": "",
-        "label": "짧은 버전",
-        "features": ["short_version"]
+        "label": "짧은 버전"
       },
       {
         "type": "live_vocal",
         "number": "",
-        "label": "본인 가창 라이브",
-        "features": ["live_vocal"]
+        "label": "본인 가창 라이브"
       },
       {
         "type": "live_sound",
         "number": "",
-        "label": "생음 연주",
-        "features": ["live_sound"]
+        "label": "생음 연주"
       },
       {
         "type": "dual_video",
         "number": "",
-        "label": "듀얼 영상",
-        "features": ["dual_video"]
+        "label": "듀얼 영상"
       },
       {
         "type": "other",
         "number": "",
-        "label": "기타",
-        "features": []
+        "label": "기타"
       }
     ]
     }
