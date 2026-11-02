@@ -14,126 +14,26 @@
     [
       {
         "type": "standard",
-        "number": "",
+        "number": "498996",
         "label": "일반 반주",
-        "features": []
-      },
-      {
-        "type": "official_video",
-        "number": "",
-        "label": "본인 영상",
-        "features": ["official_video"]
-      },
-      {
-        "type": "live",
-        "number": "",
-        "label": "라이브 영상",
-        "features": ["live"]
-      },
-      {
-        "type": "anime_video",
-        "number": "",
-        "label": "애니메이션 영상",
-        "features": ["anime_video"]
       },
       {
         "type": "guide_vocal",
-        "number": "",
+        "number": "348939",
         "label": "가이드 보컬",
-        "features": ["guide_vocal"]
-      },
-      {
-        "type": "instrumental",
-        "number": "",
-        "label": "악기 연주",
-        "features": ["instrumental"]
-      },
-      {
-        "type": "short_version",
-        "number": "",
-        "label": "짧은 버전",
-        "features": ["short_version"]
       },
       {
         "type": "guitar_navi",
-        "number": "",
+        "number": "976707",
         "label": "기타 내비게이션",
-        "features": ["guitar_navi"]
-      },
-      {
-        "type": "other",
-        "number": "",
-        "label": "기타",
-        "features": []
       }
     ],
     "dam":
     [
       {
         "type": "standard",
-        "number": "",
+        "number": "1128-10",
         "label": "일반 반주",
-        "features": []
-      },
-      {
-        "type": "official_video",
-        "number": "",
-        "label": "본인 영상",
-        "features": ["official_video"]
-      },
-      {
-        "type": "live",
-        "number": "",
-        "label": "라이브 영상",
-        "features": ["live"]
-      },
-      {
-        "type": "anime_video",
-        "number": "",
-        "label": "애니메이션 영상",
-        "features": ["anime_video"]
-      },
-      {
-        "type": "guide_vocal",
-        "number": "",
-        "label": "가이드 보컬",
-        "features": ["guide_vocal"]
-      },
-      {
-        "type": "instrumental",
-        "number": "",
-        "label": "악기 연주",
-        "features": ["instrumental"]
-      },
-      {
-        "type": "short_version",
-        "number": "",
-        "label": "짧은 버전",
-        "features": ["short_version"]
-      },
-      {
-        "type": "live_vocal",
-        "number": "",
-        "label": "본인 가창 라이브",
-        "features": ["live_vocal"]
-      },
-      {
-        "type": "live_sound",
-        "number": "",
-        "label": "생음 연주",
-        "features": ["live_sound"]
-      },
-      {
-        "type": "dual_video",
-        "number": "",
-        "label": "듀얼 영상",
-        "features": ["dual_video"]
-      },
-      {
-        "type": "other",
-        "number": "",
-        "label": "기타",
-        "features": []
       }
     ]
     }
@@ -141,6 +41,7 @@
   {
     "song_ID":"S000005",
     "title": "最終花",
+    "title_jp": "最終花",
     "originalArtist": "藍璃かんな",
     "tj": null,
     "tj60": null,
@@ -154,6 +55,7 @@
   {
     "song_ID":"S000004",
     "title": "푸른 보석과 어린 용",
+    "title_jp": null,
     "originalArtist": "아이리 칸나",
     "tj": null,
     "tj60": null,
@@ -167,6 +69,7 @@
   {
     "song_ID":"S000003",
     "title": "최종화(Acoustic Ver.)",
+    "title_jp": null,
     "originalArtist": "아이리 칸나",
     "tj": "44429",
     "tj60": null,
@@ -180,6 +83,7 @@
   {
     "song_ID":"S000002",
     "title": "최종화(The Last Flower)",
+    "title_jp": null,
     "originalArtist": "아이리 칸나",
     "tj": "44108",
     "tj60": null,
@@ -195,7 +99,7 @@
     "title": "ADDICT!ON",
     "title_jp": null,
     "originalArtist": "아이리 칸나",
-    "tj": "68096",
+    "tj": "83718",
     "tj60": null,
     "tj60mr": null,
     "ky": "75422",
