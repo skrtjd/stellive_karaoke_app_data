@@ -23,6 +23,11 @@
         "label": "본인 영상"
       },
       {
+        "type":"music_video",
+        "number":"882327",
+        "label":"뮤직비디오"
+      },
+      {
         "type": "live",
         "number": "",
         "label": "라이브 영상"
