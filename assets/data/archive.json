@@ -18,107 +18,22 @@
         "label": "일반 반주",
       },
       {
-        "type": "official_video",
-        "number": "",
-        "label": "본인 영상"
-      },
-      {
         "type":"music_video",
         "number":"882327",
         "label":"뮤직비디오"
-      },
-      {
-        "type": "live",
-        "number": "",
-        "label": "라이브 영상"
-      },
-      {
-        "type": "anime_video",
-        "number": "",
-        "label": "애니메이션 영상"
-      },
-      {
-        "type": "guide_vocal",
-        "number": "",
-        "label": "가이드 보컬"
-      },
-      {
-        "type": "instrumental",
-        "number": "",
-        "label": "악기 연주"
-      },
-      {
-        "type": "short_version",
-        "number": "",
-        "label": "짧은 버전"
-      },
-      {
-        "type": "guitar_navi",
-        "number": "",
-        "label": "기타 내비게이션"
-      },
-      {
-        "type": "other",
-        "number": "",
-        "label": "기타"
       }
     ],
     "dam":
     [
       {
         "type": "standard",
-        "number": "",
+        "number": "6658-47",
         "label": "일반 반주"
       },
       {
-        "type": "official_video",
-        "number": "",
-        "label": "본인 영상"
-      },
-      {
-        "type": "live",
-        "number": "",
-        "label": "라이브 영상"
-      },
-      {
-        "type": "anime_video",
-        "number": "",
-        "label": "애니메이션 영상"
-      },
-      {
-        "type": "guide_vocal",
-        "number": "",
-        "label": "가이드 보컬"
-      },
-      {
-        "type": "instrumental",
-        "number": "",
-        "label": "악기 연주"
-      },
-      {
-        "type": "short_version",
-        "number": "",
-        "label": "짧은 버전"
-      },
-      {
-        "type": "live_vocal",
-        "number": "",
-        "label": "본인 가창 라이브"
-      },
-      {
-        "type": "live_sound",
-        "number": "",
-        "label": "생음 연주"
-      },
-      {
-        "type": "dual_video",
-        "number": "",
-        "label": "듀얼 영상"
-      },
-      {
-        "type": "other",
-        "number": "",
-        "label": "기타"
+        "type": "original_vocal",
+        "number": "1210-56",
+        "label": "본인 가창"
       }
     ]
     }
