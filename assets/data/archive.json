@@ -1,5 +1,31 @@
 [
   {
+    "title": "Love wins all",
+    "originalArtist": "IU",
+    "tj": "85842",
+    "tj60": null,
+    "tj60mr": "64336",
+    "ky": "80783",
+    "japan":
+    {
+    "joysound":
+    [
+      {
+        "type": "standard",
+        "number": "624554",
+        "label": "일반 반주"
+      }
+    ],
+      "dam": [  
+      {
+        "type": "standard",
+        "number": "6721-84",
+        "label": "일반 반주"
+      }
+      ]      
+    }
+  },
+  {
     "song_ID":"S000021",
     "title": "역광",
     "title_jp":"逆光",
