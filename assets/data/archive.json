@@ -1,5 +1,44 @@
 [
   {
+    "song_ID":"S000019",
+    "title": "사랑해줘 사랑해줘 사랑해줘",
+    "title_jp":"愛して愛して愛して",
+    "originalArtist": "きくお",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+    "joysound":
+    [
+      {
+        "type": "standard",
+        "number": "677453",
+        "label": "일반 반주"
+      },
+      {
+        "type": "official_video",
+        "number": "718861",
+        "label": "본인 영상"
+      },
+      {
+        "type": "vocal_assist",
+        "number": "970744",
+        "label": "보컬 어시스트"
+      }
+    ],
+    "dam":
+    [
+      {
+        "type": "standard",
+        "number": "7647-32",
+        "label": "일반 반주"
+      }
+    ]
+    }
+  },
+  {
     "song_ID":"S000018",
     "title": "지구본",
     "title_jp":"地球儀",
