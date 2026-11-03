@@ -1,5 +1,180 @@
 [
   {
+    "song_ID":"S000021",
+    "title": "역광",
+    "title_jp":"逆光",
+    "originalArtist": "Ado",
+    "tj": "68868",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "76509",
+    "japan":
+    {
+    "joysound":
+    [
+      {
+        "type": "standard",
+        "number": "499699",
+        "label": "일반 반주"
+      },
+      {
+        "type": "guide_vocal",
+        "number": "348943",
+        "label": "가이드 보컬"
+      },
+      {
+        "type": "guitar_navi",
+        "number": "976719",
+        "label": "기타 내비게이션"
+      }
+    ],
+      "dam": [  
+      {
+        "type": "standard",
+        "number": "1128-09",
+        "label": "일반 반주"
+      }
+      ]      
+    }
+  },
+  {
+    "song_ID":"S000020",
+    "title": "괴수의 꽃노래",
+    "title_jp":"怪獣の花唄",
+    "originalArtist": "Vaundy",
+    "tj": "52988",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "57775",
+    "japan":
+    {
+    "joysound":
+    [
+      {
+        "type": "standard",
+        "number": "485151",
+        "label": "일반 반주"
+      },
+      {
+        "type": "official_video",
+        "number": "193674",
+        "label": "본인 영상"
+      },
+      {
+        "type": "guide_vocal",
+        "number": "349682",
+        "label": "가이드 보컬"
+      },
+      {
+        "type": "vocal_assist",
+        "number": "999198",
+        "label": "보컬 어시스트"
+      },
+      {
+        "type": "short_version",
+        "number": "499667",
+        "label": "사비카라(サビカラ)"
+      },
+      {
+        "type": "guitar_navi",
+        "number": "976550",
+        "label": "기타 내비게이션"
+      },
+      {
+        "type": "live_video",
+        "number": "719016",
+        "label": "Live 영상"
+      },
+      {
+        "type":"music_video",
+        "number":"517885",
+        "label":"뮤직비디오"
+      }
+    ],
+      "dam": [        
+        {
+          "type": "official_video",
+          "number": "5277-09",
+          "label": "본인 영상"
+        },
+        {
+          "type": "album_version",
+          "number": "1375-44",
+          "label": "-replica- Album.ver"
+        },
+        {
+          "type": "instrumental",
+          "number": "1375-49",
+          "label": "명연 피아노"
+        },
+        {
+          "type": "live_vocal",
+          "number": "1375-30",
+          "label": "Live·深呼吸 (NIPPON BUDOKAN)"
+        },
+        {
+          "type": "live_vocal",
+          "number": "1089-80",
+          "label": "Live·HEADSHOT (Makuhari Messe)"
+        },
+        {
+          "type": "live_vocal",
+          "number": "1089-81",
+          "label": "Live·FUSION (ARENA TOUR)"
+        },
+        {
+          "type": "live_vocal",
+          "number": "1503-84",
+          "label": "Live·SILENCE (DOME TOUR 2026)"
+        }
+      ]      
+    }
+    },
+  {
+    "song_ID":"S000019",
+    "title": "감 그레이",
+    "title_jp":"勘ぐれい",
+    "originalArtist": "ずっと真夜中でいいのに。",
+    "tj": "68357",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+    "joysound":
+    [
+      {
+        "type": "standard",
+        "number": "488578",
+        "label": "일반 반주"
+      },
+      {
+        "type": "official_video",
+        "number": "716610",
+        "label": "본인 영상"
+      },
+      {
+        "type": "vocal_assist",
+        "number": "999333",
+        "label": "보컬 어시스트"
+      },
+      {
+        "type": "lyric_video",
+        "number": "869852",
+        "label": "가사 영상"
+      }
+    ],
+    "dam":
+    [
+      {
+        "type": "official_video",
+        "number": "5246-73",
+        "label": "본인 영상"
+      }
+    ]
+    }
+  },
+  {
     "song_ID":"S000019",
     "title": "사랑해줘 사랑해줘 사랑해줘",
     "title_jp":"愛して愛して愛して",
