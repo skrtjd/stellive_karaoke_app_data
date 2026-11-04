@@ -4,10 +4,10 @@
     "title":"월드 이즈 마인",
     "title_jp":"ワールドイズマイン",
     "originalArtist":"supercell(feat.初音ミク)",
-    "tj":"68530",
-    "tj60":null,
+    "tj":"26941",
+    "tj60":"28285",
     "tj60mr":null,
-    "ky":null,
+    "ky":"43011",
     "japan":
     {
       "joysound": [
@@ -24,9 +24,29 @@
       ],
       "dam": [
         {
-        "type": "anime_video",
-        "number": "1161-27",
-        "label": "애니메이션 영상"
+        "type": "official_video",
+        "number": "7600-65",
+        "label": "본인 영상"
+        },
+        {
+          "type": "official_video",
+          "number": "7600-01",
+          "label": "생음"
+        },
+        {
+          "type": "official_video",
+          "number": "7600-02",
+          "label": "프로오케(プロオケ)"
+        },
+        {
+          "type": "live_vocal",
+          "number": "7615-16",
+          "label": "最後のミクの日感謝祭 Live 생음, 본인영상 ver."
+        },
+        {
+          "type": "live_vocal",
+          "number": "7633-20",
+          "label": "HATSUNE MIKU EXPO 2014 in New York～Live～ 생음, 본인영상 ver."
         }
       ]
     }
