@@ -1,5 +1,104 @@
 [
   {
+    "song_ID":"S000151",
+    "title":"프라이드 혁명",
+    "title_jp":"プライド革命",
+    "originalArtist":"CHiCO with HoneyWorks",
+    "tj":"27767",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"43944",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "676147",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "702423",
+          "label": "본인 영상"
+        },
+        {
+          "type": "instrumental",
+          "number": "330195",
+          "label": "생연주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "344027",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "975087",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "music_video",
+          "number": "853538",
+          "label": "뮤직비디오"
+        },
+        {
+          "type": "short_version",
+          "number": "646070",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "anime_video",
+          "number": "3737-28",
+          "label": "애니메이션 영상"
+        },
+        {
+          "type": "anime_video",
+          "number": "4826-28",
+          "label": "애니메이션 영상, 생음"
+        },
+        {
+          "type": "official_video",
+          "number": "4826-07",
+          "label": "프로오케(プロオケ)"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000150",
+    "title":"선잠",
+    "title_jp":"うたたね",
+    "originalArtist":"Leina",
+    "tj":"68961",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"57805",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "816889",
+          "label": "본인 영상"
+        },
+        {
+          "type":"recorded_audio",
+          "number":"815445",
+          "label":"레코오토(レコオト)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "5481-27",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000149",
     "title":"절정찬가",
     "title_jp":"絶頂讃歌",
