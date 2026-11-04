@@ -1,5 +1,173 @@
 [
   {
+    "song_ID":"S000069",
+    "title":"Snow halation",
+    "title_jp":null,
+    "originalArtist":"μ's",
+    "tj":"27577",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"43721",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "104964",
+          "label": "일반 반주"
+        },
+        {
+          "type": "anime_video",
+          "number": "713205",
+          "label": "애니메이션 노래방"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "968724",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "975102",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "anime_video",
+          "number": "669414",
+          "label": "TV 사이즈"
+        }
+      ],
+      "dam": [
+        {
+          "type": "anime_video",
+          "number": "4056-99",
+          "label": "애니메이션 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000068",
+    "title":"무희",
+    "title_jp":"踊り子",
+    "originalArtist":"Vaundy",
+    "tj":"68807",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"76508",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "495104",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "193743",
+          "label": "본인 영상"
+        },
+        {
+          "type":"guide_vocal",
+          "number":"348803",
+          "label":"가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976671",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+        "type": "official_video",
+        "number": "5381-08",
+        "label": "본인 영상"
+        },
+        {
+          "type": "live_vocal",
+          "number": "1375-31",
+          "label": "～one man live at NIPPON BUDOKAN “深呼吸“～ Live 생음, 본인영상 ver."
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000067",
+    "title":"미소녀 무죄♡파이레츠",
+    "title_jp":"美少女無罪♡パイレーツ",
+    "originalArtist":"宝鐘マリン",
+    "tj":"52490",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+        "type": "standard",
+        "number": "632764",
+        "label": "일반 반주"
+      },
+      {
+        "type": "official_video",
+        "number": "825792",
+        "label": "본인 영상"
+      },
+      {
+        "type":"recorded_audio",
+        "number":"814242",
+        "label":"레코오토(レコオト)"
+      }
+      ],
+      "dam": [
+        {
+        "type": "official_video",
+        "number": "1291-86",
+        "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000066",
+    "title":"나, 아이돌 선언",
+    "title_jp":"私、アイドル宣言",
+    "originalArtist":"ONE - ナナホシ管弦楽団",
+    "tj":null,
+    "tj60":"28909",
+    "tj60mr":null,
+    "ky":"44302",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type":"standard",
+          "number":"426863",
+          "label":"일반 반주"
+        },
+        {
+          "type":"standard",
+          "number":"446137",
+          "label":"일반 반주(CV.mona)"
+        }
+      ],
+      "dam": [
+        {
+          "type":"standard",
+          "number":"4826-79",
+          "label":"일반 반주"
+        },
+        {
+          "type":"standard",
+          "number":"4514-37",
+          "label":"일반 반주(CV.mona)"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000065",
     "title":"오버라이드",
     "title_jp":"オーバーライド",
@@ -244,7 +412,7 @@
           "label": "기타 내비게이션"
         },
         {
-          "type": "live",
+          "type": "live_vocal",
           "number": "718476",
           "label": "Live ver."
         },
@@ -395,7 +563,7 @@
           "label": "프로오케(プロオケ)"
         },
         {
-          "type": "live",
+          "type": "live_vocal",
           "number": "2437-45",
           "label": "～リョクシャ化計画2023-2024 at 日本ガイシホール～ Live ver."
         }
@@ -1281,7 +1449,7 @@
         "label": "기타 내비게이션"
       },
       {
-        "type": "live",
+        "type": "live_vocal",
         "number": "160344",
         "label": "一生に一度のワープ Live ver."
       },
@@ -1308,7 +1476,7 @@
           "label": "프로오케(プロオケ)"
         },
         {
-          "type": "live",
+          "type": "live_vocal",
           "number": "7081-66",
           "label": "一生に一度のワープ Live ver."
         }
@@ -1655,7 +1823,7 @@
         {
           "type": "live_vocal",
           "number": "1375-30",
-          "label": "Live·深呼吸 (NIPPON BUDOKAN)"
+          "label": "～one man live at NIPPON BUDOKAN “深呼吸“～ Live 생음, 본인영상 ver."
         },
         {
           "type": "live_vocal",
