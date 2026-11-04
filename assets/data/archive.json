@@ -1,5 +1,67 @@
 [
   {
+    "song_ID":"S000092",
+    "title":"악마의 아이",
+    "title_jp":"悪魔の子",
+    "originalArtist":"ヒグチアイ",
+    "tj":"68571",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"44755",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "495100",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "716987",
+          "label": "본인 영상"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "348776",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "short_version",
+          "number": "497441",
+          "label": "사비카라(サビカラ)"
+        },
+        {
+          "type": "music_video",
+          "number": "511231",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "5304-80",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "1342-84",
+          "label": "생음, 본인 영상"
+        },
+        {
+          "type": "anime_video",
+          "number": "1343-14",
+          "label": "애니메이션 영상"
+        },
+        {
+          "type": "official_video",
+          "number": "1343-08",
+          "label": "프로오케(プロオケ)"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000091",
     "title":"군청",
     "title_jp":"群青",
