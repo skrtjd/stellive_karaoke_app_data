@@ -1,5 +1,52 @@
 [
   {
+    "song_ID":"S000070",
+    "title":"튜링 러브",
+    "title_jp":"チューリングラブ",
+    "originalArtist":"ナナヲアカリ(feat.Sou)",
+    "tj":"52536",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "446626",
+          "label": "일반 반주"
+        },
+        {
+        "type": "official_video",
+        "number": "717174",
+        "label": "본인 영상"
+        },
+        {
+          "type": "anime_video",
+          "number": "713205",
+          "label": "애니메이션 노래방"
+        },
+        {
+          "type":"guide_vocal",
+          "number":"348275",
+          "label":"가이드 보컬"
+        },
+        {
+          "type": "music_video",
+          "number": "863924",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+        "type": "official_video",
+        "number": "5231-82",
+        "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000069",
     "title":"Snow halation",
     "title_jp":null,
