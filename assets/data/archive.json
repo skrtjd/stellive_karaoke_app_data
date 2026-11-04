@@ -1,5 +1,56 @@
 [
   {
+    "song_ID":"S000126",
+    "title":"후라이의 꿈",
+    "title_jp":"お疲れさま、今日も",
+    "originalArtist":"AKMU(악뮤)",
+    "tj":"34779",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"58483",
+    "japan":
+    {
+      "joysound": [],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "6695-63",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000125",
+    "title":"수고했어, 오늘도",
+    "title_jp":"お疲れさま、今日も",
+    "originalArtist":"옥상달빛",
+    "tj":"34779",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"58483",
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000124",
+    "title":"빈 하늘에 불꽃을 그린다",
+    "title_jp":"空っぽの空に花火を描く",
+    "originalArtist":"민쇼크(MEANSHOCK)(Feat.별은)",
+    "tj":"77997",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
     "song_ID":"S000123",
     "title":"엘마",
     "title_jp":"エルマ",
