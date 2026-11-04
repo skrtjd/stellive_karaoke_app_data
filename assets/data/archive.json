@@ -1,5 +1,138 @@
 [
   {
+    "song_ID":"S000155",
+    "title":"APT.",
+    "title_jp":null,
+    "originalArtist":"로제(ROSE),Bruno Mars",
+    "tj":"43681",
+    "tj60":null,
+    "tj60mr":"64435",
+    "ky":"71735",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "631853",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "3720-93",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "1055-48",
+          "label": "Nipponglish ver."
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000154",
+    "title":"밀월 Un Deux Trois",
+    "title_jp":"蜜月アン・ドゥ・トロワ",
+    "originalArtist":"DATEKEN(feat.鏡音リン)",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "643254",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "1271-88",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000153",
+    "title":"Viva La Vida",
+    "title_jp":null,
+    "originalArtist":"Coldplay",
+    "tj":"21847",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"60148",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "83740",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "189974",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "908516",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "music_video",
+          "number": "512541",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+          "type": "album_version",
+          "number": "3554-34",
+          "label": "美しき生命 Album ver."
+        },
+        {
+          "type": "album_version",
+          "number": "1375-44",
+          "label": "美しき生命 Album Nipponglish ver."
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000152",
+    "title":"Drowning",
+    "title_jp":null,
+    "originalArtist":"WOODZ(조승연)",
+    "tj":"83945",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"80979",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "632695",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "2173-42",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000151",
     "title":"프라이드 혁명",
     "title_jp":"プライド革命",
