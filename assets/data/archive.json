@@ -1,5 +1,107 @@
 [
   {
+    "song_ID":"S000036",
+    "title":"We are Bulletproof : the Eternal",
+    "title_jp":null,
+    "originalArtist":"방탄소년단",
+    "tj":"89073",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"21551",
+    "japan":
+    {
+    "joysound": [
+      {
+        "type": "standard",
+        "number": "507331",
+        "label": "일반 반주"
+      }
+    ],
+      "dam": []      
+    }
+  },
+  {
+    "song_ID":"S000035",
+    "title":"하멜른",
+    "title_jp":"ハーメルン",
+    "originalArtist":"Reol",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+    "joysound": [
+      {
+        "type": "standard",
+        "number": "446852",
+        "label": "일반 반주"
+      }
+    ],
+      "dam": [
+      {
+        "type": "standard",
+        "number": "5244-89",
+        "label": "일반 반주"
+      }
+      ]      
+    }
+  },
+  {
+    "song_ID":"S000034",
+    "title":"우리의 꿈(원피스 OP)",
+    "title_jp":"Our Dream",
+    "originalArtist":"코요테",
+    "tj":"18446",
+    "tj60":null,
+    "tj60mr":"62719",
+    "ky":"64644",
+    "japan":
+    {
+    "joysound": [
+      {
+        "type": "standard",
+        "number": "507910",
+        "label": "일반 반주"
+      }
+    ],
+      "dam": [
+      ]      
+    }
+  },
+  {
+    "song_ID":"S000033",
+    "title":"또 만나자가 있다면",
+    "title_jp":"またねがあれば",
+    "originalArtist":"risou(feat.初音ミク)",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+    "joysound": [
+      {
+        "type": "standard",
+        "number": "693871",
+        "label": "일반 반주"
+      },
+      {
+        "type": "vocal_assist",
+        "number": "972433",
+        "label": "보컬 어시스트"
+      }
+    ],
+      "dam": [
+      {
+        "type": "standard",
+        "number": "7639-60",
+        "label": "일반 반주"
+      }
+      ]      
+    }
+  },
+  {
     "song_ID":"S000032",
     "title":"둘이서",
     "title_jp":"ふたりごと",
@@ -61,7 +163,7 @@
         {
           "type": "official_video",
           "number": "7092-08",
-          "label": "생"
+          "label": "생음"
         },
         {
           "type": "official_video",
