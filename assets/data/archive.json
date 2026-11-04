@@ -1,5 +1,127 @@
 [
   {
+    "song_ID":"S000146",
+    "title":"괴물",
+    "title_jp":"怪物",
+    "originalArtist":"YOASOBI",
+    "tj":"68387",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"44655",
+    "japan":
+    {
+      "joysound": [        
+        {
+          "type": "standard",
+          "number": "487648",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "716533",
+          "label": "본인 영상"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "348403",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976352",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5321-28",
+          "label": "본인 영상"
+        },
+        {
+          "type": "live_vocal",
+          "number": "1278-86",
+          "label": "～YOASOBI ARENA TOUR 2023 “電光石火“～ Live 생음, 본인영상 ver."
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000146",
+    "title":"BURN IT UP",
+    "title_jp":null,
+    "originalArtist":"아카네 리제",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000145",
+    "title":"꿈 넘어의 꿈",
+    "title_jp":null,
+    "originalArtist":"아카네 리제",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000144",
+    "title":"미몽",
+    "title_jp":null,
+    "originalArtist":"아카네 리제",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000143",
+    "title":"Festa!",
+    "title_jp":null,
+    "originalArtist":"아카네 리제",
+    "tj":"44430",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000142",
+    "title":"Stranger",
+    "title_jp":null,
+    "originalArtist":"아카네 리제",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
     "song_ID":"S000141",
     "title":"Butter-Fly(디지몬 어드벤처 OST)",
     "title_jp":null,
