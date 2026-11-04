@@ -1,5 +1,62 @@
 [
   {
+    "song_ID":"S000106",
+    "title":"아카시아",
+    "title_jp":"アカシア",
+    "originalArtist":"BUMP OF CHICKEN",
+    "tj":"68307",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"44603",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "486859",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "348355",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976274",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "6876-27",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "6876-30",
+          "label": "생음"
+        },
+        {
+          "type": "official_video",
+          "number": "6876-31",
+          "label": "프로오케(プロオケ)"
+        },
+        {
+          "type": "anime_video",
+          "number": "6876-29",
+          "label": "ポケモンスペシャルMV「GOTCHA！」ver."
+        },
+        {
+          "type": "live_vocal",
+          "number": "6876-51",
+          "label": "BUMP OF CHICKEN TOUR 2023 be there at SAITAMA SUPER ARENA Live 생음, 본인가창 ver."
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000105",
     "title":"ray(초 가구야 공주! ver.)",
     "title_jp":"ray(超かぐや姫! Ver.)",
