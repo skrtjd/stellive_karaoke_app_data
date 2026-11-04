@@ -1,5 +1,52 @@
 [
   {
+    "song_ID":"S000038",
+    "title":"계절은 차례차례 죽어간다",
+    "title_jp":"季節は次々死んでいく",
+    "originalArtist":"amazarashi",
+    "tj":null,
+    "tj60":"28293",
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+    "joysound": [
+      {
+        "type":"standard",
+        "number":"670787",
+        "label":"일반 반주"
+      },
+      {
+        "type": "guide_vocal",
+        "number": "343637",
+        "label": "가이드 보컬"
+      },
+      {
+        "type": "instrumental",
+        "number": "330188",
+        "label": "생연주"
+      },
+      {
+        "type": "music_video",
+        "number": "853062",
+        "label": "뮤직비디오"
+      }
+    ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5933-55",
+          "label": "본인 영상"
+        },
+        {
+          "type": "anime_video",
+          "number": "1484-78",
+          "label": "애니메이션 버전"
+        }
+      ]      
+    }
+  },
+  {
     "song_ID":"S000037",
     "title":"이 거리에 맑은 날은 오지 않는다",
     "title_jp":"この街に晴れはこない",
@@ -22,7 +69,8 @@
         "type": "standard",
         "number": "5293-34",
         "label": "일반 반주"
-      }]      
+      }
+      ]      
     }
   },
   {
