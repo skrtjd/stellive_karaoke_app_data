@@ -1,5 +1,62 @@
 [
   {
+    "song_ID":"S000169",
+    "title":"케세라세라",
+    "title_jp":"ケセラセラ",
+    "originalArtist":"ナナホシ管弦楽団(feat.巡音ルカ)",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "617082",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "193792",
+          "label": "본인 영상"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "349251",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976904",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "live_vocal",
+          "number": "718481",
+          "label": "Live 영상 ver."
+        },
+        {
+          "type": "music_video",
+          "number": "888697",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [        
+        {
+          "type": "official_video",
+          "number": "1314-68",
+          "label": "본인 영상"
+        },
+        {
+          "type": "live_vocal",
+          "number": "1120-75",
+          "label": "ゼンジン未到とヴェルトラウム～銘銘編～Live 영상 생음, 본인가창 ver."
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000168",
     "title":"발묘",
     "title_jp":"抜錨",
