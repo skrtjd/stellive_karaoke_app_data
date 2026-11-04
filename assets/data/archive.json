@@ -1,5 +1,94 @@
 [
   {
+    "song_ID":"S000061",
+    "title":"연애 서큘레이션",
+    "title_jp":"恋愛サーキュレーション",
+    "originalArtist":"千石撫子(花澤香菜)",
+    "tj":"27027",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"43227",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type":"standard",
+          "number":"128291",
+          "label":"일반 반주"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "910266",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+          "type":"standard",
+          "number":"3364-68",
+          "label":"일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000060",
+    "title":"해피 신디사이저",
+    "title_jp":"ハッピーシンセサイザ",
+    "originalArtist":"EasyPop(feat.巡音ルカ, GUMI)",
+    "tj":"27289",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"43515",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type":"standard",
+          "number":"106500",
+          "label":"일반 반주"
+        },
+        {
+          "type":"official_video",
+          "number":"713703",
+          "label":"본인 영상"
+        },
+        {
+          "type":"guide_vocal",
+          "number":"341813",
+          "label":"가이드 보컬"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "968725",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "autovocal_effect",
+          "number": "504215",
+          "label": "오토보컬 이펙트"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "913872",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "647014",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type":"standard",
+          "number":"7603-67",
+          "label":"일반 반주"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000059",
     "title":"점묘의 노래",
     "title_jp":"点描の唄",
