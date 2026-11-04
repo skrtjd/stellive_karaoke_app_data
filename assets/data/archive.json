@@ -1,5 +1,84 @@
 [
   {
+    "song_ID":"S000105",
+    "title":"ray(초 가구야 공주! ver.)",
+    "title_jp":"ray(超かぐや姫! Ver.)",
+    "originalArtist":"かぐや (cv.夏吉ゆうこ)，月見ヤチヨ (cv.早見沙織)",
+    "tj":"28109",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "644960",
+          "label": "일반 반주"
+        },
+        {
+          "type": "anime_video",
+          "number": "827448",
+          "label": "애니메이션 노래방"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "1339-89",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "1521-92",
+          "label": "비디오 클립 버전"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000104",
+    "title":"바다의 유령",
+    "title_jp":"海の幽霊",
+    "originalArtist":"米津玄師",
+    "tj":"68019",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"44480",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "439707",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "193583",
+          "label": "본인 영상"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "347979",
+          "label": "가이드 보컬"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "3246-58",
+          "label": "일반 반주"
+        },
+        {
+        "type": "official_video",
+        "number": "3246-59",
+        "label": "비디오 클립 버전"
+      }
+      ]
+    }
+  },
+  {
     "song_ID":"S000103",
     "title":"세계는 사랑에 빠져있어",
     "title_jp":"世界は恋に落ちている",
