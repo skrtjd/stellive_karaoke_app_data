@@ -1,5 +1,37 @@
 [
   {
+    "song_ID":"S000162",
+    "title":"샨티(SHANTI)",
+    "title_jp":"シャンティ",
+    "originalArtist":"wotaku(feat.KAITO)",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "494313",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "716866",
+          "label": "본인 영상"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7654-75",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000161",
     "title":"Golden",
     "title_jp":null,
@@ -13,25 +45,20 @@
       "joysound": [
         {
           "type": "standard",
-          "number": "498323",
+          "number": "639617",
           "label": "일반 반주"
-        },
-        {
-          "type": "official_video",
-          "number": "717105",
-          "label": "본인 영상"
-        },
-        {
-          "type": "short_version",
-          "number": "616248",
-          "label": "사비카라(サビカラ)"
         }
       ],
       "dam": [
         {
-          "type": "official_video",
-          "number": "7655-81",
-          "label": "본인 영상"
+          "type": "standard",
+          "number": "1191-43",
+          "label": "일반 반주"
+        },
+        {
+          "type": "standard",
+          "number": "1336-90",
+          "label": "Nipponglish ver."
         }
       ]
     }
