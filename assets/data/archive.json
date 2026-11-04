@@ -1,5 +1,98 @@
 [
   {
+    "song_ID":"S000097",
+    "title":"크리스마스 노래",
+    "title_jp":"クリスマスソング",
+    "originalArtist":"back number",
+    "tj":"76468",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"22880",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "156450",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "193218",
+          "label": "본인 영상"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "344109",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "969182",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "974962",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "music_video",
+          "number": "856163",
+          "label": "뮤직비디오"
+        },
+        {
+          "type": "short_version",
+          "number": "494341",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5859-20",
+          "label": "본인 영상"
+        },
+        {
+          "type": "official_video",
+          "number": "5859-22",
+          "label": "생음"
+        },
+        {
+          "type": "official_video",
+          "number": "5859-23",
+          "label": "프로오케(プロオケ)"
+        },
+        {
+          "type": "live_vocal",
+          "number": "5862-12",
+          "label": "back number in your humor tour 2023 Live 생음, 본인가창 ver."
+        },
+        {
+          "type": "instrumental",
+          "number": "5862-12",
+          "label": "명연 피아노"
+        }
+
+      ]
+    }
+  },
+  {
+    "song_ID":"S000096",
+    "title":"Joker",
+    "title_jp":null,
+    "originalArtist":"BIG Naughty(서동현)(feat.JAMIE(제이미))",
+    "tj":"76468",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"22880",
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
     "song_ID":"S000095",
     "title":"깜빡임",
     "title_jp":"瞬き",
