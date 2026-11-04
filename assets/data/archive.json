@@ -1,5 +1,42 @@
 [
   {
+    "song_ID":"S000159",
+    "title":"뱀파이어",
+    "title_jp":"ヴァンパイア",
+    "originalArtist":"DECO*27(feat.初音ミク)",
+    "tj":"52515",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"57748",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "489303",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "716568",
+          "label": "본인 영상"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976453",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5345-14",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000158",
     "title":"실・부・프레지던트",
     "title_jp":"シル・ヴ・プレジデント",
@@ -39,7 +76,7 @@
         {
           "type": "music_video",
           "number": "876084",
-          "label": "가사 영"
+          "label": "가사 영상"
         }
       ],
       "dam": [
