@@ -1,5 +1,69 @@
 [
   {
+    "song_ID":"S000065",
+    "title":"오버라이드",
+    "title_jp":"オーバーライド",
+    "originalArtist":"ONE - ナナホシ管弦楽団",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type":"standard",
+          "number":"625591",
+          "label":"일반 반주"
+        },
+        {
+          "type":"official_video",
+          "number":"717889",
+          "label":"본인 영상"
+        },
+        {
+          "type": "short_version",
+          "number": "626986",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type":"standard",
+          "number":"7660-85",
+          "label":"일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000064",
+    "title":"오네가이 달링",
+    "title_jp":"おねがいダーリン",
+    "originalArtist":"ONE - ナナホシ管弦楽団",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type":"standard",
+          "number":"619976",
+          "label":"-AI SONG mode-"
+        }
+      ],
+      "dam": [
+        {
+          "type":"standard",
+          "number":"7640-35",
+          "label":"일반 반주"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000063",
     "title":"참생활",
     "title_jp":"真生活",
