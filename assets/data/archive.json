@@ -1,10 +1,10 @@
 [
   {
-    "song_ID":"S000083",
-    "title":"17살의 노래",
-    "title_jp":"17さいのうた。",
-    "originalArtist":"『ユイカ』",
-    "tj":"68708",
+    "song_ID":"S000084",
+    "title":"새벽과 반딧불이",
+    "title_jp":"夜明けと蛍",
+    "originalArtist":"Rosa Walton",
+    "tj":"79185",
     "tj60":null,
     "tj60mr":null,
     "ky":null,
@@ -13,20 +13,57 @@
       "joysound": [
         {
           "type": "standard",
-          "number": "498324",
+          "number": "675695",
           "label": "일반 반주"
         },
         {
-          "type": "lyric_video",
-          "number": "881535",
-          "label": "가사 영상"
+          "type": "official_video",
+          "number": "714614",
+          "label": "본인 영상"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "969132",
+          "label": "보컬 어시스트"
         }
       ],
       "dam": [
         {
           "type": "standard",
-          "number": "5392-91",
+          "number": "7634-07",
           "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000083",
+    "title":"I Really Want to Stay At Your House",
+    "title_jp":null,
+    "originalArtist":"Rosa Walton",
+    "tj":"79185",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type":"recorded_audio",
+          "number":"825431",
+          "label":"레코오토(レコオト)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "1392-76",
+          "label": "일반 반주"
+        },
+        {
+          "type": "standard",
+          "number": "1455-70",
+          "label": "Nipponglish ver."
         }
       ]
     }
