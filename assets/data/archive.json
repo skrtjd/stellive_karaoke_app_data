@@ -1,5 +1,47 @@
 [
   {
+    "song_ID":"S000085",
+    "title":"하루카",
+    "title_jp":"ハルカ",
+    "originalArtist":"YOASOBI",
+    "tj":"68354",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"44642",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "487953",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "716488",
+          "label": "본인 영상"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "999303",
+          "label": "보컬 어시스트"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5317-82",
+          "label": "본인 영상"
+        },
+        {
+          "type": "live_vocal",
+          "number": "1278-90",
+          "label": "～YOASOBI ARENA TOUR 2023 “電光石火“～ Live 생음, 본인가창 ver."
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000084",
     "title":"새벽과 반딧불이",
     "title_jp":"夜明けと蛍",
