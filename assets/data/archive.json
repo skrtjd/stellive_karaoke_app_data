@@ -1,9 +1,118 @@
 [
   {
+    "song_ID":"S000078",
+    "title":"피날레",
+    "title_jp":"フィナーレ。",
+    "originalArtist":"eill",
+    "tj":"68845",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"75842",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "610619",
+          "label": "일반 반주"
+        },
+        {
+          "type": "short_version",
+          "number": "644134",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "1364-32",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000077",
+    "title":"그저 네게 맑아라",
+    "title_jp":"ただ君に晴れ",
+    "originalArtist":"ヨルシカ",
+    "tj":"68061",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "428244",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "715466",
+          "label": "본인 영상"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "978589",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "975774",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "music_video",
+          "number": "864976",
+          "label": "뮤직비디오"
+        },
+        {
+          "type": "short_version",
+          "number": "495421",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5179-21",
+          "label": "생음, 본인 영상"
+        },
+        {
+          "type": "official_video",
+          "number": "5174-94",
+          "label": "본인 영상"
+        },
+        {
+          "type": "official_video",
+          "number": "5179-04",
+          "label": "프로오케(プロオケ)"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000076",
+    "title":"Drama",
+    "title_jp":null,
+    "originalArtist":"IU[아이유]",
+    "tj":"80824",
+    "tj60":null,
+    "tj60mr":"93710",
+    "ky":"28617",
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
     "song_ID":"S000075",
     "title":"낙향",
     "title_jp":"都落ち",
-    "originalArtist":"시라유키 히나",
+    "originalArtist":"ヨルシカ",
     "tj":null,
     "tj60":null,
     "tj60mr":null,
