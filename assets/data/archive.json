@@ -1,5 +1,156 @@
 [
   {
+    "song_ID":"S000056",
+    "title":"Mela!",
+    "title_jp":null,
+    "originalArtist":"緑黄色社会",
+    "tj":"68562",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"75929",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type":"standard",
+          "number":"448860",
+          "label":"일반 반주"
+        },
+        {
+          "type":"official_video",
+          "number":"716655",
+          "label":"본인 영상"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "349249",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "999189",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976631",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "496519",
+          "label": "사비카라(サビカラ)"
+        },
+        {
+          "type": "music_video",
+          "number": "868866",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+          "type":"standard",
+          "number":"5234-29",
+          "label":"일반 반주"
+        },
+        {
+          "type":"official_video",
+          "number":"5239-11",
+          "label":"본인 영상"
+        },
+        {
+          "type": "official_video",
+          "number": "5238-94",
+          "label": "프로오케(プロオケ)"
+        },
+        {
+          "type": "live",
+          "number": "2437-45",
+          "label": "～リョクシャ化計画2023-2024 at 日本ガイシホール～ Live.ver"
+        }
+      ]      
+    }
+  },
+  {
+    "song_ID":"S000055",
+    "title":"굿바이 선언",
+    "title_jp":"グッバイ宣言",
+    "originalArtist":"Chinozo(feat.flower)",
+    "tj":"68500",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type":"standard",
+          "number":"486687",
+          "label":"일반 반주"
+        },
+        {
+          "type":"official_video",
+          "number":"716595",
+          "label":"본인 영상"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976552",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "494351",
+          "label": "사비카라(サビカラ)"
+        },
+        {
+          "type": "music_video",
+          "number": "883867",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+          "type":"official_video",
+          "number":"7650-92",
+          "label":"본인 영상"
+        }
+      ]      
+    }
+  },
+  {
+    "song_ID":"S000054",
+    "title":"사랑의 말IV",
+    "title_jp":"愛言葉Ⅳ",
+    "originalArtist":"HoneyWorks",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type":"standard",
+          "number":"498243",
+          "label":"일반 반주"
+        },
+        {
+          "type":"official_video",
+          "number":"717053",
+          "label":"본인 영상"
+        }
+      ],
+      "dam": [
+        {
+          "type":"official_video",
+          "number":"7655-72",
+          "label":"본인 영상"
+        }
+      ]      
+    }
+  },
+  {
     "song_ID":"S000053",
     "title":"베텔기우스",
     "title_jp":"ベテルギウス",
