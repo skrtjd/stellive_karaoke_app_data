@@ -1,5 +1,57 @@
 [
   {
+    "song_ID":"S000058",
+    "title":"SUPERPOWER",
+    "title_jp":null,
+    "originalArtist":"VALORANT,KISS OF LIFE,마크(GOT7)",
+    "tj":"77915",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"71615",
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000057",
+    "title":"두근어질",
+    "title_jp":"きゅうくらりん",
+    "originalArtist":"いよわ(feat.可不)",
+    "tj":"52506",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type":"standard",
+          "number":"494524",
+          "label":"일반 반주"
+        },
+        {
+          "type":"official_video",
+          "number":"717090",
+          "label":"본인 영상"
+        },
+        {
+          "type": "music_video",
+          "number": "644133",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [      
+        {
+          "type":"official_video",
+          "number":"7654-45",
+          "label":"본인 영상"
+        }
+      ]      
+    }
+  },
+  {
     "song_ID":"S000056",
     "title":"Mela!",
     "title_jp":null,
