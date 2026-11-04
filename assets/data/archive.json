@@ -1,5 +1,103 @@
 [
   {
+    "song_ID":"S000041",
+    "title":"나라는 것",
+    "title_jp":"僕のこと",
+    "originalArtist":"Mrs. GREEN APPLE",
+    "tj": "68248",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"44894",
+    "japan":
+    {
+    "joysound": [
+      {
+        "type":"standard",
+        "number":"435229",
+        "label":"일반 반주"
+      },
+      {
+        "type": "official_video",
+        "number": "715504",
+        "label": "본인 영상"
+      },
+      {
+        "type": "guide_vocal",
+        "number": "349248",
+        "label": "가이드 보컬"
+      },
+      {
+        "type": "vocal_assist",
+        "number": "979164",
+        "label": "보컬 어시스트"
+      },
+      {
+        "type": "guitar_navi",
+        "number": "975855",
+        "label": "기타 내비게이션"
+      },
+      {
+        "type": "instrumental",
+        "number": "614776",
+        "label": "Orchestra.ver"
+      },
+      {
+        "type": "music_video",
+        "number": "855550",
+        "label": "뮤직비디오"
+      },
+      {
+        "type": "short_version",
+        "number": "618318",
+        "label": "사비카라(サビカラ)"
+      }
+    ],
+      "dam": [
+        {
+          "type":"standard",
+          "number":"6181-96",
+          "label":"일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "6195-19",
+          "label": "생음, 본인 영상"
+        },
+        {
+          "type": "instrumental",
+          "number": "1270-44",
+          "label": "Orchestra.ver"
+        },
+        {
+          "type": "official_video",
+          "number": "6195-35",
+          "label": "프로오케(プロオケ)"
+        }
+      ]      
+    }
+  },
+  {
+    "song_ID":"S000040",
+    "title":"DIARY",
+    "title_jp":null,
+    "originalArtist":"KK(上北健)",
+    "tj": "28761",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"44205",
+    "japan":
+    {
+    "joysound": [],
+      "dam": [
+        {
+          "type":"standard",
+          "number":"5987-40",
+          "label":"일반 반주"
+        }
+      ]      
+    }
+  },
+  {
     "song_ID":"S000039",
     "title":"진흙 속에 피다",
     "title_jp":"泥中に咲く",
