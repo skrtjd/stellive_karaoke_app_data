@@ -1,5 +1,84 @@
 [
   {
+    "song_ID":"S000111",
+    "title":"타상연화",
+    "title_jp":"打上花火",
+    "originalArtist":"DAOKO X 米津玄師",
+    "tj":"28750",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"44190",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "697868",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "347382",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "autovocal_effect",
+          "number": "504511",
+          "label": "오토보컬 이펙트"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "975512",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "630229",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "3246-38",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000110",
+    "title":"소녀레이",
+    "title_jp":"少女レイ",
+    "originalArtist":"みきとP(feat.初音ミク)",
+    "tj":"68106",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "431203",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "715409",
+          "label": "본인 영상"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "7644-45",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000109",
     "title":"아틀란티스 소녀",
     "title_jp":null,
