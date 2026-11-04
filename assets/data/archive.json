@@ -1,5 +1,174 @@
 [
   {
+    "song_ID":"S000053",
+    "title":"베텔기우스",
+    "title_jp":"ベテルギウス",
+    "originalArtist":"優里",
+    "tj":"68553",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"44746",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type":"standard",
+          "number":"493978",
+          "label":"일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "716838",
+          "label": "본인 영상"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "999502",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "348682",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976535",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "495428",
+          "label": "사비카라(サビカラ)"
+        },
+        {
+          "type": "instrumental",
+          "number": "623384",
+          "label": "Orchestra Arange.ver"
+        }
+      ],
+      "dam": [
+        {
+          "type":"standard",
+          "number":"6991-28",
+          "label":"일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "6992-22",
+          "label": "생음, 본인 영상"
+        },
+        {
+          "type": "official_video",
+          "number": "6992-33",
+          "label": "프로오케(プロオケ)"
+        },
+        {
+          "type": "instrumental",
+          "number": "1307-48",
+          "label": "Orchestra Arange.ver"
+        },
+        {
+          "type": "instrumental",
+          "number": "1307-12",
+          "label": "명연 피아노"
+        }
+      ]      
+    }
+  },
+  {
+    "song_ID":"S000052",
+    "title":"긍지 높은 아이돌",
+    "title_jp":"誇り高きアイドル",
+    "originalArtist":"HoneyWorks",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type":"standard",
+          "number":"491392",
+          "label":"일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "999502",
+          "label": "보컬 어시스트"
+        }
+      ],
+      "dam": [
+        {
+          "type":"standard",
+          "number":"4827-45",
+          "label":"일반 반주"
+        }
+      ]      
+    }
+  },
+  {
+    "song_ID":"S000051",
+    "title":"CHEWING LUV",
+    "title_jp":null,
+    "originalArtist":"아야츠노 유니",
+    "tj":"51731",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": []      
+    }
+  },
+  {
+    "song_ID":"S000050",
+    "title":"삐질게",
+    "title_jp":null,
+    "originalArtist":"아야츠노 유니",
+    "tj":"51617",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": []      
+    }
+  },
+  {
+    "song_ID":"S000049",
+    "title":"SUPADOPA",
+    "title_jp":null,
+    "originalArtist":"아야츠노 유니",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": []      
+    }
+  },
+  {
+    "song_ID":"S000048",
+    "title":"내꺼 하는 법(How to be mine)",
+    "title_jp":null,
+    "originalArtist":"아야츠노 유니",
+    "tj":"84251",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"99555",
+    "japan":
+    {
+      "joysound": [],
+      "dam": []      
+    }
+  },
+  {
     "song_ID":"S000047",
     "title":"나의 마지막 날",
     "title_jp":"私の最後の日",
@@ -10,18 +179,18 @@
     "ky":null,
     "japan":
     {
-    "joysound": [
-      {
-        "type":"standard",
-        "number":"638366",
-        "label":"일반 반주"
-      },
-      {
-        "type": "official_video",
-        "number": "718512",
-        "label": "본인 영상"
-      }
-    ],
+      "joysound": [
+        {
+          "type":"standard",
+          "number":"638366",
+          "label":"일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "718512",
+          "label": "본인 영상"
+        }
+      ],
       "dam": [
         {
           "type":"standard",
