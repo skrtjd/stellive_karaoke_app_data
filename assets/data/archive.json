@@ -1,5 +1,69 @@
 [
   {
+    "song_ID":"S000083",
+    "title":"17살의 노래",
+    "title_jp":"17さいのうた。",
+    "originalArtist":"『ユイカ』",
+    "tj":"68708",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "498324",
+          "label": "일반 반주"
+        },
+        {
+          "type": "lyric_video",
+          "number": "881535",
+          "label": "가사 영상"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "5392-91",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000082",
+    "title":"17살의 노래",
+    "title_jp":"17さいのうた。",
+    "originalArtist":"『ユイカ』",
+    "tj":"68708",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "498324",
+          "label": "일반 반주"
+        },
+        {
+          "type": "lyric_video",
+          "number": "881535",
+          "label": "가사 영상"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "5392-91",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000081",
     "title":"봄을 기다리다",
     "title_jp":"春を待つ",
