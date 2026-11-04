@@ -1,5 +1,42 @@
 [
   {
+    "song_ID":"S000149",
+    "title":"절정찬가",
+    "title_jp":"絶頂讃歌",
+    "originalArtist":"和ぬか",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "611785",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "717233",
+          "label": "본인 영상"
+        },
+        {
+          "type": "music_video",
+          "number": "882180",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5419-53",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000148",
     "title":"눈이 녹을 때",
     "title_jp":"雪解け",
