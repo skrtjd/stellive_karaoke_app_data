@@ -1,5 +1,80 @@
 [
   {
+    "song_ID":"S000168",
+    "title":"발묘",
+    "title_jp":"抜錨",
+    "originalArtist":"ナナホシ管弦楽団(feat.巡音ルカ)",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "615406",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7659-47",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000167",
+    "title":"Star Walkin’",
+    "title_jp":null,
+    "originalArtist":"Lil Nas X",
+    "tj":"79076",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"96078",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "638840",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "3670-13",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000166",
+    "title":"가면무도회",
+    "title_jp":"カミョンムドフェ",
+    "originalArtist":"비비(BIBI)",
+    "tj":"82374",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"24352",
+    "japan":
+    {
+      "joysound": [],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "6680-09",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000165",
     "title":"Bunny Girl",
     "title_jp":null,
