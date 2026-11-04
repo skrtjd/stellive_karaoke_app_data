@@ -1,5 +1,62 @@
 [
   {
+    "song_ID":"S000114",
+    "title":"애상",
+    "title_jp":"エサン",
+    "originalArtist":"쿨[COOL]",
+    "tj":"4509",
+    "tj60":null,
+    "tj60mr":"62258",
+    "ky":"5422",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "23945",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "5900-73",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000113",
+    "title":"개화",
+    "title_jp":null,
+    "originalArtist":"신유미",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000112",
+    "title":"불꽃(Seed of Hope)",
+    "title_jp":null,
+    "originalArtist":"시라유키 히나",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
     "song_ID":"S000111",
     "title":"타상연화",
     "title_jp":"打上花火",
