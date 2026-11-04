@@ -1,5 +1,209 @@
 [
   {
+    "song_ID":"S000122",
+    "title":"우울 한 겹",
+    "title_jp":"憂一乗",
+    "originalArtist":"ヨルシカ",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "442140",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "5203-67",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000121",
+    "title":"안아줄 때까지",
+    "title_jp":"だきしめるまで。",
+    "originalArtist":"MIMI(feat.可不)",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "812848",
+          "label": "본인영상"
+        }
+      ],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000120",
+    "title":"담배",
+    "title_jp":"たばこ",
+    "originalArtist":"コレサワ",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "699330",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "977408",
+          "label": "보컬 어시스트"
+        },        
+        {
+          "type": "guitar_navi",
+          "number": "975550",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "632636",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5031-39",
+          "label": "본인영상"
+        },
+        {
+          "type": "official_video",
+          "number": "5082-44",
+          "label": "생음, 본인영상"
+        },
+        {
+          "type": "official_video",
+          "number": "5082-38",
+          "label": "프로오케(プロオケ)"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000119",
+    "title":"Yours",
+    "title_jp":null,
+    "originalArtist":"데이먼스 이어",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "1203-92",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000118",
+    "title":"좋은 아침, 나의 가희",
+    "title_jp":"おはよう、僕の歌姫",
+    "originalArtist":"傘村トータ(feat.Fukase, IA)",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "449744",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000117",
+    "title":"시간의 소리",
+    "title_jp":"ときのこえ",
+    "originalArtist":"Islet(feat.Sando Aoi)",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000116",
+    "title":"이정표",
+    "title_jp":"みちしるべ",
+    "originalArtist":"茅原実里",
+    "tj":"68240",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"44720",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "424659",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "977590",
+          "label": "보컬 어시스트"
+        }
+      ],
+      "dam": [
+        {
+          "type": "anime_video",
+          "number": "3422-86",
+          "label": "애니메이션 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000115",
+    "title":"별 떨어진다(I DO)",
+    "title_jp":null,
+    "originalArtist":"도경수(D.O.)",
+    "tj":"84680",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"29897",
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
     "song_ID":"S000114",
     "title":"애상",
     "title_jp":"エサン",
