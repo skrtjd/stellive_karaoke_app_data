@@ -1,5 +1,79 @@
 [
   {
+    "song_ID":"S000161",
+    "title":"Golden",
+    "title_jp":null,
+    "originalArtist":"HUNTR/X",
+    "tj":"88040",
+    "tj60":null,
+    "tj60mr":"64579",
+    "ky":"56569",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "498323",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "717105",
+          "label": "본인 영상"
+        },
+        {
+          "type": "short_version",
+          "number": "616248",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "7655-81",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000160",
+    "title":"취한 줄을 모르고",
+    "title_jp":"酔いどれ知らず",
+    "originalArtist":"KANARIA(feat.GUMI)",
+    "tj":"52465",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"57767",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "498323",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "717105",
+          "label": "본인 영상"
+        },
+        {
+          "type": "short_version",
+          "number": "616248",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "7655-81",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000159",
     "title":"뱀파이어",
     "title_jp":"ヴァンパイア",
