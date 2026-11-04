@@ -1,5 +1,67 @@
 [
   {
+    "song_ID":"S000059",
+    "title":"점묘의 노래",
+    "title_jp":"点描の唄",
+    "originalArtist":"Mrs. GREEN APPLE(Feat.井上苑子)",
+    "tj":"68141",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"44547",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type":"standard",
+          "number":"430642",
+          "label":"일반 반주"
+        },
+        {
+          "type":"guide_vocal",
+          "number":"347697",
+          "label":"가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976548",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "live",
+          "number": "718476",
+          "label": "Live ver."
+        },
+        {
+          "type": "short_version",
+          "number": "494378",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type":"standard",
+          "number":"6197-71",
+          "label":"일반 반주"
+        },
+        {
+          "type": "instrumental",
+          "number": "6900-82",
+          "label": "명연 피아노"
+        },
+        {
+          "type": "live",
+          "number": "1120-69",
+          "label": "ゼンジン未到とヴェルトラウム～銘銘編～ 생음, 본인 가"
+        },
+        {
+          "type":"standard",
+          "number":"1034-96",
+          "label":"井上苑子 Solo ver."
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000058",
     "title":"SUPERPOWER",
     "title_jp":null,
@@ -118,7 +180,7 @@
         {
           "type": "live",
           "number": "2437-45",
-          "label": "～リョクシャ化計画2023-2024 at 日本ガイシホール～ Live.ver"
+          "label": "～リョクシャ化計画2023-2024 at 日本ガイシホール～ Live ver."
         }
       ]      
     }
@@ -247,7 +309,7 @@
         {
           "type": "instrumental",
           "number": "623384",
-          "label": "Orchestra Arange.ver"
+          "label": "Orchestra Arange ver."
         }
       ],
       "dam": [
@@ -269,7 +331,7 @@
         {
           "type": "instrumental",
           "number": "1307-48",
-          "label": "Orchestra Arange.ver"
+          "label": "Orchestra Arange ver."
         },
         {
           "type": "instrumental",
@@ -445,7 +507,7 @@
         {
           "type":"anime_video",
           "number":"3612-43",
-          "label":"TV Edit.ver"
+          "label":"TV Edit ver."
         }
       ]      
     }
@@ -487,7 +549,7 @@
         {
           "type":"standard",
           "number":"6489-31",
-          "label":"Nipponglish.ver"
+          "label":"Nipponglish ver."
         }
       ]      
     }
@@ -527,7 +589,7 @@
       {
         "type": "music_video",
         "number": "522439",
-        "label": "gaburyu Remix.ver"
+        "label": "gaburyu Remix ver."
       }
     ],
       "dam": [
@@ -589,7 +651,7 @@
       {
         "type": "instrumental",
         "number": "691148",
-        "label": "Acoustic.ver"
+        "label": "Acoustic ver."
       }
     ],
       "dam": [
@@ -601,7 +663,7 @@
         {
           "type": "instrumental",
           "number": "7211-08",
-          "label": "Acoustic.ver"
+          "label": "Acoustic ver."
         },
         {
           "type": "official_video",
@@ -638,7 +700,7 @@
         {
           "type":"standard",
           "number":"4111-77",
-          "label":"Nipponglish.ver"
+          "label":"Nipponglish ver."
         }
       ]      
     }
@@ -683,7 +745,7 @@
       {
         "type": "instrumental",
         "number": "614776",
-        "label": "Orchestra.ver"
+        "label": "Orchestra ver."
       },
       {
         "type": "music_video",
@@ -710,7 +772,7 @@
         {
           "type": "instrumental",
           "number": "1270-44",
-          "label": "Orchestra.ver"
+          "label": "Orchestra ver."
         },
         {
           "type": "official_video",
@@ -1004,12 +1066,12 @@
       {
         "type": "live",
         "number": "160344",
-        "label": "一生に一度のワープ Live.ver"
+        "label": "一生に一度のワープ Live ver."
       },
       {
         "type": "vocal_assist",
         "number": "963621",
-        "label": "一生に一度のワープ Live 보컬 어시스트.ver"
+        "label": "一生に一度のワープ Live 보컬 어시스트 ver."
       }
     ],
       "dam": [
@@ -1031,7 +1093,7 @@
         {
           "type": "live",
           "number": "7081-66",
-          "label": "一生に一度のワープ Live.ver"
+          "label": "一生に一度のワープ Live ver."
         }
       ]      
     }
@@ -1366,7 +1428,7 @@
         {
           "type": "album_version",
           "number": "1375-44",
-          "label": "-replica- Album.ver"
+          "label": "-replica- Album ver."
         },
         {
           "type": "instrumental",
