@@ -1,6 +1,85 @@
 [
   {
-    "song_ID":"S000196",
+    "song_ID":"S000199",
+    "title":"ODDS&ENDS",
+    "title_jp":null,
+    "originalArtist":"ryo(supercell)(feat.初音ミク)",
+    "tj":null,
+    "tj60":"28097",
+    "tj60mr":null,
+    "ky":"43538",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "730048",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "963998",
+          "label": "보컬 어시스트"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "3612-33",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "3612-34",
+          "label": "본인 영상 Opening Ver."
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000198",
+    "title":"Show",
+    "title_jp":"唱",
+    "originalArtist":"Ado",
+    "tj":"68883",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"75832",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "620197",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "717575",
+          "label": "본인 영상"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "349369",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976984",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "1128-29",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000197",
     "title":"Never Enough(The Greatest Showman OST)",
     "title_jp":null,
     "originalArtist":"Loren Allred",
