@@ -1,5 +1,140 @@
 [
   {
+    "song_ID":"S000188",
+    "title":"전전전세",
+    "title_jp":"前前前世",
+    "originalArtist":"RADWIMPS",
+    "tj":"27944",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"44067",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "193312",
+          "label": "본인 영상 Movie Ver."
+        },
+        {
+          "type": "standard",
+          "number": "686686",
+          "label": "일반 반주 Movie Ver."
+        },
+        {
+          "type": "guide_vocal",
+          "number": "346810",
+          "label": "가이드 보컬 Movie Ver."
+        },
+        {
+          "type": "vocal_assist",
+          "number": "971019",
+          "label": "보컬 어시스트 Movie Ver."
+        },
+        {
+          "type": "guitar_navi",
+          "number": "975271",
+          "label": "기타 내비게이션 Movie Ver."
+        },
+        {
+          "type": "standard",
+          "number": "689593",
+          "label": "일반 반주 Original Ver."
+        },
+        {
+          "type": "vocal_assist",
+          "number": "971565",
+          "label": "보컬 어시스트 Original Ver."
+        },
+        {
+          "type": "short_version",
+          "number": "614006",
+          "label": "사비카라(サビカラ) Movie Ver."
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "7092-83",
+          "label": "본인 영상 Movie Ver."
+        },
+        {
+          "type": "official_video",
+          "number": "7092-28",
+          "label": "생음, 본인 영상 Movie Ver."
+        },
+        {
+          "type": "official_video",
+          "number": "7092-27",
+          "label": "프로오케(プロオケ) Movie Ver."
+        },
+        {
+          "type": "standard",
+          "number": "7092-90",
+          "label": "일반 반주 Original Ver."
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000187",
+    "title":"Nobody(From Kaiju No. 8)",
+    "title_jp":null,
+    "originalArtist":"OneRepublic",
+    "tj":"79621",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "625937",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "980655",
+          "label": "기타 내비게이션"
+        },
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "3685-37",
+          "label": "일반 반주"
+        },
+        {
+          "type": "standard",
+          "number": "3685-37",
+          "label": "Nipponglish ver."
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000186",
+    "title":"코이",
+    "title_jp":"恋",
+    "originalArtist":"星野 源",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5941-66",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000185",
     "title":"숙명",
     "title_jp":"宿命",
