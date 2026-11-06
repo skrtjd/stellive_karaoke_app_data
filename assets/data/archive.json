@@ -1,5 +1,89 @@
 [
   {
+    "song_ID":"S000195",
+    "title":"NIGHT DANCER",
+    "title_jp":null,
+    "originalArtist":"imase",
+    "tj":"68740",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"44891",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "610520",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "717183",
+          "label": "본인 영상"
+        },
+        {
+          "type": "short_version",
+          "number": "618315",
+          "label": "사비카라(サビカラ)"
+        },
+        {
+          "type": "music_video",
+          "number": "882353",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "1341-89",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000194",
+    "title":"PPPP",
+    "title_jp":null,
+    "originalArtist":"TAK(feat.初音ミク, 重音テト)",
+    "tj":"52516",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"57735",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "641749",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000193",
+    "title":"#초절정 귀여워",
+    "title_jp":"#超絶かわいい",
+    "originalArtist":"HoneyWorks(feat.mona)",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "615603",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": []
+    }
+  },
+  {
     "song_ID":"S000192",
     "title":"Magic",
     "title_jp":null,
@@ -77,7 +161,7 @@
     "song_ID":"S000190",
     "title":"Grand Escape",
     "title_jp":"グランドエスケープ",
-    "originalArtist":"RADWIMPS(Feat.三浦透子)",
+    "originalArtist":"RADWIMPS(feat.三浦透子)",
     "tj":"68067",
     "tj60":null,
     "tj60mr":null,
