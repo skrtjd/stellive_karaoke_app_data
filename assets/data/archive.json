@@ -52,7 +52,28 @@
           "label": "뮤직비디오"
         }
       ],
-      "dam": []
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "6197-70",
+          "label": "본인 영상"
+        },
+        {
+          "type": "official_video",
+          "number": "6210-45",
+          "label": "생음, 본인 영상"
+        },
+        {
+          "type": "official_video",
+          "number": "6210-69",
+          "label": "프로오케(プロオケ), 본인 영상"
+        },
+        {
+          "type": "live_vocal",
+          "number": "1120-67",
+          "label": "ゼンジン未到とヴェルトラウム～銘銘編～ Live ver."
+        }
+      ]
     }
   },
   {
