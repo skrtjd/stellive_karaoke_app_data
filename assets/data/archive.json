@@ -1,5 +1,67 @@
 [
   {
+    "song_ID":"S000175",
+    "title":"로스트 원의 호곡",
+    "title_jp":"ロストワンの号哭",
+    "originalArtist":"Neru(feat.鏡音リン)",
+    "tj":"27670",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"43644",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "725112",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "714533",
+          "label": "본인 영상"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "968646",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "autovocal_effect",
+          "number": "504415",
+          "label": "오토보컬 이펙트"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "975284",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [  
+        {
+          "type": "official_video",
+          "number": "7624-09",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000174",
+    "title":"청록(Blue Rock)",
+    "title_jp":null,
+    "originalArtist":"it's(이츠)",
+    "tj":"43112",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
     "song_ID":"S000173",
     "title":"무대에 서서",
     "title_jp":"舞台に立って",
