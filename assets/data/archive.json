@@ -1,5 +1,52 @@
 [
   {
+    "song_ID":"S000189",
+    "title":"사슴색 데이즈",
+    "title_jp":"シカ色デイズ",
+    "originalArtist":"鹿乃子のこ,虎視虎子,虎視餡子,馬車芽めめ",
+    "tj":"68497",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"75987",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "anime_video",
+          "number": "718236",
+          "label": "애니메이션 노래방"
+        },
+        {
+          "type": "standard",
+          "number": "628991",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "349818",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "short_version",
+          "number": "630915",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "anime_video",
+          "number": "3399-61",
+          "label": "애니메이션 영상"
+        },
+        {
+          "type": "standard",
+          "number": "3399-53",
+          "label": "TV Size"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000188",
     "title":"전전전세",
     "title_jp":"前前前世",
