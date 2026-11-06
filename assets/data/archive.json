@@ -1,5 +1,47 @@
 [
   {
+    "song_ID":"S000192",
+    "title":"Magic",
+    "title_jp":null,
+    "originalArtist":"Mrs.GREEN APPLE",
+    "tj":"68835",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"44962",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "193793",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "617946",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "349286",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976917",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "1317-94",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000191",
     "title":"사신",
     "title_jp":"死神",
