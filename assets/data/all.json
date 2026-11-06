@@ -3808,6 +3808,22 @@
     }
   },
   {
+    "title": "ロストワンの号哭(로스트 원의 호곡)",
+    "originalArtist": "Neru(feat.鏡音リン)",
+    "tj": "27670",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "43644",
+    "_source": {
+      "member": "lize",
+      "category": "cover",
+      "file": "assets/data/lize/cover.json",
+      "location": [
+        33
+      ]
+    }
+  },
+  {
     "title": "끝나지 않은 노래",
     "originalArtist": "지인",
     "collaboWith": "명조:워더링 웨이브",
