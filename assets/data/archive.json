@@ -1,5 +1,42 @@
 [
   {
+    "song_ID":"S000173",
+    "title":"무대에 서서",
+    "title_jp":"舞台に立って",
+    "originalArtist":"YOASOBI",
+    "tj":"52705",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "629422",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "718045",
+          "label": "본인 영상"
+        },
+        {
+          "type": "music_video",
+          "number": "517866",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [  
+        {
+          "type": "official_video",
+          "number": "1278-76",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000172",
     "title":"Hollowness",
     "title_jp":"ホロネス",
