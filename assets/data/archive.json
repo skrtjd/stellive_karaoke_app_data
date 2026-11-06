@@ -1,5 +1,110 @@
 [
   {
+    "song_ID":"S000182",
+    "title":"여우의 별자리",
+    "title_jp":null,
+    "originalArtist":"차지연",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000181",
+    "title":"SYNC 100%",
+    "title_jp":null,
+    "originalArtist":"Mayo(feat. 아카네 리제)",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000180",
+    "title":"Mirairo Rider(Korean Ver.)",
+    "title_jp":null,
+    "originalArtist":"김진아",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000179",
+    "title":"DIVE 2 FIGHT",
+    "title_jp":null,
+    "originalArtist":"아카네 리제",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000178",
+    "title":"Ready to Fire!",
+    "title_jp":null,
+    "originalArtist":"아카네 리제",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000177",
+    "title":"목숨",
+    "title_jp":null,
+    "originalArtist":"아카네 리제",
+    "tj":"87849",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000176",
+    "title":"끝나지 않은 노래",
+    "title_jp":null,
+    "originalArtist":"지인",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
     "song_ID":"S000175",
     "title":"로스트 원의 호곡",
     "title_jp":"ロストワンの号哭",
