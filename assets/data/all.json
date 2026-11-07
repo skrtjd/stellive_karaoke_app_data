@@ -6564,6 +6564,22 @@
     }
   },
   {
+    "title": "Loveit?",
+    "originalArtist": "biz×ZERA(feat.LOLUET)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "_source": {
+      "member": "riko",
+      "category": "cover",
+      "file": "assets/data/riko/cover.json",
+      "location": [
+        43
+      ]
+    }
+  },
+  {
     "title": "Lulala! Lululala!",
     "originalArtist": "유즈하 리코",
     "collaboWith": "명조:워더링 웨이브",
