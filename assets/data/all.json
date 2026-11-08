@@ -4890,6 +4890,22 @@
     }
   },
   {
+    "title": "BUMPA",
+    "originalArtist": "BIBI",
+    "tj": "64732",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "51362",
+    "_source": {
+      "member": "mashiro",
+      "category": "cover",
+      "file": "assets/data/mashiro/cover.json",
+      "location": [
+        20
+      ]
+    }
+  },
+  {
     "title": "조용히 완전히 영원히",
     "originalArtist": "너드커넥션(Nerd Connection)",
     "tj": "82231",
