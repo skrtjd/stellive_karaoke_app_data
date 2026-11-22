@@ -1,5 +1,42 @@
 [
   {
+    "song_ID":"S000289",
+    "title":"mosi mosi?",
+    "title_jp":null,
+    "originalArtist": "楽音",
+    "tj": "52756",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "76548",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "648489",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "331172",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "short_version",
+          "number": "662043",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "1495-72",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000288",
     "title":"친애하는 소년이여",
     "title_jp":"拝啓、少年よ",
