@@ -1,5 +1,57 @@
 [
   {
+    "song_ID":"S000204",
+    "title":"츄, 다양성",
+    "title_jp":"ちゅ、多様性。",
+    "originalArtist":"あの",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "612464",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "717255",
+          "label": "본인 영상"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "349085",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976791",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "614790",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5440-05",
+          "label": "본인 영상"
+        },
+        {
+          "type": "anime_video",
+          "number": "5428-66",
+          "label": "애니메이션 영상 TV Size"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000203",
     "title":"우주비행사의 노래",
     "title_jp":"うちゅうひこうしのうた",
