@@ -13,15 +13,45 @@
       "joysound": [
         {
           "type": "standard",
-          "number": "507808",
+          "number": "625973",
           "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "717876",
+          "label": "본인 영상"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "349705",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "980631",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "627844",
+          "label": "사비카라(サビカラ)"
+        },
+       {
+          "type": "explosive_harmony",
+          "number": "649408",
+          "label": "폭발 하모니"
         }
       ],
       "dam": [
         {
           "type": "standard",
-          "number": "1197-41",
+          "number": "3246-97",
           "label": "일반 반주"
+        },
+        {
+        "type": "official_video",
+        "number": "3246-98",
+        "label": "비디오 클립 버전"
         }
       ]
     }
