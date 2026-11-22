@@ -1,5 +1,35 @@
 [
   {
+    "song_ID":"S000270",
+    "title":"레오(Leo)",
+    "title_jp":"レオ",
+    "originalArtist": "優里",
+    "tj": "52773",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "57826",
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000268",
+    "title":"여우비(낮에뜨는달X츄(CHUU))",
+    "title_jp":null,
+    "originalArtist": "츄(Chuu)",
+    "tj": "85689",
+    "tj60": null,
+    "tj60mr": "64340",
+    "ky": "80628",
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
     "song_ID":"S000267",
     "title":"너에게 메롱",
     "title_jp":"あんたにあっかんべ",
@@ -7,7 +37,7 @@
     "tj": null,
     "tj60": null,
     "tj60mr": null,
-    "ky": null
+    "ky": null,
     "japan":
     {
       "joysound": [],
@@ -22,7 +52,7 @@
     "tj": null,
     "tj60": null,
     "tj60mr": null,
-    "ky": null
+    "ky": null,
     "japan":
     {
       "joysound": [],
@@ -37,7 +67,7 @@
     "tj": "87685",
     "tj60": null,
     "tj60mr": null,
-    "ky": "51607"
+    "ky": "51607",
     "japan":
     {
       "joysound": [],
@@ -52,7 +82,7 @@
     "tj": "70682",
     "tj60": null,
     "tj60mr": null,
-    "ky": "51847"
+    "ky": "51847",
     "japan":
     {
       "joysound": [],
@@ -67,7 +97,7 @@
     "tj": "90264",
     "tj60": null,
     "tj60mr": null,
-    "ky": "57717"
+    "ky": "57717",
     "japan":
     {
       "joysound": [
@@ -104,7 +134,7 @@
     "tj": "52504",
     "tj60": null,
     "tj60mr": null,
-    "ky": "57723"
+    "ky": "57723",
     "japan":
     {
       "joysound": [
@@ -146,7 +176,7 @@
     "tj": "23388",
     "tj60": null,
     "tj60mr": null,
-    "ky": "53937"
+    "ky": "53937",
     "japan":
     {
       "joysound": [
@@ -183,7 +213,7 @@
     "tj": null,
     "tj60": null,
     "tj60mr": null,
-    "ky": null
+    "ky": null,
     "japan":
     {
       "joysound": [
@@ -215,7 +245,7 @@
     "tj": "81184",
     "tj60": null,
     "tj60mr": null,
-    "ky": "93396"
+    "ky": "93396",
     "japan":
     {
       "joysound": [],
@@ -230,7 +260,7 @@
     "tj": "52428",
     "tj60": null,
     "tj60mr": null,
-    "ky": null
+    "ky": null,
     "japan":
     {
       "joysound": [
@@ -277,7 +307,7 @@
     "tj": null,
     "tj60": null,
     "tj60mr": null,
-    "ky": null
+    "ky": null,
     "japan":
     {
       "joysound": [
@@ -309,7 +339,7 @@
     "tj": "50742",
     "tj60": null,
     "tj60mr": null,
-    "ky": "50499"
+    "ky": "50499",
     "japan":
     {
       "joysound": [],
@@ -324,7 +354,7 @@
     "tj": "88056",
     "tj60": null,
     "tj60mr": "64581",
-    "ky": "56593"
+    "ky": "56593",
     "japan":
     {
       "joysound": [
@@ -351,7 +381,7 @@
     "tj": "28832",
     "tj60": null,
     "tj60mr": null,
-    "ky": "44252"
+    "ky": "44252",
     "japan":
     {
       "joysound": [
@@ -393,7 +423,7 @@
     "tj": "80233",
     "tj60": null,
     "tj60mr": null,
-    "ky": "28560"
+    "ky": "28560",
     "japan":
     {
       "joysound": [],
@@ -408,7 +438,7 @@
     "tj": "86759",
     "tj60": null,
     "tj60mr": "64390",
-    "ky": "75077"
+    "ky": "75077",
     "japan":
     {
       "joysound": [],
@@ -423,7 +453,7 @@
     "tj": "52580",
     "tj60": null,
     "tj60mr": null,
-    "ky": "75948"
+    "ky": "75948",
     "japan":
     {
       "joysound": [
@@ -480,7 +510,7 @@
     "tj": "86778",
     "tj60": null,
     "tj60mr": null,
-    "ky": "75161"
+    "ky": "75161",
     "japan":
     {
       "joysound": [
@@ -507,7 +537,7 @@
     "tj": "76423",
     "tj60": null,
     "tj60mr": null,
-    "ky": "95844"
+    "ky": "95844",
     "japan":
     {
       "joysound": [],
@@ -522,7 +552,7 @@
     "tj": "78872",
     "tj60": null,
     "tj60mr": "93799",
-    "ky": "23292"
+    "ky": "23292",
     "japan":
     {
       "joysound": [],
@@ -537,7 +567,7 @@
     "tj": "83299",
     "tj60": null,
     "tj60mr": "64242",
-    "ky": "80711"
+    "ky": "80711",
     "japan":
     {
       "joysound": [],
@@ -552,7 +582,7 @@
     "tj": null,
     "tj60": null,
     "tj60mr": null,
-    "ky": null
+    "ky": null,
     "japan":
     {
       "joysound": [
@@ -584,7 +614,7 @@
     "tj": null,
     "tj60": null,
     "tj60mr": null,
-    "ky": null
+    "ky": null,
     "japan":
     {
       "joysound": [
@@ -616,7 +646,7 @@
     "tj": "91725",
     "tj60": null,
     "tj60mr": "64304",
-    "ky": "79967"
+    "ky": "79967",
     "japan":
     {
       "joysound": [
