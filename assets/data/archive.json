@@ -1,5 +1,37 @@
 [
   {
+    "song_ID":"S000257",
+    "title":"순연애의 잉곳",
+    "title_jp":"純恋愛のインゴット",
+    "originalArtist": "tuki.",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "633168",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "980819",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5553-15",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000256",
     "title":"number one rockstar",
     "title_jp":null,
