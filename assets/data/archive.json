@@ -1,5 +1,26 @@
 [
   {
+    "song_ID":"S000202",
+    "title":"Pale",
+    "title_jp":null,
+    "originalArtist":"MIMI(feat.初音ミク)",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "490472",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": []
+    }
+  },
+  {
     "song_ID":"S000201",
     "title":"퀘스천",
     "title_jp":"クエスチョン",
