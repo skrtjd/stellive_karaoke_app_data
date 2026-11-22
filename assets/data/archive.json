@@ -1,7 +1,53 @@
 [
   {
+    "song_ID":"S000294",
+    "title":"불꽃(2026 대한민국 이스포츠 리그 - 이터널 리턴 주제가)",
+    "title_jp":null,
+    "originalArtist": "아오쿠모 린, 하나코 나나",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000293",
+    "title":"Unbreakable Sphere",
+    "title_jp":null,
+    "originalArtist": "Sunnie",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000292",
+    "title":"꿈의 카니발(Grand Feast Daydream)",
+    "title_jp":null,
+    "originalArtist": "추화정",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
     "song_ID":"S000291",
     "title":"Maid My Way",
+    "title_jp":null,
     "originalArtist": "아오쿠모 린",
     "tj": "70674",
     "tj60": null,
