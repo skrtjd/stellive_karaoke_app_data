@@ -1,10 +1,42 @@
 [
   {
+    "song_ID":"S000284",
+    "title":"잡어",
+    "title_jp":"雑魚",
+    "originalArtist": "柊マグネタイト(feat.初音ミク, 重音テト)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "719191",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "635955",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "1071-88",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000283",
     "title":"숨바꼭질",
     "title_jp":"かくれんぼ",
     "originalArtist": "AliA",
-    "tj": null,
+    "tj": "52690",
     "tj60": null,
     "tj60mr": null,
     "ky": null,
