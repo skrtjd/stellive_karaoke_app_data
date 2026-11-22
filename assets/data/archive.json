@@ -1,5 +1,67 @@
 [
   {
+    "song_ID":"S000300",
+    "title":"SPECIALZ",
+    "title_jp":null,
+    "originalArtist": "King Gnu",
+    "tj": "68876",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "75838",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "717593",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "620432",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "349368",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976983",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "music_video",
+          "number": "511572",
+          "label": "뮤직비디오"
+        },
+        {
+          "type": "short_version",
+          "number": "622010",
+          "label": "사비카라(サビカラ)"
+        },
+        {
+          "type": "explosive_harmony",
+          "number": "649428",
+          "label": "폭발 하모니"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "1336-46",
+          "label": "본인 영상"
+        },
+        {
+          "type": "live_vocal",
+          "number": "1336-61",
+          "label": "～King Gnu Dome Tour THE GREATEST UNKNOWN at TOKYO DOME～ Live ver."
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000299",
     "title":"Happy End",
     "title_jp":"ハッピーエンド",
@@ -53,7 +115,6 @@
           "number": "5859-96",
           "label": "back number dome tour 2018 “stay with you“ Live ver."
         },
-
         {
           "type": "live_vocal",
           "number": "1486-77",
