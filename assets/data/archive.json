@@ -1,5 +1,237 @@
 [
   {
+    "song_ID":"S000213",
+    "title":"메이드☆지상주의",
+    "title_jp":"メイド☆至上主義",
+    "originalArtist":"かぴ×Hanon×Kotoha",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "626222",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000212",
+    "title":"쿵쿵 앞-으로!",
+    "title_jp":"とんとんまーえ!",
+    "originalArtist":"さつき が てんこもり(feat.初音ミク, 鏡音レン)",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "738434",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7624-75",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000211",
+    "title":"병명 상사병",
+    "title_jp":"病名恋ワズライ",
+    "originalArtist":"HoneyWorks(feat.GUMI)",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "736382",
+          "label": "일반 반주"
+        }, 
+        {
+          "type": "vocal_assist",
+          "number": "969578",
+          "label": "보컬 어시스트"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7633-80",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000210",
+    "title":"그 나라의 왕가는 이상해",
+    "title_jp":null,
+    "originalArtist":"udaque",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000209",
+    "title":"슈가로스",
+    "title_jp":"シュガーロス",
+    "originalArtist":"Wanuka",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "495996",
+          "label": "일반 반주"
+        },        
+        {
+          "type": "music_video",
+          "number": "881660",
+          "label": "가사 영상"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "5386-61",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000208",
+    "title":"연예인",
+    "title_jp":"ヨニェイン",
+    "originalArtist":"싸이[サイ]",
+    "tj":"16256",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"45651",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "84938",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "7249-14",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000207",
+    "title":"댄스 로봇 댄스",
+    "title_jp":"ダンスロボットダンス",
+    "originalArtist":"ナユタン星人(Feat.初音ミク)",
+    "tj":"68096",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "694643",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "715366",
+          "label": "본인 영상"
+        }
+        {
+          "type": "vocal_assist",
+          "number": "972431",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "autovocal_effect",
+          "number": "504515",
+          "label": "오토보컬 이펙트"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "7638-99",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000206",
+    "title":"안녕, 꽃도둑씨",
+    "title_jp":"さようなら、花泥棒さん",
+    "originalArtist":"初音ミク",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000205",
+    "title":"사랑하고 있는거야",
+    "title_jp":"恋しているのさ",
+    "originalArtist":"初音ミク, 夏代 孝明",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "430657",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": []
+    }
+  },
+  {
     "song_ID":"S000204",
     "title":"츄, 다양성",
     "title_jp":"ちゅ、多様性。",
