@@ -1,5 +1,188 @@
 [
   {
+    "song_ID":"S000279",
+    "title":"DAYBREAK FRONTLINE",
+    "title_jp":null,
+    "originalArtist": "Orangestar(feat.IA)",
+    "tj": "90144",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "702543",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "691941",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "972120",
+          "label": "보컬 어시스트"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7638-94",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000278",
+    "title":"메리크리",
+    "title_jp":"メリクリ",
+    "originalArtist": "BoA",
+    "tj": "25907",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "41852",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "900099",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "10230",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "189315",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "902701",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "622762",
+          "label": "사비카라(サビカラ)"
+        },
+        {
+          "type": "music_video",
+          "number": "851231",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "6911-62",
+          "label": "본인 영상"
+        },
+        {
+          "type": "official_video",
+          "number": "6677-16",
+          "label": "생음, BoA THE LIVE“X'mas“ Ver."
+        },
+        {
+          "type": "instrumental",
+          "number": "7255-05",
+          "label": "명연 피아노 미노 하루키"
+        },
+        {
+          "type": "standard",
+          "number": "7255-88",
+          "label": "～BEST&USA Version～"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000277",
+    "title":"생명에게 미움받고 있어",
+    "title_jp":"命に嫌われている",
+    "originalArtist": "カンザキイオリ(feat.初音ミク)",
+    "tj": "68051",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "716003",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "435718",
+          "label": "일반 반주"
+        },
+        {
+          "type": "autovocal_effect",
+          "number": "504532",
+          "label": "오토보컬 이펙트"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "975843",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "7647-13",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000276",
+    "title":"KING",
+    "title_jp":null,
+    "originalArtist": "KANARIA(feat.GUMI)",
+    "tj": "52470",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "57759",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "716418",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "486296",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976529",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "7650-68",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000275",
     "title":"UNDEAD",
     "title_jp":null,
