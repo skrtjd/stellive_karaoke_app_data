@@ -1,5 +1,74 @@
 [
   {
+    "song_ID":"S000298",
+    "title":"Overdose",
+    "title_jp":null,
+    "originalArtist": "なとり",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "193775",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "611953",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "349034",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976788",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "5358-17",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000297",
+    "title":"아이덴티티(Identity)",
+    "title_jp":"アイデンティティ",
+    "originalArtist": "KANARIA(feat.GUMI, 初音ミク)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "496742",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7655-48",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000296",
     "title":"루머(Rumor)",
     "title_jp":"ルーマー",
