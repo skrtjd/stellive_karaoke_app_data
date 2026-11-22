@@ -1,5 +1,109 @@
 [
   {
+    "song_ID":"S000250",
+    "title":"HERO",
+    "title_jp":null,
+    "originalArtist": "육성재",
+    "tj": "86778",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "75161"
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "507808",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "1197-41",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000249",
+    "title":"HERO",
+    "title_jp":null,
+    "originalArtist": "루시",
+    "tj": "76423",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "95844"
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000248",
+    "title":"첫사랑",
+    "title_jp":null,
+    "originalArtist":"백아",
+    "tj": "78872",
+    "tj60": null,
+    "tj60mr": "93799",
+    "ky": "23292"
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000247",
+    "title":"낮에 뜨는 달",
+    "title_jp":null,
+    "originalArtist":"안예은",
+    "tj": "83299",
+    "tj60": null,
+    "tj60mr": "64242",
+    "ky": "80711"
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000246",
+    "title":"그 여름에 피어나",
+    "title_jp":"あの夏に咲け",
+    "originalArtist":"ヨルシカ",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "430722",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "978716",
+          "label": "보컬 어시스트"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "5075-09",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000245",
     "title":"그 여름의 어느 날은(Someday in that Summer)",
     "title_jp":"あの夏のいつかは",
