@@ -1,5 +1,158 @@
 [
   {
+    "song_ID":"S000275",
+    "title":"UNDEAD",
+    "title_jp":null,
+    "originalArtist": "YOASOBI",
+    "tj": "52595",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "718098",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "628772",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "349794",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "980674",
+          "label": "기타 내비게이션"
+        },        
+        {
+          "type": "short_version",
+          "number": "630225",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "1278-75",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000274",
+    "title":"눈싸움",
+    "title_jp":"睨めっ娘",
+    "originalArtist": "友成空",
+    "tj":"52776",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":"57829",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "718076",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "627059",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "349766",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "980662",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "629392",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "1412-43",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000273",
+    "title":"SOS",
+    "title_jp":"ねぇねぇねぇ。",
+    "originalArtist": "ピノキオピー(feat.鏡音リン, 初音ミク)",
+    "tj":"52687",
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "716997",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "494244",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "7653-78",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000272",
+    "title":"SOS",
+    "title_jp":null,
+    "originalArtist": "黛冬優子",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "498751",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "4545-14",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000271",
     "title":"겨울의 선물",
     "title_jp":"冬のプレゼント",
