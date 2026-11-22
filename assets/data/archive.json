@@ -1,5 +1,64 @@
 [
   {
+    "song_ID":"S000245",
+    "title":"그 여름의 어느 날은(Someday in that Summer)",
+    "title_jp":"あの夏のいつかは",
+    "originalArtist":"*Luna(feat.初音ミク)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "491075",
+          "label": "일반 반주"
+        },
+        {
+          "type": "standard",
+          "number": "621975",
+          "label": "일반 반주(2023 Ver.)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7652-05",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000244",
+    "title":"한 페이지가 될 수 있게",
+    "title_jp":"ハン ペイジガ テル ス イッケ",
+    "originalArtist":"DAY6",
+    "tj": "91725",
+    "tj60": null,
+    "tj60mr": "64304",
+    "ky": "79967"
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "507194",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "6459-18",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000243",
     "title":"여로",
     "title_jp":null,
