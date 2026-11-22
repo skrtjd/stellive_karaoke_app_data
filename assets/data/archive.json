@@ -1,5 +1,42 @@
 [
   {
+    "song_ID":"S000263",
+    "title":"Usagi Rap(우사기 랩)",
+    "title_jp":"うさぎラップ",
+    "originalArtist": "うさぎ(CV:小澤亜李),モモンガ(CV:井口裕香) 他2名",
+    "tj": "90264",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "57717"
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "664250",
+          "label": "일반 반주(リズム感のある者たちver.)"
+        },
+        {
+          "type": "standard",
+          "number": "664251",
+          "label": "일반 반주(ソロver.)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "1561-53",
+          "label": "일반 반주(リズム感のある者たちver.)"
+        },
+        {
+          "type": "standard",
+          "number": "1561-54",
+          "label": "일반 반주(ソロver.)"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000262",
     "title":"물떼새",
     "title_jp":"千鳥",
