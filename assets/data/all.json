@@ -9673,6 +9673,22 @@
     }
   },
   {
+    "title": "HELP!!",
+    "originalArtist": "Kobo Kanaeru",
+    "tj": "52526",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "_source": {
+      "member": "toa",
+      "category": "cover",
+      "file": "assets/data/toa/cover.json",
+      "location": [
+        1
+      ]
+    }
+  },
+  {
     "title": "내꺼 하는 법(How to be mine)",
     "originalArtist": "아야츠노 유니",
     "tj": "84251",
