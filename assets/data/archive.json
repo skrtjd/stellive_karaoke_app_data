@@ -1,5 +1,68 @@
 [
   {
+    "song_ID":"S000299",
+    "title":"Happy End",
+    "title_jp":"ハッピーエンド",
+    "originalArtist": "back number",
+    "tj": "28675",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "193340",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "156959",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "971443",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "975322",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5859-43",
+          "label": "본인 영상"
+        },
+        {
+          "type": "official_video",
+          "number": "5859-46",
+          "label": "생음, 본인 영상"
+        },
+        {
+          "type": "official_video",
+          "number": "5859-45",
+          "label": "프로오케(プロオケ)"
+        },
+        {
+          "type": "live_vocal",
+          "number": "5859-96",
+          "label": "back number dome tour 2018 “stay with you“ Live ver."
+        },
+
+        {
+          "type": "live_vocal",
+          "number": "1486-77",
+          "label": "back number “anti sleeps tour 2024“ at SAITAMA SUPER ARENA Live ver."
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000298",
     "title":"Overdose",
     "title_jp":null,
