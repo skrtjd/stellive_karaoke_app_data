@@ -1,5 +1,42 @@
 [
   {
+    "song_ID":"S000283",
+    "title":"숨바꼭질",
+    "title_jp":"かくれんぼ",
+    "originalArtist": "AliA",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "717435",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "443574",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "980548",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5257-72",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000282",
     "title":"나에게 꽃다발",
     "title_jp":"わたしに花束",
