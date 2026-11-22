@@ -1,5 +1,37 @@
 [
   {
+    "song_ID":"S000214",
+    "title":"데빌이 아닌걸",
+    "title_jp":"デビルじゃないもん",
+    "originalArtist":"DECO*27, ピノキオピー(feat.初音ミク)",
+    "tj":null,
+    "tj60":null,
+    "tj60mr":null,
+    "ky":null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "613532",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "717297",
+          "label": "본인 영상"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "7657-25",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000213",
     "title":"메이드☆지상주의",
     "title_jp":"メイド☆至上主義",
