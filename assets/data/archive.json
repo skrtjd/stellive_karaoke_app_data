@@ -1,5 +1,32 @@
 [
   {
+    "song_ID":"S000296",
+    "title":"루머(Rumor)",
+    "title_jp":"ルーマー",
+    "originalArtist": "ポリスピカデリー(feat.GUMI)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "444463",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7649-04",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000295",
     "title":"유령도쿄",
     "title_jp":"幽霊東京",
