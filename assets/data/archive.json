@@ -1,5 +1,67 @@
 [
   {
+    "song_ID":"S000290",
+    "title":"혁명도중 - On The Way",
+    "title_jp":"革命道中 - On The Way",
+    "originalArtist": "アイナ・ジ・エンド(Aina The End)",
+    "tj": "52461",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "57770",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "anime_video",
+          "number": "718757",
+          "label": "애니메이션 노래방"
+        },
+        {
+          "type": "standard",
+          "number": "638116",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "330787",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "980907",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "640627",
+          "label": "사비카라(サビカラ)"
+        },
+        {
+          "type": "music_video",
+          "number": "521815",
+          "label": "뮤직비디오"
+        },
+        {
+          "type": "explosive_harmony",
+          "number": "649108",
+          "label": "폭발 하모니"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "1123-55",
+          "label": "본인 영상"
+        },
+        {
+          "type": "live_vocal",
+          "number": "1411-99",
+          "label": "생음, AiNA THE END ONE MAN LIVE “nukariari“ ver."
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000289",
     "title":"mosi mosi?",
     "title_jp":null,
