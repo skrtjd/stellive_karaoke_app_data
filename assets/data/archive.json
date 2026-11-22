@@ -1,6 +1,53 @@
 [
   {
     "song_ID":"S000270",
+    "title":"Sabotage",
+    "title_jp":null,
+    "originalArtist": "緑黄色社会",
+    "tj": "52401",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "443747",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "979785",
+          "label": "보컬 어시스트"
+        },   
+        {
+          "type": "guitar_navi",
+          "number": "976044",
+          "label": "기타 내비게이션"
+        }     
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5229-16",
+          "label": "생음, 본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "5207-56",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "5229-26",
+          "label": "프로오케(プロオケ)"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000269",
     "title":"레오(Leo)",
     "title_jp":"レオ",
     "originalArtist": "優里",
@@ -10,8 +57,45 @@
     "ky": "57826",
     "japan":
     {
-      "joysound": [],
-      "dam": []
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "716904",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "495289",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "348758",
+          "label": "가이드 보컬"
+        },   
+        {
+          "type": "guitar_navi",
+          "number": "976602",
+          "label": "기타 내비게이션"
+        }     
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "1307-09",
+          "label": "일반 반주"
+        },
+        {
+          "type": "instrumental",
+          "number": "1307-32",
+          "label": "명연 피아노 미노 하루키"
+        },
+        {
+          "type": "instrumental",
+          "number": "1307-44",
+          "label": "오케스트라 어레인지 Ver."
+        }
+      ]
     }
   },
   {
