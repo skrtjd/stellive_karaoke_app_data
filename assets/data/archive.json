@@ -1,5 +1,42 @@
 [
   {
+    "song_ID":"S000280",
+    "title":"Love Letter",
+    "title_jp":"ラブレター",
+    "originalArtist": "YOASOBI",
+    "tj": "90144",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "716727",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "492416",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "348598",
+          "label": "가이드 보컬"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "1278-08",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000279",
     "title":"DAYBREAK FRONTLINE",
     "title_jp":null,
