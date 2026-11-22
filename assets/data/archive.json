@@ -1,5 +1,84 @@
 [
   {
+    "song_ID":"S000288",
+    "title":"친애하는 소년이여",
+    "title_jp":"拝啓、少年よ",
+    "originalArtist": "Hump Back",
+    "tj": "52756",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "76548",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "716007",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "430817",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "978652",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "975831",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "617190",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5125-35",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000287",
+    "title":"호시아이",
+    "title_jp":"ホシアイ",
+    "originalArtist": "レフティーモンスターP(feat.GUMI)",
+    "tj": "27964",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44070",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "732091",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "978224",
+          "label": "보컬 어시스트"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7622-56",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000286",
     "title":"StaRt",
     "title_jp":null,
