@@ -1,5 +1,67 @@
 [
   {
+    "song_ID":"S000304",
+    "title":"역몽",
+    "title_jp":"逆夢",
+    "originalArtist": "King Gnu",
+    "tj": "68561",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44744",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "716871",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "495044",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "348745",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976586",
+          "label": "기타 내비게이션"
+        },
+       {
+          "type": "music_video",
+          "number": "511577",
+          "label": "뮤직비디오"
+        },
+        {
+          "type": "short_version",
+          "number": "497442",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "1336-32",
+          "label": "본인 영상"
+        },
+        {
+          "type": "instrumental",
+          "number": "1336-45",
+          "label": "명연 피아노"
+        },
+        {
+          "type": "official_video",
+          "number": "1336-62",
+          "label": "생음, 본인가창, ~King Gnu Dome Tour THE GREATEST UNKNOWN at TOKYO DOME~"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000303",
     "title":"W/X/Y",
     "title_jp":null,
