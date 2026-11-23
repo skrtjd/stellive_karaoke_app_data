@@ -1,5 +1,104 @@
 [
   {
+    "song_ID":"S000303",
+    "title":"W/X/Y",
+    "title_jp":null,
+    "originalArtist": "たにゆうき",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "193736",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "490583",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976651",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "498606",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5359-40",
+          "label": "본인 영상"
+        },
+        {
+          "type": "instrumental",
+          "number": "5471-10",
+          "label": "명연 피아노"
+        },
+        {
+          "type": "official_video",
+          "number": "5489-32",
+          "label": "생음, 본인가창, GFEST.2023"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000302",
+    "title":"복숭아빛 열쇠",
+    "title_jp":"ももいろの鍵",
+    "originalArtist": "いよわ(feat.初音ミク)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "819032",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "621238",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7659-59",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000301",
+    "title":"To.X",
+    "title_jp":null,
+    "originalArtist": "태연",
+    "tj": "85413",
+    "tj60": null,
+    "tj60mr": "64327",
+    "ky": "80411",
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
     "song_ID":"S000300",
     "title":"SPECIALZ",
     "title_jp":null,
