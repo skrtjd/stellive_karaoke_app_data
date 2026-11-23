@@ -1,5 +1,1348 @@
 [
   {
+    "song_ID":"S000334",
+    "title":"괴도 F의 대본 ~사라진 다이아몬드의 수수께끼~",
+    "title_jp":"怪盗Fの台本 ~消えたダイヤの謎~",
+    "originalArtist": "ひとしずく×やま△(feat.初音ミク、鏡音リン、鏡音レン、巡音ルカ、KAITO、MEIKO、GUMI、神威がくぽ、IA、MAYU)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "735328",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7626-66",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000333",
+    "title":"아 프리오리",
+    "title_jp":"ア・プリオリ",
+    "originalArtist": "Mrs.GREEN APPLE",
+    "tj": "52856",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "430871",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "978748",
+          "label": "보컬 어시스트"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "6197-72",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000332",
+    "title":"불가행력",
+    "title_jp":"不可幸力",
+    "originalArtist": "Vaundy",
+    "tj": "52455",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "57768",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "716432",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "446191",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "348346",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "short_version",
+          "number": "629388",
+          "label": "사비카라(サビカラ)"
+        },
+        {
+          "type": "music_video",
+          "number": "517882",
+          "label": "뮤직비디오"
+        },
+        {
+          "type": "explosive_harmony",
+          "number": "649433",
+          "label": "폭발 하모니"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5263-09",
+          "label": "본인 영상"
+        },
+        {
+          "type": "live_vocal",
+          "number": "1375-33",
+          "label": "생음, 본인 가창, ～one man live at NIPPON BUDOKAN “深呼吸“～"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000331",
+    "title":"소녀레이",
+    "title_jp":"少女レイ",
+    "originalArtist": "みきとP(feat.初音ミク)",
+    "tj": "68106",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "715409",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "431203",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "7644-45",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000330",
+    "title":"완전감각Dreamer",
+    "title_jp":"完全感覚Dreamer",
+    "originalArtist": "ONE OK ROCK",
+    "tj": "27565",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "43387",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "instrumental",
+          "number": "320607",
+          "label": "생연주"
+        },
+        {
+          "type": "standard",
+          "number": "139942",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "963910",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "autovocal_effect",
+          "number": "504315",
+          "label": "오토보컬 이펙트"
+        },
+        {
+          "type": "music_video",
+          "number": "520120",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "6488-11",
+          "label": "생음"
+        },
+        {
+          "type": "standard",
+          "number": "7426-59",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "6488-29",
+          "label": "프로오케(プロオケ)"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000329",
+    "title":"POP/STARS",
+    "title_jp":null,
+    "originalArtist": "K/DA,(여자)아이들,Madison Beer,Jaira Burns",
+    "tj": "53504",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "89806",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "507815",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "anime_video",
+          "number": "3849-91",
+          "label": "애니메이션 영상"
+        },
+      ]
+    }
+  },
+  {
+    "song_ID":"S000328",
+    "title":"귀엽기만 하면 안 되나요?",
+    "title_jp":"かわいいだけじゃだめですか？",
+    "originalArtist": "キューティーストリート(CUTIE STREET)",
+    "tj": "52410",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "57750",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "718139",
+          "label": "본인 영상"
+        },
+        {
+          "type":"recorded_audio",
+          "number":"819321",
+          "label":"레코오토(レコオト)"
+        },
+        {
+          "type": "standard",
+          "number": "630523",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "349888",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "live_vocal",
+          "number": "718659",
+          "label": "ASOBIEXPO 2025 Live 영상"
+        },
+        {
+          "type": "music_video",
+          "number": "517317",
+          "label": "뮤직비디오"
+        },
+        {
+          "type": "short_version",
+          "number": "631908",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5538-64",
+          "label": "본인 영상"
+        },
+        {
+          "type": "live_vocal",
+          "number": "1152-39",
+          "label": "생음, 본인 가창, KAWAII LAB. 3rd Anniversary Special LIVE ～わたし“たち“の一番かわいいところ～"
+        },
+        {
+          "type": "live_vocal",
+          "number": "1549-33",
+          "label": "생음, 추천 카메라이브, KAWAII LAB. 3rd Anniversary Special LIVE ～わたし“たち“の一番かわいいところ～"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000327",
+    "title":"에고 록",
+    "title_jp":"エゴロック",
+    "originalArtist": "すりぃ(feat.鏡音レン)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "622408",
+          "label": "Long ver."
+        },
+        {
+          "type": "official_video",
+          "number": "718813",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "439704",
+          "label": "일반 반주"
+        },
+        {
+          "type": "autovocal_effect",
+          "number": "504542",
+          "label": "오토보컬 이펙트"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7654-50",
+          "label": "Long ver."
+        },
+        {
+          "type": "standard",
+          "number": "7649-53",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000326",
+    "title":"댄스 로봇 댄스",
+    "title_jp":"ダンスロボットダンス",
+    "originalArtist": "ナユタン星人(feat.初音ミク)",
+    "tj": "68096",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "715366",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "694643",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "972431",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "autovocal_effect",
+          "number": "504515",
+          "label": "오토보컬 이펙트"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "7638-99",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000325",
+    "title":"댄스홀",
+    "title_jp":"ダンスホール",
+    "originalArtist": "Mrs. GREEN APPLE",
+    "tj": "68620",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44808",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "193739",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "499083",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "348903",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976694",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "live_vocal",
+          "number": "718479",
+          "label": "Live 영상"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "1329-55",
+          "label": "본인 영상"
+        },
+        {
+          "type": "live_vocal",
+          "number": "1120-74",
+          "label": "생음, 본인 가창, ゼンジン未到とヴェルトラウム～銘銘編～"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000324",
+    "title":"아이네 클라이네",
+    "title_jp":"アイネクライネ",
+    "originalArtist": "米津玄師",
+    "tj": "28607",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44040",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "701871",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "738366",
+          "label": "일반 반주"
+        },
+        {
+          "type": "autovocal_effect",
+          "number": "504503",
+          "label": "오토보컬 이펙트"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "974643",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "630919",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "3699-77",
+          "label": "본인 영상"
+        },
+        {
+          "type": "official_video",
+          "number": "3246-28",
+          "label": "생음"
+        },
+        {
+          "type": "official_video",
+          "number": "3246-27",
+          "label": "프로오케(プロオケ)"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000323",
+    "title":"Oh...",
+    "title_jp":null,
+    "originalArtist": "只野 楓",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "619005",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000322",
+    "title":"AIZO",
+    "title_jp":null,
+    "originalArtist": "King Gnu",
+    "tj": "52501",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "718848",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "644290",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "330972",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "981075",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "music_video",
+          "number": "523344",
+          "label": "뮤직비디오"
+        },
+        {
+          "type": "short_version",
+          "number": "645173",
+          "label": "사비카라(サビカラ)"
+        },
+        {
+          "type": "explosive_harmony",
+          "number": "649405",
+          "label": "폭발 하모니"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "1344-51",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000321",
+    "title":"chocolate box",
+    "title_jp":null,
+    "originalArtist": "dezzy(feat.鏡音リン・レン)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "719006",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "616202",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7657-91",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000320",
+    "title":"카가리비토",
+    "title_jp":"カガリビト",
+    "originalArtist": "milestones(feat.初音ミク)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "198049",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000319",
+    "title":"All I Want For Christmas Is You",
+    "title_jp":null,
+    "originalArtist": "Mariah Carey",
+    "tj": "20422",
+    "tj60": null,
+    "tj60mr": "62148",
+    "ky": "8008",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "715963",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "12580",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "340803",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "903084",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "music_video",
+          "number": "877818",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "3120-08",
+          "label": "일반 반주"
+        },
+        {
+          "type": "standard",
+          "number": "3120-94",
+          "label": "Nipponglish ver."
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000318",
+    "title":"STAY",
+    "title_jp":"ステイ",
+    "originalArtist": "The Kid LAROI,Justin Bieber",
+    "tj": "23762",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "94974",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "493187",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "4104-49",
+          "label": "일반 반주"
+        },
+        {
+          "type": "standard",
+          "number": "4131-51",
+          "label": "Nipponglish ver."
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000317",
+    "title":"벌거벗은 용사",
+    "title_jp":"裸の勇者",
+    "originalArtist": "Vaundy",
+    "tj": "68633",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44792",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "716912",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "496155",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "348805",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976603",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "music_video",
+          "number": "514775",
+          "label": "뮤직비디오"
+        },
+        {
+          "type": "short_version",
+          "number": "619534",
+          "label": "사비카라(サビカラ)"
+        },
+        {
+          "type": "explosive_harmony",
+          "number": "649448",
+          "label": "폭발 하모니"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5385-92",
+          "label": "생음, 본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "5385-05",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "1375-09",
+          "label": "프로오케(プロオケ)"
+        },
+        {
+          "type": "live_vocal",
+          "number": "1375-32",
+          "label": "생음, 본인 가창, ～one man live at NIPPON BUDOKAN “深呼吸“～"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000316",
+    "title":"스위트 매직",
+    "title_jp":"スイートマジック",
+    "originalArtist": "Junky(Feat.鏡音リン)",
+    "tj": "68707",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44857",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "691027",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7627-70",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000315",
+    "title":"차가운 상어 아가씨",
+    "title_jp":"モエチャッカファイア",
+    "originalArtist": "issey[弌誠]",
+    "tj": "90174",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "57733",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "718159",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "630109",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "349896",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "music_video",
+          "number": "515364",
+          "label": "뮤직비디오"
+        },
+        {
+          "type": "short_version",
+          "number": "631906",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5536-53",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000314",
+    "title":"Dynamite",
+    "title_jp":null,
+    "originalArtist": "방탄소년단[BTS]",
+    "tj": "75520",
+    "tj60": null,
+    "tj60mr": "62837",
+    "ky": "28017",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "486065",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "348341",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976290",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "music_video",
+          "number": "864381",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "6786-45",
+          "label": "일반 반주"
+        },
+        {
+          "type": "standard",
+          "number": "6786-46",
+          "label": "Nipponglish ver."
+        },
+        {
+          "type": "official_video",
+          "number": "6786-89",
+          "label": "생음, 본인 가창"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000313",
+    "title":"IRIS OUT",
+    "title_jp":null,
+    "originalArtist": "米津玄師",
+    "tj": "52959",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "57785",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "718744",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "640256",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "330853",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "980980",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "642487",
+          "label": "사비카라(サビカラ)"
+        },
+        {
+          "type": "explosive_harmony",
+          "number": "649110",
+          "label": "폭발 하모니"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "1180-72",
+          "label": "비디오 클립 버전"
+        },
+        {
+          "type": "standard",
+          "number": "1208-61",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000312",
+    "title":"전방향 미소녀",
+    "title_jp":"全方向美少女",
+    "originalArtist": "乃紫",
+    "tj": "52589",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "75949",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "817078",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "623641",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "349675",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "980567",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "624495",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5486-87",
+          "label": "본인 영상"
+        },
+        {
+          "type": "live_vocal",
+          "number": "1152-06",
+          "label": "생음, 본인 가창, 『乃紫 ZEPP TOUR 2025』"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000311",
+    "title":"PLAY",
+    "title_jp":"プレイ",
+    "originalArtist": "Giga(feat.初音ミク)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "718566",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "637485",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "1428-98",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000310",
+    "title":"잿빛과 푸름",
+    "title_jp":"灰色と青",
+    "originalArtist": "米津玄師(+菅田将暉)",
+    "tj": "28789",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "714849",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "423054",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "347290",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "975563",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "625235",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "3246-45",
+          "label": "본인 영상"
+        },
+        {
+          "type": "instrumental",
+          "number": "3251-03",
+          "label": "명연 피아노"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000309",
+    "title":"W●RK",
+    "title_jp":null,
+    "originalArtist": "millennium parade,椎名林檎",
+    "tj": "68798",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44936",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "717444",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "616556",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "349232",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976896",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "1336-44",
+          "label": "비디오 클립 버전"
+        },
+        {
+          "type": "standard",
+          "number": "1336-42",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000308",
+    "title":"별자리가 될 수 있다면",
+    "title_jp":"星座になれたら",
+    "originalArtist": "結束バンド",
+    "tj": "68748",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44888",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "anime_video",
+          "number": "717483",
+          "label": "애니메이션 노래방"
+        },
+        {
+          "type": "standard",
+          "number": "613446",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976807",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+          "type": "anime_video",
+          "number": "3345-50",
+          "label": "생음, 애니메이션 영상"
+        },
+        {
+          "type": "standard",
+          "number": "3334-70",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "3345-52",
+          "label": "프로오케(プロオケ)"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000307",
+    "title":"Stand By You",
+    "title_jp":null,
+    "originalArtist": "Official髭男dism",
+    "tj": "68850",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44587",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "716188",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "432955",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "978895",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "975797",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "music_video",
+          "number": "864266",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "6207-44",
+          "label": "본인 영상"
+        },
+        {
+          "type": "live_vocal",
+          "number": "6212-94",
+          "label": "생음, 본인 영상, ～Official髭男dism one-man tour 18/19より～"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000306",
+    "title":"BOW AND ARROW",
+    "title_jp":null,
+    "originalArtist": "米津玄師",
+    "tj": "52796",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "57822",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "718534",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "634248",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "330627",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "980822",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "anime_video",
+          "number": "718449",
+          "label": "애니메이션 노래방"
+        },
+        {
+          "type": "short_version",
+          "number": "635986",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "3251-19",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "3251-21",
+          "label": "본인 영상, 비디오 클립 버전"
+        },
+        {
+          "type": "anime_video",
+          "number": "1119-70",
+          "label": "애니메이션 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000305",
+    "title":"식스•피트•언더",
+    "title_jp":"シックス・フィート・アンダー",
+    "originalArtist": "Aqu3ra(feat.Flower)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "449173",
+          "label": "일반 반주"
+        },
+       {
+          "type": "music_video",
+          "number": "884335",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7650-14",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000304",
     "title":"역몽",
     "title_jp":"逆夢",
