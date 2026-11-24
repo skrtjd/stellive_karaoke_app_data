@@ -1,5 +1,447 @@
 [
   {
+    "song_ID":"S000424",
+    "title":"Henceforth",
+    "title_jp":"ヘンスフォース",
+    "originalArtist": "Orangestar(feat.IA)",
+    "tj": "52679",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "485729",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976449",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7651-16",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000423",
+    "title":"증표",
+    "title_jp":"シルシ",
+    "originalArtist": "LiSA",
+    "tj": "27687",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "43870",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "702374",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "670726",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "969501",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "974358",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "3714-42",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000422",
+    "title":"래빗 홀",
+    "title_jp":"ラビットホール",
+    "originalArtist": "DECO*27(feat.初音ミク)",
+    "tj": "52520",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "57757",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "717546",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "617012",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "7658-23",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000421",
+    "title":"마음 예보",
+    "title_jp":"心予報",
+    "originalArtist": "Eve",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "716125",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "446715",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976114",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "6260-60",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000420",
+    "title":"절대적대완전싫어",
+    "title_jp":"絶対敵対メチャキライヤー",
+    "originalArtist": "メドミア(feat.初音ミク, 可不)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "717845",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "499035",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7658-14",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000419",
+    "title":"꽃의 탑",
+    "title_jp":"花の塔",
+    "originalArtist": "さユり",
+    "tj": "68711",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44860",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "anime_video",
+          "number": "717249",
+          "label": "애니메이션 노래방"
+        },
+        {
+          "type": "standard",
+          "number": "610545",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976721",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+          "type": "anime_video",
+          "number": "1364-38",
+          "label": "애니메이션 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000418",
+    "title":"경화수월",
+    "title_jp":"鏡花水月",
+    "originalArtist": "まふまふ",
+    "tj": "28657",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44121",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "679174",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "969584",
+          "label": "보컬 어시스트"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "7636-34",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000417",
+    "title":"GETCHA!",
+    "title_jp":"ゲッチャ",
+    "originalArtist": "Giga & KIRA(feat.初音ミク, GUMI)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "487105",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7651-29",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000416",
+    "title":"맑은 날",
+    "title_jp":"晴る",
+    "originalArtist": "ヨルシカ",
+    "tj": "68953",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "75893",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "717812",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "623132",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "349475",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "980563",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "anime_video",
+          "number": "718267",
+          "label": "애니메이션 노래방"
+        },
+        {
+          "type": "music_video",
+          "number": "512764",
+          "label": "뮤직비디오"
+        },
+        {
+          "type": "short_version",
+          "number": "625229",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "1238-33",
+          "label": "생음, 본인 영상"
+        },
+        {
+          "type": "official_video",
+          "number": "1238-31",
+          "label": "본인 영상"
+        },
+        {
+          "type": "official_video",
+          "number": "1238-34",
+          "label": "프로오케(プロオケ)"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000415",
+    "title":"지구를 줄게",
+    "title_jp":"地球をあげる",
+    "originalArtist": "はるまきごはん(feat.LUMi)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "428957",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7642-75",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000414",
+    "title":"용사",
+    "title_jp":"勇者",
+    "originalArtist": "YOASOBI",
+    "tj": "68860",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "75833",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "717650",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "620849",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "349392",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "980502",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "1278-60",
+          "label": "비디오 클립 버전"
+        },
+        {
+          "type": "standard",
+          "number": "1278-59",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000413",
+    "title":"Lulala! Lululala!",
+    "title_jp":null,
+    "originalArtist": "유즈하 리코",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000412",
+    "title":"악당주의보",
+    "title_jp":null,
+    "originalArtist": "유즈하 리코",
+    "tj": "70676",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "51747",
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
     "song_ID":"S000411",
     "title":"BALALAIKA",
     "title_jp":"バラライカ",
