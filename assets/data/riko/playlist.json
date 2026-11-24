@@ -2,86 +2,86 @@
   {
     "playlistTitle": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 힘들고 지칠 때 듣고 싶은 유즈하 리코 새벽 감성 방종곡 | 한로로, 최유리, 바운디 Vaundy, 손디아, 위수, 담소네 공방, 나이트오프 ",
     "songs": [
-    {
-      "title": "알고있지만",
-      "originalArtist": "나이트오프(Night Off)",
-      "tj": "77359",
-      "tj60": null,
-      "tj60mr": null,
-      "ky": "28529"
-    },
-        {
-      "title": "잘 지내자, 우리",
-      "originalArtist": "최유리",
-      "tj": null,
-      "tj60": "42223",
-      "tj60mr": null,
-      "ky": "28715"
-    },
-        {
-      "title": "사랑하게 될 거야",
-      "originalArtist": "한로로",
-      "tj": "43883",
-      "tj60": null,
-      "tj60mr": null,
-      "ky": "56535"
-    },
-        {
-      "title": "입춘",
-      "originalArtist": "한로로",
-      "tj": "85215",
-      "tj60": null,
-      "tj60mr": null,
-      "ky": "80672"
-    },
-        {
-      "title": "밤 하늘에",
-      "originalArtist": "담소네 공방",
-      "tj": null,
-      "tj60": null,
-      "tj60mr": null,
-      "ky": null
-    },
-        {
-      "title": "누군가의 빛나던",
-      "originalArtist": "위수",
-      "tj": null,
-      "tj60": "97908",
-      "tj60mr": null,
-      "ky": "56397"
-    },
-        {
-      "title": "어른(나의아저씨OST)",
-      "originalArtist": "손디아",
-      "tj": "97552",
-      "tj60": null,
-      "tj60mr": "62571",
-      "ky": null
-    },
-        {
-      "title": "있잖아",
-      "originalArtist": "위수",
-      "tj": null,
-      "tj60": null,
-      "tj60mr": null,
-      "ky": null
-        },
       {
-    "title": "踊り子(무희)",
-    "originalArtist": "Vaundy",
-    "tj": "68807",
-    "tj60": null,
-    "tj60mr": null,
-    "ky": "76508"
+        "title": "알고있지만",
+        "originalArtist": "나이트오프(Night Off)",
+        "tj": "77359",
+        "tj60": null,
+        "tj60mr": null,
+        "ky": "28529"
       },
       {
-      "title": "숲",
-      "originalArtist": "최유리",
-      "tj": "82253",
-      "tj60": null,
-      "tj60mr": "64383",
-      "ky": "24277"
-    }
+        "title": "잘 지내자, 우리",
+        "originalArtist": "최유리",
+        "tj": null,
+        "tj60": "42223",
+        "tj60mr": null,
+        "ky": "28715"
+      },
+      {
+        "title": "사랑하게 될 거야",
+        "originalArtist": "한로로",
+        "tj": "43883",
+        "tj60": null,
+        "tj60mr": null,
+        "ky": "56535"
+      },
+      {
+        "title": "입춘",
+        "originalArtist": "한로로",
+        "tj": "85215",
+        "tj60": null,
+        "tj60mr": null,
+        "ky": "80672"
+      },
+      {
+        "title": "밤 하늘에",
+        "originalArtist": "담소네 공방",
+        "tj": null,
+        "tj60": null,
+        "tj60mr": null,
+        "ky": null
+      },
+      {
+        "title": "누군가의 빛나던",
+        "originalArtist": "위수",
+        "tj": null,
+        "tj60": "97908",
+        "tj60mr": null,
+        "ky": "56397"
+      },
+      {
+        "title": "어른(나의아저씨OST)",
+        "originalArtist": "손디아",
+        "tj": "97552",
+        "tj60": null,
+        "tj60mr": "62571",
+        "ky": null
+      },
+      {
+        "title": "있잖아",
+        "originalArtist": "위수",
+        "tj": null,
+        "tj60": null,
+        "tj60mr": null,
+        "ky": null
+      },
+      {
+        "title": "踊り子(무희)",
+        "originalArtist": "Vaundy",
+        "tj": "68807",
+        "tj60": null,
+        "tj60mr": null,
+        "ky": "76508"
+      },
+      {
+        "title": "숲",
+        "originalArtist": "최유리",
+        "tj": "82253",
+        "tj60": null,
+        "tj60mr": "64383",
+        "ky": "24277"
+      }
     ]
   }
 ]
