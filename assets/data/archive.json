@@ -1,5 +1,610 @@
 [
   {
+    "song_ID":"S000379",
+    "title":"생명의 이름",
+    "title_jp":"いのちの名前",
+    "originalArtist": "木村弓",
+    "tj": null,
+    "tj60": "28885",
+    "tj60mr": null,
+    "ky": "44281",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "70042",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "965377",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "907881",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "6921-02",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000378",
+    "title":"가짜 얼굴",
+    "title_jp":"偽顔",
+    "originalArtist": "yama",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "75985",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "623851",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "1252-27",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000377",
+    "title":"희극",
+    "title_jp":"喜劇",
+    "originalArtist": "星野源",
+    "tj": "68601",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44784",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "193730",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "497718",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "348853",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976678",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "music_video",
+          "number": "881139",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "6039-24",
+          "label": "본인 영상"
+        },
+        {
+          "type": "anime_video",
+          "number": "6039-27",
+          "label": "「SPY×FAMILY」애니메이션 버전"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000376",
+    "title":"야행",
+    "title_jp":"夜行",
+    "originalArtist": "ヨルシカ",
+    "tj": "68662",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44835",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "716355",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "446727",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5235-36",
+          "label": "생음, 본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "5232-57",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "5241-23",
+          "label": "프로오케(プロオケ)"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000375",
+    "title":"키라키라",
+    "title_jp":"きらきら",
+    "originalArtist": "もさを。",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "716481",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "486466",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "6851-06",
+          "label": "생음, 본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "6843-68",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "6844-84",
+          "label": "프로오케(プロオケ)"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000374",
+    "title":"As It Was",
+    "title_jp":"アズ・イット・ワズ",
+    "originalArtist": "Harry Styles",
+    "tj": "23887",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "95040",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "499756",
+          "label": "일반 반주"
+        },
+        {
+          "type": "music_video",
+          "number": "883897",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "4131-29",
+          "label": "일반 반주"
+        },
+        {
+          "type": "standard",
+          "number": "4132-90",
+          "label": "Nipponglish ver."
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000373",
+    "title":"고양이",
+    "title_jp":null,
+    "originalArtist": "선우정아(feat.IU)",
+    "tj": "97090",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "90823",
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000372",
+    "title":"요와네하키",
+    "title_jp":"ヨワネハキ",
+    "originalArtist": "MAISONdes(feat.和ぬか&asmi)",
+    "tj": "68501",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44709",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "716754",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "491680",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "348601",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "short_version",
+          "number": "494250",
+          "label": "사비카라(サビカラ)"
+        },
+        {
+          "type": "music_video",
+          "number": "876737",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5291-38",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000371",
+    "title":"바람을 먹다",
+    "title_jp":"風を食む",
+    "originalArtist": "ヨルシカ",
+    "tj": "68339",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "716451",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "486760",
+          "label": "일반 반주"
+        },
+        {
+          "type": "music_video",
+          "number": "867540",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5242-96",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000370",
+    "title":"도쿄 플래시",
+    "title_jp":"東京フラッシュ",
+    "originalArtist": "Vaundy",
+    "tj": "52407",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "57774",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "716433",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "445815",
+          "label": "일반 반주"
+        },
+        {
+          "type": "short_version",
+          "number": "635978",
+          "label": "사비카라(サビカラ)"
+        },
+        {
+          "type": "music_video",
+          "number": "517868",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5263-08",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000369",
+    "title":"사과팔이 물거품 소녀",
+    "title_jp":"林檎売りの泡沫少女",
+    "originalArtist": "yukkedoluce(feat.GUMI)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "713838",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "721457",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7621-95",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000368",
+    "title":"목소리",
+    "title_jp":"声",
+    "originalArtist": "HarryP(feat.初音ミク)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000367",
+    "title":"손바닥 원더랜드",
+    "title_jp":"てのひらワンダーランド",
+    "originalArtist": "ササノマリイ",
+    "tj": null,
+    "tj60": "68083",
+    "tj60mr": null,
+    "ky": "44436",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "690402",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "5351-83",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000366",
+    "title":"사리시노하라",
+    "title_jp":"サリシノハラ",
+    "originalArtist": "みきとP(feat.初音ミク)",
+    "tj": "27933",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44055",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "713435",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "723618",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "968896",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "autovocal_effect",
+          "number": "504411",
+          "label": "오토보컬 이펙트"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7622-52",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000365",
+    "title":"페이먼트",
+    "title_jp":"ペイメント",
+    "originalArtist": "Heavenz(feat.初音ミク)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000364",
+    "title":"CH4NGE",
+    "title_jp":null,
+    "originalArtist": "Giga(feat.可不)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "617616",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7658-44",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000363",
+    "title":"스스로 안락에 빠지다",
+    "title_jp":"自堕楽",
+    "originalArtist": "コメダワラ(feat.音街ウナ)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "486871",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "1421-93",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000362",
+    "title":"결벽증",
+    "title_jp":"ケッペキショウ",
+    "originalArtist": "すこっぷ(feat.GUMI)",
+    "tj": "28673",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44135",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "713449",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "722392",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "969632",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "autovocal_effect",
+          "number": "504405",
+          "label": "오토보컬 이펙트"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "7621-75",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000361",
     "title":"에일리언 에일리언",
     "title_jp":"エイリアンエイリアン",
@@ -8130,7 +8735,7 @@
   },
   {
     "song_ID":"S000119",
-    "title":"Yours",
+    "title":"yours",
     "title_jp":null,
     "originalArtist":"데이먼스 이어",
     "tj":null,
