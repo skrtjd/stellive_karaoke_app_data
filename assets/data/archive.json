@@ -1,5 +1,99 @@
 [
   {
+    "song_ID":"S000459",
+    "title": "도쿄 테디베어",
+    "title_jp": "東京テディベア",
+    "originalArtist": "Neru(feat.鏡音リン)",
+    "tj": "27324",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "43503",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "146167",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "963553",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "autovocal_effect",
+          "number": "504329",
+          "label": "오토보컬 이펙트"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "7627-19",
+          "label": "생음, マジカルミライ2013"
+        },
+        {
+          "type": "standard",
+          "number": "7609-80",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "7621-88",
+          "label": "본인 영상, Game Version"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000458",
+    "title": "유령이 되고싶어",
+    "title_jp": "ゆうれいになりたい",
+    "originalArtist": "『ユイカ』",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "825276",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "638838",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "1144-71",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000457",
+    "title": "호랑풍류가(나와 호랑이님 OST)",
+    "title_jp": null,
+    "originalArtist": "나래",
+    "tj": "98701",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "80648",
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
     "song_ID":"S000456",
     "title": "HELP!!",
     "title_jp": "ヘルプ!!",
