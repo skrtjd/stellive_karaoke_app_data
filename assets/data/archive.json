@@ -2161,10 +2161,10 @@
     "title":"Love Letter",
     "title_jp":"ラブレター",
     "originalArtist": "YOASOBI",
-    "tj": "90144",
+    "tj": "68514",
     "tj60": null,
     "tj60mr": null,
-    "ky": null,
+    "ky": "44729",
     "japan":
     {
       "joysound": [
@@ -5015,7 +5015,12 @@
         },
         {
           "type": "music_video",
-          "number": "508939, 511598",
+          "number": "508939",
+          "label": "뮤직비디오"
+        },
+        {
+          "type": "music_video",
+          "number": "511598",
           "label": "뮤직비디오"
         }
       ],
@@ -6684,10 +6689,10 @@
     "title":"후라이의 꿈",
     "title_jp":"フライエ クム",
     "originalArtist":"AKMU(악뮤)",
-    "tj":"34779",
-    "tj60":null,
-    "tj60mr":null,
-    "ky":"58483",
+    "tj": "84443",
+    "tj60": null,
+    "tj60mr": "64289",
+    "ky": "96582",
     "japan":
     {
       "joysound": [],
@@ -7556,10 +7561,10 @@
     "title":"크리스마스 노래",
     "title_jp":"クリスマスソング",
     "originalArtist":"back number",
-    "tj":"76468",
-    "tj60":null,
-    "tj60mr":null,
-    "ky":"22880",
+    "tj": "27807",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "43987",
     "japan":
     {
       "joysound": [
@@ -8159,11 +8164,11 @@
     "song_ID":"S000084",
     "title":"새벽과 반딧불이",
     "title_jp":"夜明けと蛍",
-    "originalArtist":"Rosa Walton",
-    "tj":"79185",
-    "tj60":null,
-    "tj60mr":null,
-    "ky":null,
+    "originalArtist":"n-buna(feat.初音ミク)",
+    "tj": "27999",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44116",
     "japan":
     {
       "joysound": [
@@ -9741,10 +9746,10 @@
     "title":"On The Ground",
     "title_jp":null,
     "originalArtist":"로제(ROSE)",
-    "tj": "68248",
-    "tj60":null,
-    "tj60mr":null,
-    "ky":"44894",
+    "tj": "76549",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "22683",
     "japan":
     {
     "joysound": [
@@ -11008,11 +11013,11 @@
     "song_ID":"S000008",
     "title": "신시대",
     "title_jp":"新時代",
-    "originalArtist": "『ユイカ』",
-    "tj": "68523",
+    "originalArtist": "Ado",
+    "tj": "68799",
     "tj60": null,
     "tj60mr": null,
-    "ky": "44734",
+    "ky": "57817",
     "japan":
     {
     "joysound":
