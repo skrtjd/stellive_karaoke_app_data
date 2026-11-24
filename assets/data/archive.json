@@ -1,5 +1,352 @@
 [
   {
+    "song_ID":"S000388",
+    "title":"비행정",
+    "title_jp":"飛行艇",
+    "originalArtist": "King Gnu",
+    "tj": "68135",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44499",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "715905",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "441863",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "348062",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976129",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "music_video",
+          "number": "863411",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "6222-11",
+          "label": "본인 영상"
+        },
+        {
+          "type": "live_vocal",
+          "number": "1336-65",
+          "label": "생음, 본인 가창, ～King Gnu Dome Tour THE GREATEST UNKNOWN at TOKYO DOME～"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000387",
+    "title":"실・부・프레지던트",
+    "title_jp":"シル・ヴ・プレジデント",
+    "originalArtist": "P丸様。",
+    "tj": "68442",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44688",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "193751",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "489393",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "348599",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976454",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "635092",
+          "label": "사비카라(サビカラ)"
+        },
+        {
+          "type": "music_video",
+          "number": "876084",
+          "label": "가사 영상"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5345-14",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000386",
+    "title":"신 같네",
+    "title_jp":"神っぽいな",
+    "originalArtist": "ピノキオピー(feat.初音ミク)",
+    "tj": "52678",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "57742",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "716850",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "494242",
+          "label": "일반 반주"
+        },
+        {
+          "type": "music_video",
+          "number": "883562",
+          "label": "뮤직비디오"
+        },
+        {
+          "type": "short_version",
+          "number": "610375",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "7654-40",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000385",
+    "title":"사무라이 하트(Some Like it Hot!!)",
+    "title_jp":"サムライハート",
+    "originalArtist": "SPYAIR",
+    "tj": "27527",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "43372",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "761512",
+          "label": "본인 영상"
+        },
+        {
+          "type": "instrumental",
+          "number": "320600",
+          "label": "생연주"
+        },
+        {
+          "type": "standard",
+          "number": "94693",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "340389",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "909651",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "music_video",
+          "number": "885259",
+          "label": "뮤직비디오"
+        },
+        {
+          "type": "short_version",
+          "number": "634259",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5870-02",
+          "label": "생음, 본인 영상"
+        },
+        {
+          "type": "anime_video",
+          "number": "5870-08",
+          "label": "애니메이션 영상"
+        },
+        {
+          "type": "anime_video",
+          "number": "1534-55",
+          "label": "생음, 「銀魂」JUMP MV 버전 애니메이션 영상"
+        },
+        {
+          "type": "official_video",
+          "number": "5870-03",
+          "label": "프로오케(プロオケ)"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000384",
+    "title":"푸른 산호초",
+    "title_jp":"青い珊瑚礁",
+    "originalArtist": "松田聖子",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "718089",
+          "label": "본인 영상"
+        },
+        {
+          "type": "instrumental",
+          "number": "320380",
+          "label": "생연주"
+        },
+        {
+          "type": "standard",
+          "number": "2609",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "970472",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "901804",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "627001",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5974-62",
+          "label": "생음, 본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "2127-13",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000383",
+    "title":"Summertime",
+    "title_jp":null,
+    "originalArtist": "NC.A",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000382",
+    "title":"TOMBOY",
+    "title_jp":null,
+    "originalArtist": "하나코 나나",
+    "tj": "81343",
+    "tj60": null,
+    "tj60mr": "93730",
+    "ky": "23767",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "497654",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "6652-21",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000381",
+    "title":"Born To Run",
+    "title_jp":null,
+    "originalArtist": "하나코 나나",
+    "tj": "70683",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "51749",
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000380",
+    "title":"Hush Trap",
+    "title_jp":null,
+    "originalArtist": "하나코 나나",
+    "tj": "70683",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "51749",
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
     "song_ID":"S000379",
     "title":"생명의 이름",
     "title_jp":"いのちの名前",
