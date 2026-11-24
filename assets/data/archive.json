@@ -8633,11 +8633,6 @@
         "label": "본인 영상"
         },
         {
-          "type": "anime_video",
-          "number": "713205",
-          "label": "애니메이션 노래방"
-        },
-        {
           "type":"guide_vocal",
           "number":"348275",
           "label":"가이드 보컬"
@@ -8934,21 +8929,51 @@
     {
       "joysound": [
         {
+          "type": "official_video",
+          "number": "717875",
+          "label": "본인 영상"
+        },
+        {
           "type":"standard",
-          "number":"128291",
+          "number":"625838",
           "label":"일반 반주"
         },
         {
+          "type": "guide_vocal",
+          "number": "349707",
+          "label": "가이드 보컬"
+        },
+        {
           "type": "guitar_navi",
-          "number": "910266",
+          "number": "980656",
           "label": "기타 내비게이션"
+        },
+        {
+          "type": "live_video",
+          "number": "718482",
+          "label": "Live 영상"
+        },
+        {
+          "type": "short_version",
+          "number": "627842",
+          "label": "사비카라(サビカラ)"
+        },
+        {
+          "type": "anime_video",
+          "number": "718253",
+          "label": "애니메이션 노래방"
         }
       ],
       "dam": [
         {
-          "type":"standard",
-          "number":"3364-68",
-          "label":"일반 반주"
+          "type": "official_video",
+          "number": "1447-11",
+          "label": "본인 영상"
+        },
+        {
+          "type": "live_vocal",
+          "number": "1120-68",
+          "label": "생음, 본인 가창, ゼンジン未到とヴェルトラウム～銘銘編～"
         }
       ]
     }
@@ -9330,11 +9355,6 @@
           "label": "본인 영상"
         },
         {
-          "type": "vocal_assist",
-          "number": "999502",
-          "label": "보컬 어시스트"
-        },
-        {
           "type": "guide_vocal",
           "number": "348682",
           "label": "가이드 보컬"
@@ -9683,7 +9703,7 @@
       },
       {
         "type": "music_video",
-        "number": "855550",
+        "number": "853126",
         "label": "뮤직비디오"
       },
       {
@@ -9949,7 +9969,7 @@
     "joysound": [
       {
         "type":"music_video",
-        "number":"882348",
+        "number":"517051",
         "label":"뮤직비디오"
       }
     ],
@@ -10957,37 +10977,31 @@
     "ky": "44829",
     "japan":
     {
-    "joysound":
-    [
-      {
-        "type": "standard",
-        "number": "492710",
-        "label": "일반 반주"
-      },
-      {
-        "type": "official_video",
-        "number": "809310",
-        "label": "본인 영상"
-      },
-      {
-        "type":"recorded_audio",
-        "number":"808185",
-        "label":"레코오토(レコオト)"
-      }
-    ],
-    "dam":
-    [
-      {
-        "type": "standard",
-        "number": "1128-07",
-        "label": "일반 반주"
-      },
-      {
-        "type": "original_vocal",
-        "number": "1026-58",
-        "label": "본인 가창"
-      }
-    ]
+      "joysound":
+      [
+        {
+          "type": "standard",
+          "number": "492710",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "809310",
+          "label": "본인 영상"
+        },
+        {
+          "type":"recorded_audio",
+          "number":"808185",
+          "label":"레코오토(レコオト)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "1261-94",
+          "label": "본인 영상"
+        }
+      ]
     }
   },
   {
