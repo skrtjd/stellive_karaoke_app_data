@@ -1,5 +1,307 @@
 [
   {
+    "song_ID":"S000434",
+    "title":"밤을 달리다",
+    "title_jp":"夜に駆ける",
+    "originalArtist": "YOASOBI",
+    "tj": "68381",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "716324",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "446181",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "348276",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976150",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "494349",
+          "label": "사비카라(サビカラ)"
+        },
+        {
+          "type": "music_video",
+          "number": "517858",
+          "label": "뮤직비디오"
+        },
+        {
+          "type": "official_video",
+          "number": "621998",
+          "label": "From THE FIRST TAKE"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5267-20",
+          "label": "본인 영상"
+        },
+        {
+          "type": "instrumental",
+          "number": "5295-92",
+          "label": "명연 피아노 미노 하루키"
+        },
+        {
+          "type": "official_video",
+          "number": "1278-84",
+          "label": "생음, 본인 가창, ～YOASOBI ZEPP TOUR 2024 “POP OUT“～"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000433",
+    "title":"히로인",
+    "title_jp":"ヒロイン",
+    "originalArtist": "back number",
+    "tj": "27762",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "43998",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "191965",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "119929",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "343482",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "974361",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "614786",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5860-17",
+          "label": "생음, 본인 영상"
+        },
+        {
+          "type": "official_video",
+          "number": "5859-98",
+          "label": "생음, back number dome tour 2018 “stay with you“"
+        },
+        {
+          "type": "official_video",
+          "number": "5860-98",
+          "label": "본인 영상"
+        },
+        {
+          "type": "official_video",
+          "number": "5860-16",
+          "label": "프로오케(プロオケ)"
+        },
+        {
+          "type": "live_vocal",
+          "number": "1520-88",
+          "label": "생음, 본인 가창, back number in your humor tour 2023"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000432",
+    "title":"목마름을 외치다",
+    "title_jp":"カワキヲアメク",
+    "originalArtist": "美波",
+    "tj": null,
+    "tj60": "68000",
+    "tj60mr": null,
+    "ky": "44373",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "715557",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "436014",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "979191",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "music_video",
+          "number": "517055",
+          "label": "가사 영상 뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5203-77",
+          "label": "생음"
+        },
+        {
+          "type": "standard",
+          "number": "5179-35",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "5206-48",
+          "label": "프로오케(プロオケ)"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000431",
+    "title":"숙명",
+    "title_jp":"宿命",
+    "originalArtist": "Official髭男dism",
+    "tj": "68086",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44442",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "715814",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "440582",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "979678",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "975981",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "497986",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "6212-86",
+          "label": "본인 영상"
+        },
+        {
+          "type": "instrumental",
+          "number": "1309-24",
+          "label": "명연 피아노 미노 하루키"
+        },
+        {
+          "type": "live_vocal",
+          "number": "1026-69",
+          "label": "생음, 본인 가창, ～Official髭男dism SHOCKING NUTS TOUR～"
+        },
+        {
+          "type": "live_vocal",
+          "number": "6223-45",
+          "label": "생음, 본인 가창, ～Official髭男dism one-man tour 2019～"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000430",
+    "title":"No title",
+    "title_jp":"ノータイトル",
+    "originalArtist": "れをる",
+    "tj": "28704",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44158",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "689337",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "4996-91",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000429",
+    "title":"네모네모",
+    "title_jp":"ネモネモ",
+    "originalArtist": "YENA(최예나)[イェナ]",
+    "tj": "43531",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "71633",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "632034",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "1207-35",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000428",
     "title":"POP IN 2",
     "title_jp":"ポッピンツー",
