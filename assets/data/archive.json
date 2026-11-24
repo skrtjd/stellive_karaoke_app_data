@@ -2444,11 +2444,6 @@
           "type": "standard",
           "number": "3205-95",
           "label": "일반 반주"
-        },
-        {
-          "type": "official_video",
-          "number": "6829-24",
-          "label": "프로오케(プロオケ)"
         }
       ]
     }
@@ -2696,10 +2691,10 @@
     "title":"아훔의 비트",
     "title_jp":"阿吽のビーツ",
     "originalArtist": "羽生まゐご(feat.v flower)",
-    "tj": "28717",
+    "tj": null,
     "tj60": null,
     "tj60mr": null,
-    "ky": "44167",
+    "ky": null,
     "japan":
     {
       "joysound": [
@@ -2924,7 +2919,7 @@
         },
         {
           "type": "live_vocal",
-          "number": "7081-66",
+          "number": "1152-33",
           "label": "생음, 본인 가창, 初音ミク JAPAN LIVE TOUR 2025 ～BLOOMING～"
         }
       ]
