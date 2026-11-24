@@ -1,5 +1,91 @@
 [
   {
+    "song_ID":"S000411",
+    "title":"BALALAIKA",
+    "title_jp":"バラライカ",
+    "originalArtist": "9Lana",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "627593",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "5507-71",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000410",
+    "title":"Dance The Night Away",
+    "title_jp":"ダンスザナイトアウェイ",
+    "originalArtist": "트와이스(TWICE)",
+    "tj": "98118",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "91929",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "432485",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "6449-55",
+          "label": "일반 반주"
+        },
+        {
+          "type": "live_vocal",
+          "number": "2000-24",
+          "label": "생음, 본인 가창, ~TWICE 4TH WORLD TOUR 'III' IN JAPAN~"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000409",
+    "title":"까탈레나(Catallena)",
+    "title_jp":"カタルレナ",
+    "originalArtist": "오렌지캬라멜[オレンジキャラメル]",
+    "tj": "38189",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "48394",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "118935",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "6401-21",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000408",
     "title":"너에게 100퍼센트",
     "title_jp":"キミに100パーセント",
