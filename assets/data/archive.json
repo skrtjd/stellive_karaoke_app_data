@@ -1,5 +1,534 @@
 [
   {
+    "song_ID":"S000402",
+    "title":"One Last Kiss",
+    "title_jp":null,
+    "originalArtist": "宇多田ヒカル",
+    "tj": "52459",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "716872",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "488455",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "348450",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976377",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "music_video",
+          "number": "879876",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "6974-18",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000401",
+    "title":"죄와 벌",
+    "title_jp":"罪と罰",
+    "originalArtist": "椎名林檎",
+    "tj": "25497",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "42016",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "700065",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "24010",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "905025",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5833-24",
+          "label": "본인 영상"
+        },
+        {
+          "type": "official_video",
+          "number": "7100-36",
+          "label": "생음"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000400",
+    "title":"레인",
+    "title_jp":"レイン",
+    "originalArtist": "シド",
+    "tj": "27062",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "43237",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "190456",
+          "label": "본인 영상"
+        },
+        {
+          "type": "anime_video",
+          "number": "180878",
+          "label": "애니메이션 노래방"
+        },
+        {
+          "type": "standard",
+          "number": "92552",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "188670",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "909355",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "6829-16",
+          "label": "생음, 본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "6829-29",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "6829-21",
+          "label": "프로오케(プロオケ)"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000399",
+    "title":"Joker",
+    "title_jp":null,
+    "originalArtist": "BIG Naughty(서동현)(feat.JAMIE(제이미))",
+    "tj": "76468",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "22880",
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000398",
+    "title":"수평선",
+    "title_jp":"水平線",
+    "originalArtist": "back number",
+    "tj": "68446",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44701",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "193660",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "486499",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "349250",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976669",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "495422",
+          "label": "사비카라(サビカラ)"
+        },
+        {
+          "type": "music_video",
+          "number": "885598",
+          "label": "가사 영상 뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5862-14",
+          "label": "생음, 본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "5862-13",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "5862-15",
+          "label": "프로오케(プロオケ)"
+        },
+        {
+          "type": "instrumental",
+          "number": "5862-26",
+          "label": "명연 피아노 미노 하루키"
+        },
+        {
+          "type": "live_vocal",
+          "number": "1486-75",
+          "label": "생음, 본인 가창, back number “anti sleeps tour 2024“ at SAITAMA SUPER ARENA"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000397",
+    "title":"울려퍼져라",
+    "title_jp":"ヒビカセ",
+    "originalArtist": "Giga(feat.初音ミク)",
+    "tj": "52553",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "689036",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "971508",
+          "label": "보컬 어시스트"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "4996-92",
+          "label": "일반 반주"
+        },
+        {
+          "type": "live_vocal",
+          "number": "5027-26",
+          "label": "생음, 본인 가창, マジカルミライ2016"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000396",
+    "title":"오도루프(Odo Loop)",
+    "title_jp":"オドループ",
+    "originalArtist": "フレデリック",
+    "tj": "52479",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44478",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "714125",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "316497",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "970384",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "music_video",
+          "number": "520131",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "3712-88",
+          "label": "본인 영상"
+        },
+        {
+          "type": "live_vocal",
+          "number": "6836-74",
+          "label": "생음, FREDERHYTHM ARENA 2020 ～終わらないMUSIC～ at YOKOHAMA ARENA"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000395",
+    "title":"텔레파시",
+    "title_jp":"テレパシ",
+    "originalArtist": "DECO*27(feat.初音ミク)",
+    "tj": "52505",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "57760",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "718367",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "634377",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "1144-82",
+          "label": "비디오 클립 버전"
+        },
+        {
+          "type": "standard",
+          "number": "7664-82",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000394",
+    "title":"Summer",
+    "title_jp":"サマー",
+    "originalArtist": "Paul Blanco(feat.BE'O(비오))",
+    "tj": "81810",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "24102",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "644089",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "2008-73",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000393",
+    "title":"죽는 게 나아",
+    "title_jp":"死ぬのがいいわ",
+    "originalArtist": "藤井風",
+    "tj": "68803",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "76521",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "193770",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "486948",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "6843-19",
+          "label": "본인 영상"
+        },
+        {
+          "type": "live_vocal",
+          "number": "1317-15",
+          "label": "생음, 본인 가창, Fujii Kaze LOVE ALL SERVE ALL STADIUM LIVE 2022"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000392",
+    "title":"걘 아니야 Pt.1",
+    "title_jp":null,
+    "originalArtist": "지코",
+    "tj": "24266",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "95696",
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000391",
+    "title":"Enemy",
+    "title_jp":"エネミー",
+    "originalArtist": "Imagine Dragons,J.I.D,League of Legends",
+    "tj": "23821",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "95001",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "613466",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "4131-21",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000390",
+    "title":"모니터링",
+    "title_jp":"モニタリング",
+    "originalArtist": "DECO*27(feat.初音ミク)",
+    "tj": "52468",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "57766",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "718195",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "632002",
+          "label": "일반 반주"
+        },
+        {
+          "type": "short_version",
+          "number": "634268",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7663-96",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000389",
+    "title":"Beyond the way",
+    "title_jp":null,
+    "originalArtist": "Giga(feat.初音ミク, 鏡音リン, 鏡音レン)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "718765",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "627824",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7662-08",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000388",
     "title":"비행정",
     "title_jp":"飛行艇",
