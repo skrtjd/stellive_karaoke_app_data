@@ -1,6 +1,6 @@
 [
   {
-    "song_ID":"S000334",
+    "song_ID":"S000332",
     "title":"괴도 F의 대본 ~사라진 다이아몬드의 수수께끼~",
     "title_jp":"怪盗Fの台本 ~消えたダイヤの謎~",
     "originalArtist": "ひとしずく×やま△(feat.初音ミク、鏡音リン、鏡音レン、巡音ルカ、KAITO、MEIKO、GUMI、神威がくぽ、IA、MAYU)",
@@ -27,7 +27,7 @@
     }
   },
   {
-    "song_ID":"S000333",
+    "song_ID":"S000331",
     "title":"아 프리오리",
     "title_jp":"ア・プリオリ",
     "originalArtist": "Mrs.GREEN APPLE",
@@ -59,7 +59,7 @@
     }
   },
   {
-    "song_ID":"S000332",
+    "song_ID":"S000330",
     "title":"불가행력",
     "title_jp":"不可幸力",
     "originalArtist": "Vaundy",
@@ -116,39 +116,7 @@
     }
   },
   {
-    "song_ID":"S000331",
-    "title":"소녀레이",
-    "title_jp":"少女レイ",
-    "originalArtist": "みきとP(feat.初音ミク)",
-    "tj": "68106",
-    "tj60": null,
-    "tj60mr": null,
-    "ky": null,
-    "japan":
-    {
-      "joysound": [
-        {
-          "type": "official_video",
-          "number": "715409",
-          "label": "본인 영상"
-        },
-        {
-          "type": "standard",
-          "number": "431203",
-          "label": "일반 반주"
-        }
-      ],
-      "dam": [
-        {
-          "type": "official_video",
-          "number": "7644-45",
-          "label": "본인 영상"
-        }
-      ]
-    }
-  },
-  {
-    "song_ID":"S000330",
+    "song_ID":"S000329",
     "title":"완전감각Dreamer",
     "title_jp":"完全感覚Dreamer",
     "originalArtist": "ONE OK ROCK",
@@ -205,7 +173,7 @@
     }
   },
   {
-    "song_ID":"S000329",
+    "song_ID":"S000328",
     "title":"POP/STARS",
     "title_jp":null,
     "originalArtist": "K/DA,(여자)아이들,Madison Beer,Jaira Burns",
@@ -227,12 +195,12 @@
           "type": "anime_video",
           "number": "3849-91",
           "label": "애니메이션 영상"
-        },
+        }
       ]
     }
   },
   {
-    "song_ID":"S000328",
+    "song_ID":"S000327",
     "title":"귀엽기만 하면 안 되나요?",
     "title_jp":"かわいいだけじゃだめですか？",
     "originalArtist": "キューティーストリート(CUTIE STREET)",
@@ -299,7 +267,7 @@
     }
   },
   {
-    "song_ID":"S000327",
+    "song_ID":"S000326",
     "title":"에고 록",
     "title_jp":"エゴロック",
     "originalArtist": "すりぃ(feat.鏡音レン)",
@@ -341,48 +309,6 @@
           "type": "standard",
           "number": "7649-53",
           "label": "일반 반주"
-        }
-      ]
-    }
-  },
-  {
-    "song_ID":"S000326",
-    "title":"댄스 로봇 댄스",
-    "title_jp":"ダンスロボットダンス",
-    "originalArtist": "ナユタン星人(feat.初音ミク)",
-    "tj": "68096",
-    "tj60": null,
-    "tj60mr": null,
-    "ky": null,
-    "japan":
-    {
-      "joysound": [
-        {
-          "type": "official_video",
-          "number": "715366",
-          "label": "본인 영상"
-        },
-        {
-          "type": "standard",
-          "number": "694643",
-          "label": "일반 반주"
-        },
-        {
-          "type": "vocal_assist",
-          "number": "972431",
-          "label": "보컬 어시스트"
-        },
-        {
-          "type": "autovocal_effect",
-          "number": "504515",
-          "label": "오토보컬 이펙트"
-        }
-      ],
-      "dam": [
-        {
-          "type": "official_video",
-          "number": "7638-99",
-          "label": "본인 영상"
         }
       ]
     }
@@ -4213,7 +4139,7 @@
           "type": "official_video",
           "number": "715366",
           "label": "본인 영상"
-        }
+        },
         {
           "type": "vocal_assist",
           "number": "972431",
@@ -6146,7 +6072,7 @@
         },
         {
           "type": "album_version",
-          "number": "1375-44",
+          "number": "3961-33",
           "label": "美しき生命 Album Nipponglish ver."
         }
       ]
@@ -8566,7 +8492,7 @@
           "type": "official_video",
           "number": "1238-24",
           "label": "프로오케(プロオケ)"
-        },
+        }
       ]
     }
   },
@@ -10620,7 +10546,7 @@
     }
   },
   {
-    "song_ID":"S000019",
+    "song_ID":"S000018",
     "title": "사랑해줘 사랑해줘 사랑해줘",
     "title_jp":"愛して愛して愛して",
     "originalArtist": "きくお",
@@ -10659,7 +10585,7 @@
     }
   },
   {
-    "song_ID":"S000018",
+    "song_ID":"S000017",
     "title": "지구본",
     "title_jp":"地球儀",
     "originalArtist": "米津玄師",
@@ -10703,7 +10629,7 @@
     }
   },
   {
-    "song_ID":"S000017",
+    "song_ID":"S000016",
     "title": "KICK BACK",
     "title_jp":null,
     "originalArtist": "米津玄師",
@@ -10762,7 +10688,7 @@
     }
   },
   {
-    "song_ID":"S000016",
+    "song_ID":"S000015",
     "title": "LADY",
     "title_jp":null,
     "originalArtist": "米津玄師",
@@ -10811,7 +10737,7 @@
     }
   },
   {
-    "song_ID":"S000015",
+    "song_ID":"S000014",
     "title": "잠이 드는 거리",
     "title_jp":"ねむるまち",
     "originalArtist": "くじら(feat. yama)",
@@ -10840,7 +10766,7 @@
     }
   },
   {
-    "song_ID":"S000014",
+    "song_ID":"S000013",
     "title": "아이돌",
     "title_jp":"アイドル",
     "originalArtist": "YOASOBI",
@@ -10894,7 +10820,7 @@
     }
   },
   {
-    "song_ID":"S000013",
+    "song_ID":"S000012",
     "title": "-ERROR",
     "title_jp":null,
     "originalArtist": "niki(feat. Lily)",
@@ -10928,7 +10854,7 @@
     }
   },
   {
-    "song_ID":"S000012",
+    "song_ID":"S000011",
     "title": "스즈메",
     "title_jp":"すずめ",
     "originalArtist": "RADWIMPS(Feat.十明)",
@@ -10972,7 +10898,7 @@
     }
   },
   {
-    "song_ID":"S000011",
+    "song_ID":"S000010",
     "title": "삼문소설",
     "title_jp":"三文小説",
     "originalArtist": "King Gnu",
@@ -11021,7 +10947,7 @@
     }
   },
   {
-    "song_ID":"S000010",
+    "song_ID":"S000009",
     "title": "Stellar Stellar",
     "title_jp":null,
     "originalArtist": "星街すいせい",
@@ -11065,7 +10991,7 @@
     }
   },
   {
-    "song_ID":"S000009",
+    "song_ID":"S000008",
     "title": "신시대",
     "title_jp":"新時代",
     "originalArtist": "『ユイカ』",
@@ -11119,7 +11045,7 @@
     }
   },
   {
-    "song_ID":"S000008",
+    "song_ID":"S000007",
     "title": "좋아하니까",
     "title_jp":"好きだから｡",
     "originalArtist": "『ユイカ』",
@@ -11153,7 +11079,7 @@
     }
   },
   {
-    "song_ID":"S000007",
+    "song_ID":"S000006",
     "title":"Cookie",
     "title_jp":null,
     "originalArtist":"NewJeans",
@@ -11168,7 +11094,7 @@
       {
         "type": "standard",
         "number": "611511",
-        "label": "일반 반주",
+        "label": "일반 반주"
       },
       {
         "type":"music_video",
@@ -11192,7 +11118,7 @@
     }
   },
   {
-    "song_ID":"S000006",
+    "song_ID":"S000005",
     "title":"나는 최강",
     "title_jp":"私は最強",
     "originalArtist":"Ado",
@@ -11231,7 +11157,7 @@
     }
   },
   {
-    "song_ID":"S000005",
+    "song_ID":"S000004",
     "title": "最終花",
     "title_jp": "最終花",
     "originalArtist": "藍璃かんな",
@@ -11245,7 +11171,7 @@
     }
   },
   {
-    "song_ID":"S000004",
+    "song_ID":"S000003",
     "title": "푸른 보석과 어린 용",
     "title_jp": null,
     "originalArtist": "아이리 칸나",
@@ -11259,7 +11185,7 @@
     }
   },
   {
-    "song_ID":"S000003",
+    "song_ID":"S000002",
     "title": "최종화(Acoustic Ver.)",
     "title_jp": null,
     "originalArtist": "아이리 칸나",
@@ -11273,7 +11199,7 @@
     }
   },
   {
-    "song_ID":"S000002",
+    "song_ID":"S000001",
     "title": "최종화(The Last Flower)",
     "title_jp": null,
     "originalArtist": "아이리 칸나",
@@ -11287,7 +11213,7 @@
     }
   },
   {
-    "song_ID":"S000001",
+    "song_ID":"S000000",
     "title": "ADDICT!ON",
     "title_jp": null,
     "originalArtist": "아이리 칸나",
