@@ -1,5 +1,226 @@
 [
   {
+    "song_ID":"S000442",
+    "title":"아이와 나의 바다(My sea)",
+    "title_jp":null,
+    "originalArtist": "IU[アイユ]",
+    "tj": "76600",
+    "tj60": null,
+    "tj60mr": "62911",
+    "ky": "28409",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "642391",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000441",
+    "title":"네가 아니면 안될 것 같아",
+    "title_jp":"君じゃなきゃダメみたい",
+    "originalArtist": "オーイシマサヨシ",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "instrumental",
+          "number": "330033",
+          "label": "생연주"
+        },
+        {
+          "type": "standard",
+          "number": "314623",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "343173",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "968662",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "914936",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "music_video",
+          "number": "516588",
+          "label": "뮤직비디오 Live at 日本武道館, 2024.3.2"
+        }
+      ],
+      "dam": [
+        {
+          "type": "anime_video",
+          "number": "3131-30",
+          "label": "애니메이션 영상"
+        },
+        {
+          "type": "live_vocal",
+          "number": "3131-06",
+          "label": "생음, Animelo Summer Live 2015 -THE GATE-Ver."
+        },
+        {
+          "type": "standard",
+          "number": "3131-67",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000440",
+    "title":"히로인 육성계획",
+    "title_jp":"ヒロイン育成計画",
+    "originalArtist": "HoneyWorks(feat.涼海ひより, 服部樹里, 中村千鶴)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "616794",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "4827-07",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000439",
+    "title":"우리! 쓰레기 분류단",
+    "title_jp":"我ら!ゴミ分別団",
+    "originalArtist": "かてらざわ(feat.重音テト, かてらざわ)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "718939",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "644874",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "1404-83",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000438",
+    "title":"SEKAI",
+    "title_jp":"セカイ",
+    "originalArtist": "DECO*27×堀江晶太(kemu)(feat.初音ミク)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "486012",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7651-61",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000437",
+    "title":"사랑은 마치",
+    "title_jp":null,
+    "originalArtist": "뮤지컬 '레드북' No.9",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000436",
+    "title":"서머타임 레코드",
+    "title_jp":"サマータイムレコード",
+    "originalArtist": "じん(feat.IA)",
+    "tj": null,
+    "tj60": "28208",
+    "tj60mr": null,
+    "ky": "43715",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "726510",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "968816",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "914596",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7624-67",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000435",
     "title":"포니(Phony)",
     "title_jp":"フォニイ",
