@@ -2168,10 +2168,10 @@
     "title":"비와 카푸치노",
     "title_jp":"雨とカプチーノ",
     "originalArtist": "ヨルシカ",
-    "tj": "52580",
+    "tj": "68212",
     "tj60": null,
     "tj60mr": null,
-    "ky": "75948",
+    "ky": "44548",
     "japan":
     {
       "joysound": [
@@ -2255,19 +2255,24 @@
       ],
       "dam": [
         {
-          "type": "anime_video",
-          "number": "4461-09",
-          "label": "애니메이션 영상"
-        },
-        {
-          "type": "standard",
-          "number": "4454-18",
-          "label": "일반 반주"
+          "type": "official_video",
+          "number": "4353-06",
+          "label": "생음, 본인 영상"
         },
         {
           "type": "official_video",
-          "number": "1089-64",
-          "label": "생음, LIVE 노래방, Animelo Summer Live 2024 -Stargazer-"
+          "number": "4353-55",
+          "label": "본인 영상"
+        },
+        {
+          "type": "official_video",
+          "number": "4353-05",
+          "label": "프로오케(プロオケ), 본인 영상"
+        },
+        {
+          "type": "live_vocal",
+          "number": "4353-70",
+          "label": "생음, 본인 가창, 10-FEET 25th ANNIVERSARY ONE-MAN TOUR 2022 FINAL in 太陽が丘"
         }
       ]
     }
