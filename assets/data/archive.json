@@ -1,5 +1,583 @@
 [
   {
+    "song_ID":"S000346",
+    "title":"난무의 멜로디",
+    "title_jp":"乱舞のメロディ",
+    "originalArtist": "シド",
+    "tj": null,
+    "tj60": "28311",
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "instrumental",
+          "number": "320704",
+          "label": "생연주"
+        },
+        {
+          "type": "standard",
+          "number": "93644",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "340004",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "909518",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "music_video",
+          "number": "853369",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+          "type": "live_vocal",
+          "number": "6829-26",
+          "label": "생음, 본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "6829-37",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "6829-24",
+          "label": "프로오케(プロオケ)"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000345",
+    "title":"잔혹한 천사의 테제",
+    "title_jp":"残酷な天使のテーゼ",
+    "originalArtist": "高橋洋子",
+    "tj": "25246",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "41645",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "anime_video",
+          "number": "193496",
+          "label": "애니메이션 노래방"
+        },
+        {
+          "type": "instrumental",
+          "number": "328019",
+          "label": "생연주"
+        },
+        {
+          "type": "standard",
+          "number": "9630",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "189035",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "968626",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "harmony_Deluxe",
+          "number": "953602",
+          "label": "하모니☆디럭스(ハモリ☆デラックス)"
+        },
+        {
+          "type": "show_clip",
+          "number": "190334",
+          "label": "SHOW 극 클립(SHOW劇クリップ)"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "902592",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "494371",
+          "label": "사비카라(サビカラ)"
+        },
+        {
+          "type": "music_video",
+          "number": "851772",
+          "label": "뮤직비디오(HDVer.)"
+        },
+        {
+          "type": "standard",
+          "number": "90677",
+          "label": "일반 반주(2009VERSION)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "anime_video",
+          "number": "1896-04",
+          "label": "애니메이션 영상"
+        },
+        {
+          "type": "standard",
+          "number": "1896-34",
+          "label": "일반 반주(2009VERSION)"
+        },
+        {
+          "type": "live_vocal",
+          "number": "1896-11",
+          "label": "생음(Full Version)"
+        },
+        {
+          "type": "instrumental",
+          "number": "1896-26",
+          "label": "명연 피아노 미노 하루키"
+        },
+        {
+          "type": "standard",
+          "number": "1896-50",
+          "label": "Director's Edit. Version"
+        },
+        {
+          "type": "standard",
+          "number": "1896-49",
+          "label": "TV.Size Version"
+        },
+        {
+          "type": "standard",
+          "number": "1896-47",
+          "label": "踊ってみた!Ver."
+        },
+        {
+          "type": "standard",
+          "number": "1896-28",
+          "label": "10th Anniversary Version"
+        },
+        {
+          "type": "standard",
+          "number": "1896-59",
+          "label": "MATSURI SPIRIT"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000344",
+    "title":"정말 멋진 6월이었습니다",
+    "title_jp":"とても素敵な六月でした",
+    "originalArtist": "Eight(feat.初音ミク)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "715186",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "423836",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7643-63",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000343",
+    "title":"아야노의 행복이론",
+    "title_jp":"阿吽のビーツ",
+    "originalArtist": "じん(feat.IA)",
+    "tj": null,
+    "tj60": "28169",
+    "tj60mr": null,
+    "ky": "43820",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "726433",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "969341",
+          "label": "보컬 어시스트"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7624-59",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000342",
+    "title":"아훔의 비트",
+    "title_jp":"阿吽のビーツ",
+    "originalArtist": "羽生まゐご(feat.v flower)",
+    "tj": "28717",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44167",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "715779",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "424364",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7640-68",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000341",
+    "title":"태양계 디스코",
+    "title_jp":"太陽系デスコ",
+    "originalArtist": "羽生まゐご(feat.初音ミク)",
+    "tj": "28717",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44167",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "714561",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "693910",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "975470",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "7639-28",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000340",
+    "title":"그것이 당신의 행복이라 할지라도",
+    "title_jp":"それがあなたの幸せとしても",
+    "originalArtist": "羽生まゐご(feat.初音ミク)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "719005",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "738509",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7624-98",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000339",
+    "title":"오니가 없는 사이에",
+    "title_jp":"鬼の居ぬ間に",
+    "originalArtist": "羽生まゐご(feat.初音ミク)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "443646",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7647-93",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000338",
+    "title":"메류",
+    "title_jp":"メリュー",
+    "originalArtist": "n-buna(feat.初音ミク)",
+    "tj": null,
+    "tj60": "28781",
+    "tj60mr": null,
+    "ky": "44214",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "714660",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "679128",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "969495",
+          "label": "보컬 어시스트"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7634-81",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000337",
+    "title":"아침을 마시다",
+    "title_jp":"朝を呑む",
+    "originalArtist": "バルーン(feat.初音ミク)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "686332",
+          "label": "일반 반주"
+        },
+        {
+          "type": "music_video",
+          "number": "883425",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "7637-86",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000336",
+    "title":"로키",
+    "title_jp":"ロキ",
+    "originalArtist": "みきとP(feat.鏡音リン)",
+    "tj": "28961",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "57724",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "715162",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "428684",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "7642-60",
+          "label": "본인 영상"
+        },
+        {
+          "type": "anime_video",
+          "number": "7649-20",
+          "label": "애니메이션 영상(Game Version)"
+        },
+        {
+          "type": "live_vocal",
+          "number": "7081-66",
+          "label": "생음, 본인 가창, 初音ミク JAPAN LIVE TOUR 2025 ～BLOOMING～"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000335",
+    "title":"마음 탓 / 마음짓기",
+    "title_jp":"心做し",
+    "originalArtist": "蝶々P(feat.GUMI)",
+    "tj": "27906",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44050",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "713490",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "738911",
+          "label": "일반 반주"
+        },
+        {
+          "type": "autovocal_effect",
+          "number": "504460",
+          "label": "오토보컬 이펙트"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7628-55",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000334",
+    "title":"뇌내혁명 걸",
+    "title_jp":"脳内革命ガール",
+    "originalArtist": "MARETU(feat.初音ミク)",
+    "tj": null,
+    "tj60": "28783",
+    "tj60mr": null,
+    "ky": "44219",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "713839",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "738943",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7627-60",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000333",
+    "title":"가지마",
+    "title_jp":"いかないで",
+    "originalArtist": "想太(Feat.歌愛ユキ)",
+    "tj": null,
+    "tj60": "27959",
+    "tj60mr": null,
+    "ky": "44074",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "714712",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "313881",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7626-95",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000332",
     "title":"괴도 F의 대본 ~사라진 다이아몬드의 수수께끼~",
     "title_jp":"怪盗Fの台本 ~消えたダイヤの謎~",
