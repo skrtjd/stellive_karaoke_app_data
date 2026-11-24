@@ -1,5 +1,693 @@
 [
   {
+    "song_ID":"S000361",
+    "title":"에일리언 에일리언",
+    "title_jp":"エイリアンエイリアン",
+    "originalArtist": "ナユタン星人(feat.初音ミク)",
+    "tj": "27961",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44079",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "714349",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "687091",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "970986",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "autovocal_effect",
+          "number": "504507",
+          "label": "오토보컬 이펙트"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "7637-68",
+          "label": "본인 영상"
+        },
+        {
+          "type": "official_video",
+          "number": "7640-52",
+          "label": "생음, 본인 영상, マジカルミライ2017"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000360",
+    "title":"BANG!!!",
+    "title_jp":null,
+    "originalArtist": "EGOIST",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "494118",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "1041-79",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000359",
+    "title":"미치시루베",
+    "title_jp":"みちしるべ",
+    "originalArtist": "茅原実里",
+    "tj": "68240",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44720",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "424659",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "977590",
+          "label": "보컬 어시스트"
+        }
+      ],
+      "dam": [
+        {
+          "type": "anime_video",
+          "number": "3422-86",
+          "label": "애니메이션 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000358",
+    "title":"사스가",
+    "title_jp":null,
+    "originalArtist": "잔나비",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000357",
+    "title":"달링",
+    "title_jp":"ダーリン",
+    "originalArtist": "Mrs.GREEN APPLE",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "718285",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "633793",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "330611",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "980789",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "1447-17",
+          "label": "본인 영상"
+        },
+        {
+          "type": "instrumental",
+          "number": "1136-88",
+          "label": "명연 피아노 미노 하루키"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000356",
+    "title":"I'm Not The Only One",
+    "title_jp":"アイム・ノット・ジ・オンリー・ワン",
+    "originalArtist": "Sam Smith",
+    "tj": "22692",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "79384",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "676515",
+          "label": "일반 반주"
+        },
+        {
+          "type": "music_video",
+          "number": "870610",
+          "label": "뮤직비디오"
+        },
+        {
+          "type": "music_video",
+          "number": "886344",
+          "label": "VEVO LIFT Live: Brought To You By McDonald's"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "3931-42",
+          "label": "일반 반주"
+        },
+        {
+          "type": "standard",
+          "number": "3986-51",
+          "label": "Nipponglish ver."
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000355",
+    "title":"샤를",
+    "title_jp":"シャルル",
+    "originalArtist": "バルーン(feat.Flower)",
+    "tj": null,
+    "tj60": "28700",
+    "tj60mr": null,
+    "ky": "44142",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "714532",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "692077",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "972385",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "autovocal_effect",
+          "number": "504509",
+          "label": "오토보컬 이펙트"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "975449",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "611063",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "7638-86",
+          "label": "본인 영상"
+        },
+        {
+          "type": "instrumental",
+          "number": "7653-69",
+          "label": "명연 피아노 미노 하루키"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000354",
+    "title":"사요나라 엘레지",
+    "title_jp":"さよならエレジー",
+    "originalArtist": "菅田将暉",
+    "tj": "28834",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44256",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "714986",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "425483",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "347410",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "975637",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "496338",
+          "label": "사비카라(サビカラ)"
+        },
+        {
+          "type": "music_video",
+          "number": "863406",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "6056-69",
+          "label": "생음, 본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "6052-97",
+          "label": "일반 반주"
+        },
+        {
+          "type": "instrumental",
+          "number": "1132-25",
+          "label": "명연 피아노 미노 하루키"
+        },
+        {
+          "type": "official_video",
+          "number": "6056-79",
+          "label": "프로오케(プロオケ)"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000353",
+    "title":"와스레모노",
+    "title_jp":"忘れ物",
+    "originalArtist": "Vaundy",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "613387",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "1375-18",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000352",
+    "title":"마트료시카",
+    "title_jp":"マトリョシカ",
+    "originalArtist": "ハチ(feat.初音ミク,GUMI)",
+    "tj": "28269",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "43443",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "718095",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "145551",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "963551",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "912491",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "7610-38",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000351",
+    "title":"비와 카푸치노",
+    "title_jp":"雨とカプチーノ",
+    "originalArtist": "ヨルシカ",
+    "tj": "52580",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "75948",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "715866",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "441971",
+          "label": "일반 반주"
+        },
+        {
+          "type": "music_video",
+          "number": "856523",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5202-88",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000350",
+    "title":"제제로감",
+    "title_jp":"第ゼロ感",
+    "originalArtist": "10-FEET",
+    "tj": "68732",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44880",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "193766",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "612813",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "349092",
+          "label": "가이드 보컬(ガイドボーカル入り)"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976804",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "614788",
+          "label": "사비카라(サビカラ)"
+        },
+        {
+          "type": "live_karaoke",
+          "number": "717689",
+          "label": "LIVE 노래방, 京都大作戦2023 LIVE Ver."
+        },
+        {
+          "type": "music_video",
+          "number": "886168",
+          "label": "뮤직비디오"
+        },
+        {
+          "type": "live_video",
+          "number": "886169",
+          "label": "Live at 京都府立山城総合運動公園 太陽が丘特設野外ステージ"
+        }
+      ],
+      "dam": [
+        {
+          "type": "anime_video",
+          "number": "4461-09",
+          "label": "애니메이션 영상"
+        },
+        {
+          "type": "standard",
+          "number": "4454-18",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "1089-64",
+          "label": "생음, LIVE 노래방, Animelo Summer Live 2024 -Stargazer-"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000349",
+    "title":"God Knows...",
+    "title_jp":null,
+    "originalArtist": "涼宮ハルヒ(平野綾)",
+    "tj": "26235",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "40798",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "anime_video",
+          "number": "180161",
+          "label": "애니메이션 노래방"
+        },
+        {
+          "type": "standard",
+          "number": "124975",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "189395",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "910103",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "494374",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "anime_video",
+          "number": "4461-09",
+          "label": "애니메이션 영상"
+        },
+        {
+          "type": "standard",
+          "number": "4454-18",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "1089-64",
+          "label": "생음, LIVE 노래방, Animelo Summer Live 2024 -Stargazer-"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000348",
+    "title":"잔향산가",
+    "title_jp":"残響散歌",
+    "originalArtist": "Aimer",
+    "tj": "68552",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44749",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "716846",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "495346",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "348746",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976580",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "anime_video",
+          "number": "716893",
+          "label": "애니메이션 영상(TV 사이즈)"
+        },
+        {
+          "type": "short_version",
+          "number": "496342",
+          "label": "사비카라(サビカラ)"
+        },
+        {
+          "type": "music_video",
+          "number": "881137",
+          "label": "뮤직비디오"
+        },
+        {
+          "type": "explosive_harmony",
+          "number": "649407",
+          "label": "폭발 하모니"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "3917-35",
+          "label": "본인 영상"
+        },
+        {
+          "type": "anime_video",
+          "number": "3917-40",
+          "label": "애니메이션 영상(TV 사이즈)"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000347",
+    "title":"상냥함의 이유",
+    "title_jp":"優しさの理由",
+    "originalArtist": "ChouCho",
+    "tj": null,
+    "tj60": "27542",
+    "tj60mr": null,
+    "ky": "43501",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "761764",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "196477",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "963808",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "913277",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+          "type": "live_vocal",
+          "number": "3758-21",
+          "label": "생음, Animelo Summer Live 2015 -THE GATE-Ver."
+        },
+        {
+          "type": "standard",
+          "number": "3205-95",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "6829-24",
+          "label": "프로오케(プロオケ)"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000346",
     "title":"난무의 멜로디",
     "title_jp":"乱舞のメロディ",
