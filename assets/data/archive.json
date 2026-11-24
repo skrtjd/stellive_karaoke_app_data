@@ -1,5 +1,507 @@
 [
   {
+    "song_ID":"S000495",
+    "title": "성간비행",
+    "title_jp": "星間飛行",
+    "originalArtist": "ランカ・リー＝中島愛",
+    "tj": "26805",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "42836",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "anime_video",
+          "number": "180361",
+          "label": "애니메이션 노래방"
+        },
+        {
+          "type": "standard",
+          "number": "90209",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "964027",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "official_video",
+          "number": "195173",
+          "label": "우타리(うたいり)"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "908819",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "3254-05",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000494",
+    "title": "Q&A 리사이틀!",
+    "title_jp": "Q&A リサイタル!",
+    "originalArtist": "戸松遥",
+    "tj": null,
+    "tj60": "28107",
+    "tj60mr": null,
+    "ky": "43565",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "730948",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "964316",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "913718",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "3604-34",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000493",
+    "title": "More! Jump! More!",
+    "title_jp": "モア！ジャンプ！モア！",
+    "originalArtist": "ナユタン星人(feat.初音ミク)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "627884",
+          "label": "일반 반주"
+        },
+        {
+          "type": "anime_video",
+          "number": "820185",
+          "label": "애니메이션 노래방(MORE MORE JUMP! VERSION)"
+        },
+        {
+          "type": "standard",
+          "number": "620557",
+          "label": "일반 반주(MORE MORE JUMP! VERSION)"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976970",
+          "label": "기타 내비게이션(MORE MORE JUMP! VERSION)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7658-84",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000492",
+    "title": "사랑을 전하고 싶다든가",
+    "title_jp": "愛を伝えたいだとか",
+    "originalArtist": "あいみょん",
+    "tj": "28907",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44310",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "715073",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "694520",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "347125",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976028",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "623518",
+          "label": "사비카라(サビカラ)"
+        },
+        {
+          "type": "music_video",
+          "number": "508476",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5043-64",
+          "label": "본인 영상"
+        },
+        {
+          "type": "live_vocal",
+          "number": "1359-10",
+          "label": "생음, 본인 가창, ～AIMYON TOUR 2019 -SIXTH SENSE STORY- IN YOKOHAMA ARENA～"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000491",
+    "title": "광란 Hey Kids!!",
+    "title_jp": "狂乱 Hey Kids!!",
+    "originalArtist": "THE ORAL CIGARETTES",
+    "tj": "27893",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44023",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "music_video",
+          "number": "523150",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "1023-19",
+          "label": "생음, 본인 영상"
+        },
+        {
+          "type": "official_video",
+          "number": "1023-11",
+          "label": "본인 영상"
+        },
+        {
+          "type": "official_video",
+          "number": "1023-16",
+          "label": "프로오케(プロオケ)"
+        },
+        {
+          "type": "live_vocal",
+          "number": "1023-70",
+          "label": "생음, 본인 가창, UNOFFICIAL DINING TOUR 2017 at 日本武道館"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000490",
+    "title": "감전",
+    "title_jp": "感電",
+    "originalArtist": "米津玄師",
+    "tj": "68300",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44591",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "716339",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "448523",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "348305",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976218",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "631894",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "3246-74",
+          "label": "비디오 클립 버전"
+        },
+        {
+          "type": "standard",
+          "number": "3246-64",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000489",
+    "title": "슈가 송과 비터 스텝",
+    "title_jp": "シュガーソングとビターステップ",
+    "originalArtist": "UNISON SQUARE GARDEN",
+    "tj": "27737",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "43920",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "713860",
+          "label": "본인 영상"
+        },
+        {
+          "type": "instrumental",
+          "number": "330139",
+          "label": "생연주"
+        },
+        {
+          "type": "standard",
+          "number": "673982",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "343740",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "974686",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "494376",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5902-56",
+          "label": "생음, 본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "5902-52",
+          "label": "일반 반주"
+        },
+        {
+          "type": "official_video",
+          "number": "5902-53",
+          "label": "프로오케(プロオケ)"
+        },
+        {
+          "type": "live_vocal",
+          "number": "5916-85",
+          "label": "생음, 본인 가창, TOUR 2022 『kaleido proud fiesta』 at Fuchu no Mori Arts Theater"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000488",
+    "title": "Pretender",
+    "title_jp": null,
+    "originalArtist": "Official髭男dism",
+    "tj": "68058",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44438",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "715703",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "438945",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "979494",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "975923",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "497444",
+          "label": "사비카라(サビカラ)"
+        },
+        {
+          "type": "music_video",
+          "number": "864178",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "6195-98",
+          "label": "본인 영상"
+        },
+        {
+          "type": "instrumental",
+          "number": "1309-09",
+          "label": "명연 피아노 미노 하루키"
+        },
+        {
+          "type": "live_vocal",
+          "number": "1309-19",
+          "label": "생음, 본인 가창, ～Official髭男dism one-man tour 2019@日本武道館～"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000487",
+    "title": "M@STERPIECE",
+    "title_jp": null,
+    "originalArtist": "765PRO ALLSTARS",
+    "tj": null,
+    "tj60": "28534",
+    "tj60mr": null,
+    "ky": "43965",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "735581",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "3691-15",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000486",
+    "title": "Rewrite the Stars",
+    "title_jp": "リライト・ザ・スターズ",
+    "originalArtist": "Zac Efron, Zendaya",
+    "tj": "23165",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "89190",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "427422",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "3987-21",
+          "label": "일반 반주"
+        },
+        {
+          "type": "standard",
+          "number": "3993-22",
+          "label": "Nipponglish ver."
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000485",
+    "title": "사랑파이 댄스홀",
+    "title_jp": "愛包ダンスホール",
+    "originalArtist": "ヒメヒナ(HIMEHINA)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "717814",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "623263",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "1331-59",
+          "label": "본인 영상"
+        },
+        {
+          "type": "live_vocal",
+          "number": "1215-79",
+          "label": "생음, 본인 가창, HIMEHINA LIVE 2024『涙の薫りがする』"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000484",
     "title": "루카루카★나이트 피버",
     "title_jp": "ルカルカ★ナイトフィーバー",
@@ -11632,7 +12134,7 @@
         {
           "type": "official_video",
           "number": "191155",
-          "label": "우타리"
+          "label": "우타리(うたいり)"
         },
         {
           "type": "guitar_navi",
