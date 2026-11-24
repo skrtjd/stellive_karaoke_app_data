@@ -538,10 +538,10 @@
     "title": "백금 디스코",
     "title_jp": "白金ディスコ",
     "originalArtist": "阿良々木月火(井口裕香)",
-    "tj": "52832",
+    "tj": "27589",
     "tj60": null,
     "tj60mr": null,
-    "ky": "57813",
+    "ky": "43605",
     "japan":
     {
       "joysound": [
@@ -836,7 +836,7 @@
     "title": "Tell Your World",
     "title_jp": null,
     "originalArtist": "livetune(feat.初音ミク)",
-    "tj": "86334",
+    "tj": "27758",
     "tj60": null,
     "tj60mr": null,
     "ky": "43477",
@@ -1970,68 +1970,6 @@
           "type": "official_video",
           "number": "5206-48",
           "label": "프로오케(プロオケ)"
-        }
-      ]
-    }
-  },
-  {
-    "song_ID":"S000431",
-    "title":"숙명",
-    "title_jp":"宿命",
-    "originalArtist": "Official髭男dism",
-    "tj": "68086",
-    "tj60": null,
-    "tj60mr": null,
-    "ky": "44442",
-    "japan":
-    {
-      "joysound": [
-        {
-          "type": "official_video",
-          "number": "715814",
-          "label": "본인 영상"
-        },
-        {
-          "type": "standard",
-          "number": "440582",
-          "label": "일반 반주"
-        },
-        {
-          "type": "vocal_assist",
-          "number": "979678",
-          "label": "보컬 어시스트"
-        },
-        {
-          "type": "guitar_navi",
-          "number": "975981",
-          "label": "기타 내비게이션"
-        },
-        {
-          "type": "short_version",
-          "number": "497986",
-          "label": "사비카라(サビカラ)"
-        }
-      ],
-      "dam": [
-        {
-          "type": "official_video",
-          "number": "6212-86",
-          "label": "본인 영상"
-        },
-        {
-          "type": "instrumental",
-          "number": "1309-24",
-          "label": "명연 피아노 미노 하루키"
-        },
-        {
-          "type": "live_vocal",
-          "number": "1026-69",
-          "label": "생음, 본인 가창, ～Official髭男dism SHOCKING NUTS TOUR～"
-        },
-        {
-          "type": "live_vocal",
-          "number": "6223-45",
-          "label": "생음, 본인 가창, ～Official髭男dism one-man tour 2019～"
         }
       ]
     }
