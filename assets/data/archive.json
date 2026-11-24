@@ -1,5 +1,151 @@
 [
   {
+    "song_ID":"S000428",
+    "title":"POP IN 2",
+    "title_jp":"ポッピンツー",
+    "originalArtist": "B小町",
+    "tj": "52747",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "76544",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "anime_video",
+          "number": "718250",
+          "label": "애니메이션 노래방"
+        },
+        {
+          "type": "standard",
+          "number": "630725",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "349910",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "980775",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "632627",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "anime_video",
+          "number": "3407-35",
+          "label": "애니메이션 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000427",
+    "title":"체리 팝",
+    "title_jp":"チェリーポップ",
+    "originalArtist": "DECO*27(feat.初音ミク, しぐれうい)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "718587",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "638892",
+          "label": "일반 반주"
+        },
+        {
+          "type": "short_version",
+          "number": "641459",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "1154-53",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000426",
+    "title":"걘 아니야 Pt.2",
+    "title_jp":null,
+    "originalArtist": "페노메코",
+    "tj": "82855",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "50299",
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000425",
+    "title":"도쿄 섄디 랑데부",
+    "title_jp":"トウキョウ・シャンディ・ランデヴ",
+    "originalArtist": "MAISONdes(feat.花譜,ツミキ)",
+    "tj": "68738",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "anime_video",
+          "number": "717943",
+          "label": "애니메이션 노래방"
+        },
+        {
+          "type": "standard",
+          "number": "612145",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "349105",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976796",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "short_version",
+          "number": "617912",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "anime_video",
+          "number": "5432-44",
+          "label": "애니메이션 영상"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000424",
     "title":"Henceforth",
     "title_jp":"ヘンスフォース",
