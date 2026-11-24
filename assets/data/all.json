@@ -9993,6 +9993,23 @@
     }
   },
   {
+    "title": "자그만 기적(A Tiny Miracle)",
+    "originalArtist": "아이야츠노 유니",
+    "collaboWith": "호랑이 들어와요 2",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "_source": {
+      "member": "yuni",
+      "category": "collabo",
+      "file": "assets/data/yuni/collabo.json",
+      "location": [
+        0
+      ]
+    }
+  },
+  {
     "title": "私、アイドル宣言(나, 아이돌 선언)",
     "originalArtist": "CHiCO with HoneyWorks",
     "tj": null,
