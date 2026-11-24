@@ -1,5 +1,183 @@
 [
   {
+    "song_ID":"S000456",
+    "title": "HELP!!",
+    "title_jp": null,
+    "originalArtist": "Kobo Kanaeru",
+    "tj": "52526",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "717987",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "626099",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "4000-63",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000455",
+    "title": "제육감",
+    "title_jp": "第六感",
+    "originalArtist": "Reol",
+    "tj": "68302",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44987",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "716401",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "486031",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "348335",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "short_version",
+          "number": "494383",
+          "label": "사비카라(サビカラ)"
+        },
+        {
+          "type": "music_video",
+          "number": "865223",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5239-84",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000454",
+    "title": "Letters to me(이환 OST)",
+    "title_jp": null,
+    "originalArtist": "아카네 린",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [],
+      "dam": []
+    }
+  },
+  {
+    "song_ID":"S000453",
+    "title": "Booo!",
+    "title_jp": null,
+    "originalArtist": "TOKOTOKO(feat.音街ウナ)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "716915",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "434483",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "979163",
+          "label": "보컬 어시스트"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "7646-18",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000452",
+    "title": "푸른 하늘의 랩소디",
+    "title_jp": "青空のラプソディ",
+    "originalArtist": "fhana",
+    "tj": "28658",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44130",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "692694",
+          "label": "일반 반주"
+        },
+        {
+          "type": "anime_video",
+          "number": "696804",
+          "label": "애니메이션 영상 TV Size"
+        },
+        {
+          "type": "live_video",
+          "number": "812883",
+          "label": "란티스 축제 2019 ver. LIVE 영상"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "1053-30",
+          "label": "본인 영상"
+        },
+        {
+          "type": "anime_video",
+          "number": "1053-54",
+          "label": "애니메이션 버전"
+        },
+        {
+          "type": "official_video",
+          "number": "4401-74",
+          "label": "생음, Animelo Summer Live 2017 -THE CARD-Ver."
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000451",
     "title":"숲",
     "title_jp":null,
