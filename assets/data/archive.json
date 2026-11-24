@@ -1,5 +1,246 @@
 [
   {
+    "song_ID":"S000408",
+    "title":"너에게 100퍼센트",
+    "title_jp":"キミに100パーセント",
+    "originalArtist": "きゃりーぱみゅぱみゅ",
+    "tj": "28254",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "43727",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "32854",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "341664",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "969202",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "autovocal_effect",
+          "number": "504125",
+          "label": "오토보컬 이펙트"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "913599",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "anime_version",
+          "number": "723473",
+          "label": "애니메이션 버전"
+        },
+        {
+          "type": "short_version",
+          "number": "649195",
+          "label": "사비카라(サビカラ)"
+        },
+        {
+          "type": "music_video",
+          "number": "521679",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "6539-38",
+          "label": "본인 영상"
+        },
+        {
+          "type": "live_vocal",
+          "number": "1383-22",
+          "label": "생음, 본인 가창, SWEET LOVE SHOWER 2025"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000407",
+    "title":"오츠카레summer",
+    "title_jp":"おつかれsummer",
+    "originalArtist": "HALCALI",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "718825",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "71577",
+          "label": "일반 반주"
+        },{
+          "type": "short_version",
+          "number": "663052",
+          "label": "사비카라(サビカラ)"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "4421-06",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000406",
+    "title":"LAST STARDUST",
+    "title_jp":"ラストスターダスト",
+    "originalArtist": "Aimer",
+    "tj": "27783",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "43979",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "677353",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "969314",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "974832",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "3914-11",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000405",
+    "title":"논브레스 오블리주",
+    "title_jp":"ノンブレス・オブリージュ",
+    "originalArtist": "ピノキオピー(feat.初音ミク)",
+    "tj": "90229",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "716990",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "494247",
+          "label": "일반 반주"
+        },
+        {
+          "type": "music_video",
+          "number": "883558",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "7652-56",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000404",
+    "title":"Loveit?",
+    "title_jp":"ラビット?",
+    "originalArtist": "biz×ZERA(feat.LOLUET)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "616809",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "5489-30",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000403",
+    "title":"Drivers license",
+    "title_jp":"ドライバーズ・ライセンス",
+    "originalArtist": "Olivia Rodrigo",
+    "tj": "23662",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "491239",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "976635",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "3870-21",
+          "label": "일반 반주"
+        },
+        {
+          "type": "standard",
+          "number": "4073-98",
+          "label": "Nipponglish ver."
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000402",
     "title":"One Last Kiss",
     "title_jp":null,
