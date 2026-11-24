@@ -1,5 +1,153 @@
 [
   {
+    "song_ID":"S000484",
+    "title": "루카루카★나이트 피버",
+    "title_jp": "ルカルカ★ナイトフィーバー",
+    "originalArtist": "samfree(feat.巡音ルカ)",
+    "tj": "27031",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "43185",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "138844",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7600-90",
+          "label": "일반 반주"
+        },
+        {
+          "type": "live_vocal",
+          "number": "7601-07",
+          "label": "생음, 본인 가창, 39's LIVE IN SAPPORO"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000483",
+    "title": "백금 디스코",
+    "title_jp": "白金ディスコ",
+    "originalArtist": "阿良々木月火(井口裕香)",
+    "tj": "52832",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "57813",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "731111",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "964970",
+          "label": "보컬 어시스트"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "3481-27",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000482",
+    "title": "아이♡스크~림!",
+    "title_jp": "愛♡スクリ～ム！",
+    "originalArtist": "AiScReam",
+    "tj": "52832",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "57813",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "official_video",
+          "number": "718515",
+          "label": "본인 영상"
+        },
+        {
+          "type": "standard",
+          "number": "633558",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "330686",
+          "label": "가이드 보컬"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "3418-46",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000481",
+    "title": "어서와 자파리 파크에",
+    "title_jp": "ようこそジャパリパークへ",
+    "originalArtist": "どうぶつビスケッツxPPP",
+    "tj": "28677",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "anime_video",
+          "number": "715295",
+          "label": "애니메이션 노래방"
+        },
+        {
+          "type": "standard",
+          "number": "692747",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guide_vocal",
+          "number": "347021",
+          "label": "가이드 보컬"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "975407",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+          "type": "anime_video",
+          "number": "3776-80",
+          "label": "애니메이션 영상"
+        },
+        {
+          "type": "live_vocal",
+          "number": "4455-86",
+          "label": "생음, 본인 가창, けものフレンズ LIVE ～PPP LIVE～@品川インターシティホール"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000480",
     "title": "비바해피",
     "title_jp": "ビバハピ",
