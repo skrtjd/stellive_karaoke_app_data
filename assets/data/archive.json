@@ -2543,7 +2543,7 @@
           "label": "보컬 어시스트"
         },
         {
-          "type": "harmony_Deluxe",
+          "type": "harmony_deluxe",
           "number": "953602",
           "label": "하모니☆디럭스(ハモリ☆デラックス)"
         },
@@ -2585,7 +2585,7 @@
           "label": "일반 반주(2009VERSION)"
         },
         {
-          "type": "live_vocal",
+          "type": "live_sound",
           "number": "1896-11",
           "label": "생음(Full Version)"
         },
