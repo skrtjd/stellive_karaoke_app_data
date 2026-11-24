@@ -1,5 +1,123 @@
 [
   {
+    "song_ID":"S000480",
+    "title": "비바해피",
+    "title_jp": "ビバハピ",
+    "originalArtist": "Mitchie M(feat.初音ミク)",
+    "tj": "68716",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44865",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "728467",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7625-93",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000479",
+    "title": "BLACKHOLE",
+    "title_jp": "ブラックホール",
+    "originalArtist": "IVE(아이브)",
+    "tj": "51784",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "50971",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "646246",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "1493-78",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000478",
+    "title": "학원천국",
+    "title_jp": "学園天国",
+    "originalArtist": "フィンガー5",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "73789",
+          "label": "일반 반주"
+        },
+        {
+          "type": "vocal_assist",
+          "number": "971210",
+          "label": "보컬 어시스트"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "908111",
+          "label": "기타 내비게이션"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "1542-03",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000477",
+    "title": "Poppin' Candy☆Fever!(팝핀 캔디☆피버!)",
+    "title_jp": "ポッピンキャンディ☆フィーバー!",
+    "originalArtist": "キノシタ(feat.音街ウナ, 鏡音リン)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "446877",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [
+        {
+          "type": "standard",
+          "number": "7648-31",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000476",
     "title": "Universe",
     "title_jp": "ユニバース",
