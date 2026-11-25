@@ -5,8 +5,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 
-ARCHIVE = ROOT / "data" / "archive.json"
-SOURCE = ROOT / "data"
+ARCHIVE = ROOT / "assets" / "data" / "archive.json"
+SOURCE = ROOT / "assets" / "data"
 OUTPUT = ROOT / "converted"
 
 CATEGORIES = {
