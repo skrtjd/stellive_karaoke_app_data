@@ -5,7 +5,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 
-ARCHIVE = ROOT / "archive.json"
+ARCHIVE = ROOT / "data" / "archive.json"
 SOURCE = ROOT / "data"
 OUTPUT = ROOT / "converted"
 
