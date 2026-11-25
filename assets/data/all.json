@@ -2332,6 +2332,24 @@
     }
   },
   {
+    "song_ID": "S000004",
+    "title": "最終花",
+    "title_jp": "最終花",
+    "originalArtist": "藍璃かんな",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "_source": {
+      "member": "kanna",
+      "category": "original",
+      "file": "assets/data/kanna/original.json",
+      "location": [
+        4
+      ]
+    }
+  },
+  {
     "title": "私は最強(나는 최강)",
     "originalArtist": "Ado",
     "tj": "52717",
