@@ -1,0 +1,31 @@
+
+name: Convert Songs to IDs
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Convert songs
+        run: python scripts/convert_to_ids.py
+
+      - name: Upload converted files
+        uses: actions/upload-artifact@v4
+        with:
+          name: converted-json
+          path: converted/
+          if-no-files-found: error
