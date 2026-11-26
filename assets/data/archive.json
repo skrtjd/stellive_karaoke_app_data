@@ -1,5 +1,58 @@
 [
   {
+    "song_ID":"S000500",
+    "title": "deja vu",
+    "title_jp": "デジャブ",
+    "originalArtist": "Olivia Rodrigo",
+    "tj": "23745",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [       
+        {
+          "type": "standard",
+          "number": "495040",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [        
+        {
+          "type": "standard",
+          "number": "4073-38",
+          "label": "일반 반주"
+        },
+        {
+          "type": "standard",
+          "number": "4104-75",
+          "label": "Nipponglish ver."
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000499",
+    "title": "Yin and Yang",
+    "title_jp": "インアンドヤン",
+    "originalArtist": "지코, 크러쉬[ZICO, Crush]",
+    "tj": "51540",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "50864",
+    "japan":
+    {
+      "joysound": [],
+      "dam": [        
+        {
+          "type": "standard",
+          "number": "1455-39",
+          "label": "일반 반주"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000498",
     "title": "asphyxia",
     "title_jp": "アスフィクシア ",
