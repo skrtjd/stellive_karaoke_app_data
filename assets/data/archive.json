@@ -1,5 +1,32 @@
 [
   {
+    "song_ID":"S000501",
+    "title": "브레인롯",
+    "title_jp": "ブレインロット",
+    "originalArtist": "東京真中(feat.重音テト)",
+    "tj": null,
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [       
+        {
+          "type": "standard",
+          "number": "645960",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [ 
+        {
+          "type": "official_video",
+          "number": "1446-73",
+          "label": "본인 영상"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000500",
     "title": "deja vu",
     "title_jp": "デジャブ",
