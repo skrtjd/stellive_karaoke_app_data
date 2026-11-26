@@ -1,5 +1,57 @@
 [
   {
+    "song_ID":"S000498",
+    "title": "asphyxia",
+    "title_jp": "アスフィクシア ",
+    "originalArtist": "Co shu Nie",
+    "tj": "28858",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": "44272",
+    "japan":
+    {
+      "joysound": [
+        {
+          "type": "standard",
+          "number": "428159",
+          "label": "일반 반주"
+        },
+        {
+          "type": "guitar_navi",
+          "number": "975718",
+          "label": "기타 내비게이션"
+        },
+        {
+          "type": "official_video",
+          "number": "488151",
+          "label": "From THE FIRST TAKE"
+        },
+        {
+          "type": "music_video",
+          "number": "853745",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [
+        {
+          "type": "official_video",
+          "number": "5115-15",
+          "label": "본인 영상"
+        },
+        {
+          "type": "anime_video",
+          "number": "1484-79",
+          "label": "애니메이션 영상 「東京喰種トーキョーグール:re」애니메이션 버"
+        },
+        {
+          "type": "official_video",
+          "number": "5244-29",
+          "label": "From THE FIRST TAKE"
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000497",
     "title": "Healer",
     "title_jp": null,
