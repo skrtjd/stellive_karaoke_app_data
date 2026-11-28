@@ -1,5 +1,73 @@
 [
   {
+    "title": "Toxic till the end",
+    "title_jp": "トクシックティルジエンド",
+    "originalArtist": "로제(ROSÉ)",
+    "tj": "44124",
+    "tj60": null,
+    "tj60mr": "64455",
+    "ky": "74648",
+    "japan":
+    {
+      "joysound": [       
+        {
+          "type": "standard",
+          "number": "633284",
+          "label": "일반 반주"
+        },
+        {
+          "type": "music_video",
+          "number": "519712",
+          "label": "뮤직비디오"
+        }
+      ],
+      "dam": [      
+        {
+          "type": "standard",
+          "number": "1026-30",
+          "label": "일반 반주"
+        },
+        {
+          "type": "standard",
+          "number": "1231-90",
+          "label": "Nipponglish ver."
+        }
+      ]
+    }
+  },
+  {
+    "song_ID":"S000500",
+    "title": "deja vu",
+    "title_jp": "デジャブ",
+    "originalArtist": "Olivia Rodrigo",
+    "tj": "23745",
+    "tj60": null,
+    "tj60mr": null,
+    "ky": null,
+    "japan":
+    {
+      "joysound": [       
+        {
+          "type": "standard",
+          "number": "495040",
+          "label": "일반 반주"
+        }
+      ],
+      "dam": [        
+        {
+          "type": "standard",
+          "number": "4073-38",
+          "label": "일반 반주"
+        },
+        {
+          "type": "standard",
+          "number": "4104-75",
+          "label": "Nipponglish ver."
+        }
+      ]
+    }
+  },
+  {
     "song_ID":"S000501",
     "title": "브레인롯",
     "title_jp": "ブレインロット",
